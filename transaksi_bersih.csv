@@ -1,0 +1,967 @@
+No,ID_Transaksi,Tanggal_Order,Email,Nama_Pelanggan,Kode_Sales,Kode_Cabang,Kode_Produk,Qty,Diskon_Persen,Status,Email_Bersih,Nama_Produk,Harga_Satuan,Nama_Cabang,Region,Nilai_Bersih,Kategori_Nilai
+2,TRX1016,2025-01-02,SATRIA.PRATAMA17@MAIL.COM,Satria Pratama,SL05,CB05,PR01,4.0,0.0,Lunas,satria.pratama17@mail.com,Rice Cooker,350000,Semarang,Jawa,1400000.0,Sedang
+3,TRX1022,2025-01-02,grace.wijaya160@mail.com,grace wijaya,SL03,CB03,PR12,1.0,0.0,Lunas,grace.wijaya160@mail.com,Mesin Cuci,2950000,Bandung,Jawa,2950000.0,Besar
+4,TRX1030,2025-01-02,Tiara.siregar89@mail.com,tiara siregar,SL07,CB07,PR01,5.0,0.0,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Palembang,Sumatera,1750000.0,Sedang
+6,TRX1005,2025-01-08,satria.pratama17@mail.com, Satria  Pratama ,SL17,CB07,PR03,2.0,0.0,Lunas,satria.pratama17@mail.com,Setrika,175000,Palembang,Sumatera,350000.0,Kecil
+7,TRX1032,2025-01-09,yoga.saputra146@mail.com,Yoga Saputra,SL05,CB05,PR03,2.0,0.05,Lunas,yoga.saputra146@mail.com,Setrika,175000,Semarang,Jawa,332500.0,Kecil
+9,TRX1028,2025-01-10,grace.wijaya160@mail.com,Grace Wijaya,SL19,CB09,PR08,5.0,0.0,Lunas,grace.wijaya160@mail.com,Air Fryer,899000,Balikpapan,Kalimantan,4495000.0,Besar
+10,TRX1026,2025-01-11,laras.kusuma64@mail.com,Laras Kusuma,SL01,CB01,PR03,2.0,0.2,Lunas,laras.kusuma64@mail.com,Setrika,175000,Jakarta Pusat,Jawa,280000.0,Kecil
+11,TRX1009,2025-01-13,  dimas.putri41@mail.com ,DIMAS PUTRI,SL02,CB02,PR13,3.0,0.1,Lunas,dimas.putri41@mail.com,AC 1 PK,3700000,Jakarta Selatan,Jawa,9990000.0,Besar
+12,TRX1013,2025-01-13,  grace.wijaya160@mail.com ,Grace Wijaya,SL02,CB02,PR15,5.0,0.2,Lunas,grace.wijaya160@mail.com,Smart TV 50 Inch,6500000,Jakarta Selatan,Jawa,26000000.0,Besar
+13,TRX1019,2025-01-13,grace.pratama84@mail.com,GRACE PRATAMA,SL09,CB09,PR04,3.0,0.15,Lunas,grace.pratama84@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,573750.0,Sedang
+15,TRX1031,2025-01-16,TIARA.SIREGAR89@MAIL.COM,tiara siregar,SL03,CB03,PR04,2.0,0.0,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Bandung,Jawa,450000.0,Kecil
+18,TRX1003,2025-01-18,YOGA.NUGROHO255@MAIL.COM, Yoga  Nugroho ,SL01,CB01,PR11,5.0,0.15,Lunas,yoga.nugroho255@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,10200000.0,Besar
+23,TRX1012,2025-01-20,FIKRI.SANTOSO254@MAIL.COM,Fikri Santoso,SL09,CB09,PR11,4.0,0.15,Lunas,fikri.santoso254@mail.com,Kulkas 1 Pintu,2400000,Balikpapan,Kalimantan,8160000.0,Besar
+24,TRX1021,2025-01-20,JESSICA.KUSUMA259@MAIL.COM,Jessica Kusuma,SL11,CB01,PR04,1.0,0.0,Lunas,jessica.kusuma259@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,225000.0,Kecil
+25,TRX1010,2025-01-22,dimas.gunawan11@mail.com,dimas gunawan,SL02,CB02,PR03,2.0,0.05,Lunas,dimas.gunawan11@mail.com,Setrika,175000,Jakarta Selatan,Jawa,332500.0,Kecil
+26,TRX1011,2025-01-23,grace.wijaya160@mail.com,Grace Wijaya,SL14,CB04,PR07,3.0,0.2,Lunas,grace.wijaya160@mail.com,Vacuum Cleaner,1450000,Surabaya,Jawa,3480000.0,Besar
+28,TRX1029,2025-01-23,  fikri.hidayat252@mail.com ,fikri hidayat,SL16,CB06,PR01,5.0,0.0,Lunas,fikri.hidayat252@mail.com,Rice Cooker,350000,Medan,Sumatera,1750000.0,Sedang
+30,TRX1006,2025-01-27,pandu.nugroho86@mail.com,Pandu Nugroho,SL11,CB01,PR08,3.0,0.05,Lunas,pandu.nugroho86@mail.com,Air Fryer,899000,Jakarta Pusat,Jawa,2562150.0,Besar
+31,TRX1008,2025-01-29,Kevin.hidayat144@mail.com, Kevin  Hidayat ,SL09,CB09,PR07,4.0,0.0,Lunas,kevin.hidayat144@mail.com,Vacuum Cleaner,1450000,Balikpapan,Kalimantan,5800000.0,Besar
+32,TRX1035,2025-01-29,ELSA.WIJAYA4@MAIL.COM,Elsa Wijaya,SL06,CB06,PR01,2.0,0.0,Lunas,elsa.wijaya4@mail.com,Rice Cooker,350000,Medan,Sumatera,700000.0,Sedang
+33,TRX1018,2025-01-30,BAYU.NUGROHO3@MAIL.COM, Bayu  Nugroho ,SL16,CB06,PR08,3.0,0.05,Lunas,bayu.nugroho3@mail.com,Air Fryer,899000,Medan,Sumatera,2562150.0,Besar
+34,TRX1027,2025-01-30,maya.kusuma134@mail.com,Maya Kusuma,SL13,CB03,PR08,1.0,0.2,Lunas,maya.kusuma134@mail.com,Air Fryer,899000,Bandung,Jawa,719200.0,Sedang
+35,TRX1001,2025-01-31,yoga.halim251@mail.com,Yoga Halim,SL19,CB09,PR09,1.0,0.0,Lunas,yoga.halim251@mail.com,Kompor Gas,520000,Balikpapan,Kalimantan,520000.0,Sedang
+36,TRX1025,2025-01-31,grace.wijaya154@mail.com,GRACE WIJAYA,SL13,CB03,PR07,4.0,0.15,Lunas,grace.wijaya154@mail.com,Vacuum Cleaner,1450000,Bandung,Jawa,4930000.0,Besar
+37,TRX1080,2025-02-01,yoga.nugroho255@mail.com, Yoga  Nugroho ,SL08,CB08,PR09,3.0,0.15,Lunas,yoga.nugroho255@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,1326000.0,Sedang
+38,TRX1068,2025-02-02,  tiara.siregar89@mail.com ,Tiara Siregar,SL06,CB06,PR05,1.0,0.15,Lunas,tiara.siregar89@mail.com,Dispenser,650000,Medan,Sumatera,552500.0,Sedang
+39,TRX1077,2025-02-02,Grace.wijaya160@mail.com,Grace Wijaya,SL07,CB07,PR14,2.0,0.0,Lunas,grace.wijaya160@mail.com,Water Heater,1650000,Palembang,Sumatera,3300000.0,Besar
+40,TRX1042,2025-02-03,agus.gunawan232@mail.com,AGUS GUNAWAN,SL19,CB09,PR06,3.0,0.2,Lunas,agus.gunawan232@mail.com,Microwave,1150000,Balikpapan,Kalimantan,2760000.0,Besar
+41,TRX1053,2025-02-03,  pandu.nugroho86@mail.com ,PANDU NUGROHO,SL08,CB08,PR09,5.0,0.1,Lunas,pandu.nugroho86@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,2340000.0,Besar
+42,TRX1040,2025-02-04,TIARA.WIJAYA90@MAIL.COM,tiara wijaya,SL05,CB05,PR07,3.0,0.2,Lunas,tiara.wijaya90@mail.com,Vacuum Cleaner,1450000,Semarang,Jawa,3480000.0,Besar
+43,TRX1041,2025-02-04,RANI.SAPUTRA145@MAIL.COM,Rani Saputra,SL03,CB03,PR01,2.0,0.2,Lunas,rani.saputra145@mail.com,Rice Cooker,350000,Bandung,Jawa,560000.0,Sedang
+44,TRX1064,2025-02-04,ilham.putri13@mail.com, Ilham  Putri ,SL15,CB05,PR13,1.0,0.0,Lunas,ilham.putri13@mail.com,AC 1 PK,3700000,Semarang,Jawa,3700000.0,Besar
+45,TRX1050,2025-02-06,rani.hidayat9@mail.com,Rani Hidayat,SL08,CB08,PR04,3.0,0.2,Lunas,rani.hidayat9@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,540000.0,Sedang
+46,TRX1065,2025-02-06,grace.wijaya154@mail.com, Grace  Wijaya ,SL10,CB10,PR15,4.0,0.0,Lunas,grace.wijaya154@mail.com,Smart TV 50 Inch,6500000,Makassar,Sulawesi,26000000.0,Besar
+50,TRX1061,2025-02-07,grace.wijaya154@mail.com,Grace Wijaya,SL13,CB03,PR03,1.0,0.0,Lunas,grace.wijaya154@mail.com,Setrika,175000,Bandung,Jawa,175000.0,Kecil
+51,TRX1071,2025-02-08,rani.wijaya229@mail.com,RANI WIJAYA,SL05,CB05,PR06,1.0,0.2,Lunas,rani.wijaya229@mail.com,Microwave,1150000,Semarang,Jawa,920000.0,Sedang
+52,TRX1069,2025-02-09,fikri.putri240@mail.com,Fikri Putri,SL03,CB03,PR09,2.0,0.15,Lunas,fikri.putri240@mail.com,Kompor Gas,520000,Bandung,Jawa,884000.0,Sedang
+54,TRX1056,2025-02-10,YOGA.NUGROHO255@MAIL.COM,YOGA NUGROHO,SL03,CB03,PR01,1.0,0.2,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Bandung,Jawa,280000.0,Kecil
+57,TRX1070,2025-02-10,pandu.kusuma246@mail.com,pandu kusuma,SL08,CB08,PR02,3.0,0.0,Lunas,pandu.kusuma246@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,840000.0,Sedang
+59,TRX1059,2025-02-12,JESSICA.SANTOSO242@MAIL.COM,JESSICA SANTOSO,SL19,CB09,PR12,1.0,0.0,Lunas,jessica.santoso242@mail.com,Mesin Cuci,2950000,Balikpapan,Kalimantan,2950000.0,Besar
+60,TRX1072,2025-02-12,ilham.lestari186@mail.com,Ilham Lestari,SL05,CB05,PR06,3.0,0.0,Lunas,ilham.lestari186@mail.com,Microwave,1150000,Semarang,Jawa,3450000.0,Besar
+61,TRX1073,2025-02-12,grace.wijaya160@mail.com,grace wijaya,SL03,CB03,PR04,4.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Bandung,Jawa,900000.0,Sedang
+62,TRX1060,2025-02-13,clara.kusuma120@mail.com,Clara Kusuma,SL08,CB08,PR03,3.0,0.2,Lunas,clara.kusuma120@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,420000.0,Kecil
+65,TRX1054,2025-02-14,kevin.wijaya152@mail.com,Kevin Wijaya,SL03,CB03,PR03,1.0,0.0,Lunas,kevin.wijaya152@mail.com,Setrika,175000,Bandung,Jawa,175000.0,Kecil
+66,TRX1062,2025-02-14,,agus halim,SL19,CB09,PR06,2.0,0.0,Lunas,,Microwave,1150000,Balikpapan,Kalimantan,2300000.0,Besar
+67,TRX1063,2025-02-14,fikri.lestari247@mail.com,FIKRI LESTARI,SL10,CB10,PR14,1.0,0.0,Lunas,fikri.lestari247@mail.com,Water Heater,1650000,Makassar,Sulawesi,1650000.0,Sedang
+68,TRX1038,2025-02-16,  jessica.nugroho91@mail.com , Jessica  Nugroho ,SL12,CB02,PR07,3.0,0.15,Lunas,jessica.nugroho91@mail.com,Vacuum Cleaner,1450000,Jakarta Selatan,Jawa,3697500.0,Besar
+69,TRX1082,2025-02-16,Bayu.nugroho215@mail.com,Bayu Nugroho,SL04,CB04,PR01,1.0,0.0,Lunas,bayu.nugroho215@mail.com,Rice Cooker,350000,Surabaya,Jawa,350000.0,Kecil
+70,TRX1051,2025-02-17,grace.wijaya160@mail.com, Grace  Wijaya ,SL18,CB08,PR04,2.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,450000.0,Kecil
+71,TRX1044,2025-02-18,Tiara.siregar89@mail.com,Tiara Siregar,SL14,CB04,PR06,2.0,0.1,Lunas,tiara.siregar89@mail.com,Microwave,1150000,Surabaya,Jawa,2070000.0,Besar
+74,TRX1048,2025-02-19,jessica.pratama226@mail.com,Jessica Pratama,SL02,CB02,PR06,2.0,0.0,Lunas,jessica.pratama226@mail.com,Microwave,1150000,Jakarta Selatan,Jawa,2300000.0,Besar
+75,TRX1047,2025-02-20,yoga.halim72@mail.com,YOGA HALIM,SL16,CB06,PR11,1.0,0.0,Lunas,yoga.halim72@mail.com,Kulkas 1 Pintu,2400000,Medan,Sumatera,2400000.0,Besar
+76,TRX1039,2025-02-21,  ilham.putri13@mail.com ,Ilham Putri,SL19,CB09,PR01,4.0,0.0,Lunas,ilham.putri13@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,1400000.0,Sedang
+77,TRX1045,2025-02-21,ilham.lestari186@mail.com,ilham lestari,SL07,CB07,PR04,1.0,0.2,Lunas,ilham.lestari186@mail.com,Kipas Angin,225000,Palembang,Sumatera,180000.0,Kecil
+78,TRX1058,2025-02-21,grace.wijaya160@mail.com,Grace Wijaya,SL18,CB08,PR04,1.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,225000.0,Kecil
+81,TRX1076,2025-02-21,maya.putri237@mail.com,Maya Putri,SL16,CB06,PR06,2.0,0.0,Lunas,maya.putri237@mail.com,Microwave,1150000,Medan,Sumatera,2300000.0,Besar
+82,TRX1049,2025-02-22,tiara.hidayat40@mail.com,tiara hidayat,SL07,CB07,PR11,1.0,0.2,Lunas,tiara.hidayat40@mail.com,Kulkas 1 Pintu,2400000,Palembang,Sumatera,1920000.0,Sedang
+83,TRX1075,2025-02-26,  nico.hidayat87@mail.com ,nico hidayat,SL17,CB07,PR02,1.0,0.1,Lunas,nico.hidayat87@mail.com,Blender,280000,Palembang,Sumatera,252000.0,Kecil
+85,TRX1078,2025-02-27,yoga.gunawan225@mail.com,Yoga Gunawan,SL01,CB01,PR05,1.0,0.1,Lunas,yoga.gunawan225@mail.com,Dispenser,650000,Jakarta Pusat,Jawa,585000.0,Sedang
+86,TRX1113,2025-03-01,grace.wijaya160@mail.com, Grace  Wijaya ,SL11,CB01,PR09,4.0,0.0,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Jakarta Pusat,Jawa,2080000.0,Besar
+87,TRX1122,2025-03-02,clara.kusuma120@mail.com,clara kusuma,SL01,CB01,PR06,5.0,0.0,Lunas,clara.kusuma120@mail.com,Microwave,1150000,Jakarta Pusat,Jawa,5750000.0,Besar
+89,TRX1110,2025-03-03,Kevin.santoso114@mail.com,KEVIN SANTOSO,SL12,CB02,PR02,3.0,0.05,Lunas,kevin.santoso114@mail.com,Blender,280000,Jakarta Selatan,Jawa,798000.0,Sedang
+90,TRX1083,2025-03-04,  satria.saputra47@mail.com ,satria saputra,SL12,CB02,PR15,1.0,0.0,Lunas,satria.saputra47@mail.com,Smart TV 50 Inch,6500000,Jakarta Selatan,Jawa,6500000.0,Besar
+93,TRX1120,2025-03-05,YOGA.KUSUMA80@MAIL.COM,Yoga Kusuma,SL14,CB04,PR02,1.0,0.05,Lunas,yoga.kusuma80@mail.com,Blender,280000,Surabaya,Jawa,266000.0,Kecil
+94,TRX1124,2025-03-05,tiara.pratama204@mail.com, Tiara  Pratama ,SL06,CB06,PR06,5.0,0.0,Lunas,tiara.pratama204@mail.com,Microwave,1150000,Medan,Sumatera,5750000.0,Besar
+95,TRX1094,2025-03-06,Yoga.halim72@mail.com,Yoga Halim,SL15,CB05,PR10,4.0,0.0,Lunas,yoga.halim72@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,7400000.0,Besar
+96,TRX1089,2025-03-07,ilham.hidayat137@mail.com,ilham hidayat,SL03,CB03,PR02,1.0,0.2,Lunas,ilham.hidayat137@mail.com,Blender,280000,Bandung,Jawa,224000.0,Kecil
+97,TRX1103,2025-03-07,GRACE.WIJAYA160@MAIL.COM,grace wijaya,SL14,CB04,PR12,5.0,0.0,Lunas,grace.wijaya160@mail.com,Mesin Cuci,2950000,Surabaya,Jawa,14750000.0,Besar
+98,TRX1115,2025-03-07,bayu.pratama139@mail.com,Bayu Pratama,SL20,CB10,PR14,4.0,0.05,Lunas,bayu.pratama139@mail.com,Water Heater,1650000,Makassar,Sulawesi,6270000.0,Besar
+99,TRX1131,2025-03-07,olivia.nugroho29@mail.com,Olivia Nugroho,SL04,CB04,PR06,5.0,0.0,Lunas,olivia.nugroho29@mail.com,Microwave,1150000,Surabaya,Jawa,5750000.0,Besar
+100,TRX1111,2025-03-08,ilham.lestari186@mail.com,Ilham Lestari,SL04,CB04,PR10,5.0,0.2,Lunas,ilham.lestari186@mail.com,TV LED 32 Inch,1850000,Surabaya,Jawa,7400000.0,Besar
+102,TRX1087,2025-03-10,yoga.nugroho255@mail.com,yoga nugroho,SL16,CB06,PR05,1.0,0.0,Lunas,yoga.nugroho255@mail.com,Dispenser,650000,Medan,Sumatera,650000.0,Sedang
+103,TRX1093,2025-03-10,  pandu.santoso130@mail.com ,Pandu Santoso,SL07,CB07,PR02,5.0,0.0,Lunas,pandu.santoso130@mail.com,Blender,280000,Palembang,Sumatera,1400000.0,Sedang
+104,TRX1107,2025-03-10,jessica.nugroho54@mail.com,Jessica Nugroho,SL16,CB06,PR02,1.0,0.2,Lunas,jessica.nugroho54@mail.com,Blender,280000,Medan,Sumatera,224000.0,Kecil
+106,TRX1098,2025-03-11,  yoga.putri200@mail.com ,Yoga Putri,SL02,CB02,PR04,1.0,0.05,Lunas,yoga.putri200@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,213750.0,Kecil
+107,TRX1128,2025-03-12,DIMAS.KUSUMA129@MAIL.COM,dimas kusuma,SL18,CB08,PR04,2.0,0.0,Lunas,dimas.kusuma129@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,450000.0,Kecil
+108,TRX1105,2025-03-13,satria.pratama17@mail.com,Satria Pratama,SL07,CB07,PR03,5.0,0.05,Lunas,satria.pratama17@mail.com,Setrika,175000,Palembang,Sumatera,831250.0,Sedang
+109,TRX1112,2025-03-13,GRACE.SIREGAR243@MAIL.COM,grace siregar,SL14,CB04,PR13,2.0,0.2,Lunas,grace.siregar243@mail.com,AC 1 PK,3700000,Surabaya,Jawa,5920000.0,Besar
+110,TRX1092,2025-03-14,  jessica.wijaya36@mail.com ,Jessica Wijaya,SL18,CB08,PR09,1.0,0.0,Lunas,jessica.wijaya36@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,520000.0,Sedang
+113,TRX1085,2025-03-15,  grace.wijaya160@mail.com , Grace  Wijaya ,SL07,CB07,PR10,2.0,0.0,Lunas,grace.wijaya160@mail.com,TV LED 32 Inch,1850000,Palembang,Sumatera,3700000.0,Besar
+114,TRX1100,2025-03-15,RANI.WIJAYA229@MAIL.COM,RANI WIJAYA,SL15,CB05,PR05,5.0,0.15,Lunas,rani.wijaya229@mail.com,Dispenser,650000,Semarang,Jawa,2762500.0,Besar
+115,TRX1090,2025-03-16,hana.gunawan31@mail.com,Hana Gunawan,SL06,CB06,PR01,1.0,0.0,Lunas,hana.gunawan31@mail.com,Rice Cooker,350000,Medan,Sumatera,350000.0,Kecil
+116,TRX1106,2025-03-16,Yoga.nugroho255@mail.com, Yoga  Nugroho ,SL02,CB02,PR05,5.0,0.0,Lunas,yoga.nugroho255@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,3250000.0,Besar
+117,TRX1130,2025-03-16,  yoga.kusuma80@mail.com ,yoga kusuma,SL07,CB07,PR13,5.0,0.2,Lunas,yoga.kusuma80@mail.com,AC 1 PK,3700000,Palembang,Sumatera,14800000.0,Besar
+118,TRX1097,2025-03-17,pandu.kusuma12@mail.com,PANDU KUSUMA,SL17,CB07,PR07,1.0,0.0,Lunas,pandu.kusuma12@mail.com,Vacuum Cleaner,1450000,Palembang,Sumatera,1450000.0,Sedang
+119,TRX1127,2025-03-17,olivia.santoso195@mail.com,Olivia Santoso,SL16,CB06,PR06,5.0,0.2,Lunas,olivia.santoso195@mail.com,Microwave,1150000,Medan,Sumatera,4600000.0,Besar
+120,TRX1109,2025-03-18,dimas.kusuma129@mail.com,DIMAS KUSUMA,SL18,CB08,PR05,3.0,0.0,Lunas,dimas.kusuma129@mail.com,Dispenser,650000,Denpasar,Bali & Nusa Tenggara,1950000.0,Sedang
+122,TRX1119,2025-03-20,maya.pratama68@mail.com,maya pratama,SL08,CB08,PR04,2.0,0.1,Lunas,maya.pratama68@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,405000.0,Kecil
+126,TRX1101,2025-03-22,  clara.siregar78@mail.com , Clara  Siregar ,SL13,CB03,PR02,1.0,0.2,Lunas,clara.siregar78@mail.com,Blender,280000,Bandung,Jawa,224000.0,Kecil
+127,TRX1118,2025-03-22,TIARA.SIREGAR89@MAIL.COM,Tiara Siregar,SL01,CB01,PR11,2.0,0.0,Lunas,tiara.siregar89@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,4800000.0,Besar
+128,TRX1126,2025-03-22,bayu.lestari219@mail.com,Bayu Lestari,SL11,CB01,PR10,5.0,0.0,Lunas,bayu.lestari219@mail.com,TV LED 32 Inch,1850000,Jakarta Pusat,Jawa,9250000.0,Besar
+129,TRX1086,2025-03-25,grace.putri166@mail.com,Grace Putri,SL06,CB06,PR15,1.0,0.1,Lunas,grace.putri166@mail.com,Smart TV 50 Inch,6500000,Medan,Sumatera,5850000.0,Besar
+130,TRX1099,2025-03-27,  elsa.pratama163@mail.com ,Elsa Pratama,SL18,CB08,PR01,4.0,0.0,Lunas,elsa.pratama163@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,1400000.0,Sedang
+131,TRX1102,2025-03-27,AGUS.WIJAYA58@MAIL.COM, Agus  Wijaya ,SL14,CB04,PR03,1.0,0.0,Lunas,agus.wijaya58@mail.com,Setrika,175000,Surabaya,Jawa,175000.0,Kecil
+132,TRX1114,2025-03-28,satria.wijaya194@mail.com,SATRIA WIJAYA,SL15,CB05,PR04,3.0,0.2,Lunas,satria.wijaya194@mail.com,Kipas Angin,225000,Semarang,Jawa,540000.0,Sedang
+133,TRX1123,2025-03-28,tiara.siregar89@mail.com,tiara siregar,SL10,CB10,PR01,5.0,0.0,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Makassar,Sulawesi,1750000.0,Sedang
+134,TRX1095,2025-03-29,nico.wijaya128@mail.com,Nico Wijaya,SL08,CB08,PR12,2.0,0.0,Lunas,nico.wijaya128@mail.com,Mesin Cuci,2950000,Denpasar,Bali & Nusa Tenggara,5900000.0,Besar
+137,TRX1096,2025-03-30,grace.wijaya160@mail.com,Grace Wijaya,SL13,CB03,PR09,2.0,0.0,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Bandung,Jawa,1040000.0,Sedang
+138,TRX1133,2025-03-30,maya.wijaya122@mail.com,maya wijaya,SL02,CB02,PR04,4.0,0.0,Lunas,maya.wijaya122@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,900000.0,Sedang
+139,TRX1121,2025-03-31,olivia.halim197@mail.com,Olivia Halim,SL01,CB01,PR01,3.0,0.1,Lunas,olivia.halim197@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,945000.0,Sedang
+140,TRX1125,2025-03-31,  olivia.nugroho29@mail.com ,Olivia Nugroho,SL07,CB07,PR03,1.0,0.15,Lunas,olivia.nugroho29@mail.com,Setrika,175000,Palembang,Sumatera,148750.0,Kecil
+144,TRX1168,2025-04-03,yoga.siregar132@mail.com,Yoga Siregar,SL16,CB06,PR01,1.0,0.2,Lunas,yoga.siregar132@mail.com,Rice Cooker,350000,Medan,Sumatera,280000.0,Kecil
+145,TRX1158,2025-04-05,yoga.nugroho255@mail.com,YOGA NUGROHO,SL15,CB05,PR04,5.0,0.0,Lunas,yoga.nugroho255@mail.com,Kipas Angin,225000,Semarang,Jawa,1125000.0,Sedang
+147,TRX1162,2025-04-05,satria.wijaya194@mail.com,Satria Wijaya,SL11,CB01,PR13,1.0,0.0,Lunas,satria.wijaya194@mail.com,AC 1 PK,3700000,Jakarta Pusat,Jawa,3700000.0,Besar
+148,TRX1157,2025-04-06,tiara.saputra76@mail.com,Tiara Saputra,SL03,CB03,PR04,2.0,0.0,Lunas,tiara.saputra76@mail.com,Kipas Angin,225000,Bandung,Jawa,450000.0,Kecil
+149,TRX1140,2025-04-07,  dimas.kusuma129@mail.com ,Dimas Kusuma,SL07,CB07,PR09,1.0,0.0,Lunas,dimas.kusuma129@mail.com,Kompor Gas,520000,Palembang,Sumatera,520000.0,Sedang
+150,TRX1145,2025-04-07,  yoga.halim72@mail.com ,Yoga Halim,SL01,CB01,PR04,1.0,0.05,Lunas,yoga.halim72@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,213750.0,Kecil
+152,TRX1141,2025-04-09,  olivia.wijaya230@mail.com ,olivia wijaya,SL13,CB03,PR01,5.0,0.0,Lunas,olivia.wijaya230@mail.com,Rice Cooker,350000,Bandung,Jawa,1750000.0,Sedang
+155,TRX1148,2025-04-11,SATRIA.WIJAYA194@MAIL.COM, Satria  Wijaya ,SL07,CB07,PR01,2.0,0.05,Lunas,satria.wijaya194@mail.com,Rice Cooker,350000,Palembang,Sumatera,665000.0,Sedang
+156,TRX1136,2025-04-13,  fikri.pratama135@mail.com ,Fikri Pratama,SL07,CB07,PR01,2.0,0.15,Lunas,fikri.pratama135@mail.com,Rice Cooker,350000,Palembang,Sumatera,595000.0,Sedang
+157,TRX1138,2025-04-13,satria.wijaya194@mail.com,SATRIA WIJAYA,SL19,CB09,PR08,4.0,0.0,Lunas,satria.wijaya194@mail.com,Air Fryer,899000,Balikpapan,Kalimantan,3596000.0,Besar
+158,TRX1151,2025-04-13,  fikri.putri240@mail.com ,fikri putri,SL19,CB09,PR06,1.0,0.0,Lunas,fikri.putri240@mail.com,Microwave,1150000,Balikpapan,Kalimantan,1150000.0,Sedang
+159,TRX1159,2025-04-13,  grace.santoso38@mail.com , Grace  Santoso ,SL14,CB04,PR02,1.0,0.05,Lunas,grace.santoso38@mail.com,Blender,280000,Surabaya,Jawa,266000.0,Kecil
+160,TRX1165,2025-04-13,tiara.siregar89@mail.com,Tiara Siregar,SL19,CB09,PR03,2.0,0.0,Lunas,tiara.siregar89@mail.com,Setrika,175000,Balikpapan,Kalimantan,350000.0,Kecil
+161,TRX1167,2025-04-14,olivia.santoso195@mail.com,Olivia Santoso,SL07,CB07,PR09,2.0,0.2,Lunas,olivia.santoso195@mail.com,Kompor Gas,520000,Palembang,Sumatera,832000.0,Sedang
+162,TRX1171,2025-04-14,PANDU.SANTOSO25@MAIL.COM, Pandu  Santoso ,SL08,CB08,PR11,2.0,0.0,Lunas,pandu.santoso25@mail.com,Kulkas 1 Pintu,2400000,Denpasar,Bali & Nusa Tenggara,4800000.0,Besar
+163,TRX1178,2025-04-14,grace.wijaya160@mail.com,GRACE WIJAYA,SL18,CB08,PR09,1.0,0.05,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,494000.0,Kecil
+164,TRX1137,2025-04-15,YOGA.NUGROHO255@MAIL.COM,Yoga Nugroho,SL03,CB03,PR12,2.0,0.0,Lunas,yoga.nugroho255@mail.com,Mesin Cuci,2950000,Bandung,Jawa,5900000.0,Besar
+165,TRX1154,2025-04-17,fikri.santoso254@mail.com,FIKRI SANTOSO,SL06,CB06,PR04,4.0,0.0,Lunas,fikri.santoso254@mail.com,Kipas Angin,225000,Medan,Sumatera,900000.0,Sedang
+168,TRX1172,2025-04-17,ilham.lestari186@mail.com,Ilham Lestari,SL06,CB06,PR11,1.0,0.0,Lunas,ilham.lestari186@mail.com,Kulkas 1 Pintu,2400000,Medan,Sumatera,2400000.0,Besar
+169,TRX1144,2025-04-18,dimas.gunawan136@mail.com,Dimas Gunawan,SL08,CB08,PR10,1.0,0.15,Lunas,dimas.gunawan136@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,1572500.0,Sedang
+171,TRX1169,2025-04-19,Jessica.halim115@mail.com,Jessica Halim,SL04,CB04,PR12,1.0,0.2,Lunas,jessica.halim115@mail.com,Mesin Cuci,2950000,Surabaya,Jawa,2360000.0,Besar
+172,TRX1150,2025-04-21,Satria.pratama258@mail.com, Satria  Pratama ,SL15,CB05,PR12,3.0,0.2,Lunas,satria.pratama258@mail.com,Mesin Cuci,2950000,Semarang,Jawa,7080000.0,Besar
+175,TRX1155,2025-04-23,RANI.SIREGAR113@MAIL.COM,Rani Siregar,SL08,CB08,PR02,1.0,0.15,Lunas,rani.siregar113@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,238000.0,Kecil
+176,TRX1173,2025-04-24,BAYU.PUTRI193@MAIL.COM,Bayu Putri,SL07,CB07,PR03,2.0,0.0,Lunas,bayu.putri193@mail.com,Setrika,175000,Palembang,Sumatera,350000.0,Kecil
+177,TRX1179,2025-04-24,  olivia.santoso195@mail.com ,Olivia Santoso,SL19,CB09,PR02,3.0,0.0,Lunas,olivia.santoso195@mail.com,Blender,280000,Balikpapan,Kalimantan,840000.0,Sedang
+180,TRX1142,2025-04-27,  grace.wijaya154@mail.com , Grace  Wijaya ,SL08,CB08,PR09,3.0,0.0,Lunas,grace.wijaya154@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,1560000.0,Sedang
+181,TRX1156,2025-04-27,YOGA.KUSUMA80@MAIL.COM, Yoga  Kusuma ,SL03,CB03,PR10,1.0,0.05,Lunas,yoga.kusuma80@mail.com,TV LED 32 Inch,1850000,Bandung,Jawa,1757500.0,Sedang
+183,TRX1153,2025-04-28,tiara.siregar89@mail.com,Tiara Siregar,SL02,CB02,PR02,2.0,0.2,Lunas,tiara.siregar89@mail.com,Blender,280000,Jakarta Selatan,Jawa,448000.0,Kecil
+185,TRX1161,2025-04-28,Grace.kusuma119@mail.com,grace kusuma,SL15,CB05,PR11,1.0,0.0,Lunas,grace.kusuma119@mail.com,Kulkas 1 Pintu,2400000,Semarang,Jawa,2400000.0,Besar
+187,TRX1139,2025-04-29,grace.wijaya160@mail.com,Grace Wijaya,SL16,CB06,PR04,2.0,0.1,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Medan,Sumatera,405000.0,Kecil
+188,TRX1166,2025-04-29,satria.wijaya194@mail.com,Satria Wijaya,SL18,CB08,PR03,1.0,0.2,Lunas,satria.wijaya194@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,140000.0,Kecil
+189,TRX1170,2025-04-29,  grace.wijaya160@mail.com ,Grace Wijaya,SL04,CB04,PR01,1.0,0.15,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Surabaya,Jawa,297500.0,Kecil
+190,TRX1184,2025-04-29,ilham.lestari186@mail.com,Ilham Lestari,SL06,CB06,PR05,5.0,0.05,Lunas,ilham.lestari186@mail.com,Dispenser,650000,Medan,Sumatera,3087500.0,Besar
+191,TRX1164,2025-04-30,rani.halim180@mail.com,Rani Halim,SL04,CB04,PR12,1.0,0.05,Lunas,rani.halim180@mail.com,Mesin Cuci,2950000,Surabaya,Jawa,2802500.0,Besar
+192,TRX1181,2025-04-30,tiara.siregar89@mail.com,Tiara Siregar,SL12,CB02,PR03,2.0,0.05,Lunas,tiara.siregar89@mail.com,Setrika,175000,Jakarta Selatan,Jawa,332500.0,Kecil
+193,TRX1183,2025-04-30,jessica.wijaya36@mail.com,JESSICA WIJAYA,SL16,CB06,PR05,4.0,0.0,Lunas,jessica.wijaya36@mail.com,Dispenser,650000,Medan,Sumatera,2600000.0,Besar
+194,TRX1185,2025-04-30,grace.wijaya160@mail.com, Grace  Wijaya ,SL20,CB10,PR01,2.0,0.15,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Makassar,Sulawesi,595000.0,Sedang
+195,TRX1218,2025-05-01,yoga.siregar132@mail.com,YOGA SIREGAR,SL16,CB06,PR01,4.0,0.0,Lunas,yoga.siregar132@mail.com,Rice Cooker,350000,Medan,Sumatera,1400000.0,Sedang
+197,TRX1231,2025-05-02,AGUS.GUNAWAN190@MAIL.COM,Agus Gunawan,SL16,CB06,PR08,3.0,0.0,Lunas,agus.gunawan190@mail.com,Air Fryer,899000,Medan,Sumatera,2697000.0,Besar
+198,TRX1234,2025-05-02,dimas.siregar143@mail.com,dimas siregar,SL16,CB06,PR03,4.0,0.0,Lunas,dimas.siregar143@mail.com,Setrika,175000,Medan,Sumatera,700000.0,Sedang
+199,TRX1249,2025-05-02,  clara.hidayat221@mail.com ,Clara Hidayat,SL04,CB04,PR06,4.0,0.0,Lunas,clara.hidayat221@mail.com,Microwave,1150000,Surabaya,Jawa,4600000.0,Besar
+202,TRX1197,2025-05-04,rani.wijaya229@mail.com,Rani Wijaya,SL14,CB04,PR02,3.0,0.0,Lunas,rani.wijaya229@mail.com,Blender,280000,Surabaya,Jawa,840000.0,Sedang
+203,TRX1220,2025-05-04,Nico.wijaya128@mail.com,Nico Wijaya,SL10,CB10,PR11,5.0,0.0,Lunas,nico.wijaya128@mail.com,Kulkas 1 Pintu,2400000,Makassar,Sulawesi,12000000.0,Besar
+206,TRX1189,2025-05-05,nico.hidayat141@mail.com,NICO HIDAYAT,SL03,CB03,PR11,3.0,0.15,Lunas,nico.hidayat141@mail.com,Kulkas 1 Pintu,2400000,Bandung,Jawa,6120000.0,Besar
+207,TRX1198,2025-05-05,grace.wijaya160@mail.com, Grace  Wijaya ,SL18,CB08,PR07,2.0,0.15,Lunas,grace.wijaya160@mail.com,Vacuum Cleaner,1450000,Denpasar,Bali & Nusa Tenggara,2465000.0,Besar
+208,TRX1214,2025-05-05,Grace.wijaya160@mail.com, Grace  Wijaya ,SL06,CB06,PR06,3.0,0.0,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Medan,Sumatera,3450000.0,Besar
+209,TRX1211,2025-05-06,  laras.kusuma64@mail.com ,laras kusuma,SL06,CB06,PR01,1.0,0.1,Lunas,laras.kusuma64@mail.com,Rice Cooker,350000,Medan,Sumatera,315000.0,Kecil
+212,TRX1199,2025-05-07,pandu.hidayat106@mail.com,pandu hidayat,SL08,CB08,PR01,1.0,0.0,Lunas,pandu.hidayat106@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,350000.0,Kecil
+214,TRX1221,2025-05-07,  tiara.siregar89@mail.com ,Tiara Siregar,SL14,CB04,PR04,2.0,0.0,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Surabaya,Jawa,450000.0,Kecil
+215,TRX1195,2025-05-08,TIARA.WIJAYA90@MAIL.COM,tiara wijaya,SL15,CB05,PR03,5.0,0.1,Lunas,tiara.wijaya90@mail.com,Setrika,175000,Semarang,Jawa,787500.0,Sedang
+216,TRX1201,2025-05-08,grace.wijaya160@mail.com, Grace  Wijaya ,SL16,CB06,PR01,1.0,0.2,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Medan,Sumatera,280000.0,Kecil
+217,TRX1212,2025-05-09,kevin.wijaya152@mail.com, Kevin  Wijaya ,SL15,CB05,PR01,1.0,0.0,Lunas,kevin.wijaya152@mail.com,Rice Cooker,350000,Semarang,Jawa,350000.0,Kecil
+218,TRX1223,2025-05-09,Grace.wijaya160@mail.com,grace wijaya,SL06,CB06,PR12,2.0,0.0,Lunas,grace.wijaya160@mail.com,Mesin Cuci,2950000,Medan,Sumatera,5900000.0,Besar
+219,TRX1246,2025-05-09,grace.wijaya160@mail.com,Grace Wijaya,SL15,CB05,PR06,1.0,0.2,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Semarang,Jawa,920000.0,Sedang
+222,TRX1238,2025-05-10,KEVIN.SIREGAR147@MAIL.COM,Kevin Siregar,SL02,CB02,PR08,1.0,0.0,Lunas,kevin.siregar147@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,899000.0,Sedang
+224,TRX1245,2025-05-10,Tiara.siregar89@mail.com,Tiara Siregar,SL09,CB09,PR04,5.0,0.1,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,1012500.0,Sedang
+225,TRX1215,2025-05-11,jessica.santoso242@mail.com,JESSICA SANTOSO,SL02,CB02,PR07,4.0,0.0,Lunas,jessica.santoso242@mail.com,Vacuum Cleaner,1450000,Jakarta Selatan,Jawa,5800000.0,Besar
+226,TRX1226,2025-05-11,  grace.wijaya160@mail.com ,grace wijaya,SL19,CB09,PR13,5.0,0.0,Lunas,grace.wijaya160@mail.com,AC 1 PK,3700000,Balikpapan,Kalimantan,18500000.0,Besar
+228,TRX1232,2025-05-11,agus.nugroho214@mail.com,agus nugroho,SL07,CB07,PR03,3.0,0.0,Lunas,agus.nugroho214@mail.com,Setrika,175000,Palembang,Sumatera,525000.0,Sedang
+229,TRX1237,2025-05-11,RANI.LESTARI46@MAIL.COM,Rani Lestari,SL11,CB01,PR09,1.0,0.05,Lunas,rani.lestari46@mail.com,Kompor Gas,520000,Jakarta Pusat,Jawa,494000.0,Kecil
+231,TRX1206,2025-05-12,jessica.saputra183@mail.com,Jessica Saputra,SL17,CB07,PR02,1.0,0.0,Lunas,jessica.saputra183@mail.com,Blender,280000,Palembang,Sumatera,280000.0,Kecil
+232,TRX1213,2025-05-15,Elsa.wijaya4@mail.com,Elsa Wijaya,SL12,CB02,PR05,1.0,0.0,Lunas,elsa.wijaya4@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,650000.0,Sedang
+234,TRX1242,2025-05-15,OLIVIA.WIJAYA88@MAIL.COM,Olivia Wijaya,SL12,CB02,PR01,1.0,0.1,Lunas,olivia.wijaya88@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,315000.0,Kecil
+235,TRX1244,2025-05-15,Grace.wijaya154@mail.com,GRACE WIJAYA,SL02,CB02,PR01,3.0,0.0,Lunas,grace.wijaya154@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,1050000.0,Sedang
+236,TRX1186,2025-05-16,  fikri.santoso254@mail.com ,fikri santoso,SL18,CB08,PR02,2.0,0.05,Lunas,fikri.santoso254@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,532000.0,Sedang
+238,TRX1187,2025-05-17,agus.gunawan190@mail.com,agus gunawan,SL09,CB09,PR01,1.0,0.15,Lunas,agus.gunawan190@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,297500.0,Kecil
+239,TRX1247,2025-05-17,YOGA.SAPUTRA168@MAIL.COM,Yoga Saputra,SL10,CB10,PR05,1.0,0.2,Lunas,yoga.saputra168@mail.com,Dispenser,650000,Makassar,Sulawesi,520000.0,Sedang
+240,TRX1200,2025-05-19,grace.wijaya160@mail.com,grace wijaya,SL19,CB09,PR09,4.0,0.05,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Balikpapan,Kalimantan,1976000.0,Sedang
+242,TRX1193,2025-05-20,Kevin.hidayat144@mail.com,KEVIN HIDAYAT,SL12,CB02,PR04,3.0,0.1,Lunas,kevin.hidayat144@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,607500.0,Sedang
+243,TRX1204,2025-05-20,ilham.santoso212@mail.com,ilham santoso,SL07,CB07,PR07,2.0,0.05,Lunas,ilham.santoso212@mail.com,Vacuum Cleaner,1450000,Palembang,Sumatera,2755000.0,Besar
+244,TRX1208,2025-05-20,TIARA.SIREGAR89@MAIL.COM,Tiara Siregar,SL16,CB06,PR02,4.0,0.2,Lunas,tiara.siregar89@mail.com,Blender,280000,Medan,Sumatera,896000.0,Sedang
+245,TRX1224,2025-05-22,grace.pratama84@mail.com,Grace Pratama,SL18,CB08,PR02,1.0,0.15,Lunas,grace.pratama84@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,238000.0,Kecil
+246,TRX1225,2025-05-22,  dimas.wijaya174@mail.com ,Dimas Wijaya,SL07,CB07,PR04,4.0,0.2,Lunas,dimas.wijaya174@mail.com,Kipas Angin,225000,Palembang,Sumatera,720000.0,Sedang
+248,TRX1203,2025-05-24,elsa.wijaya4@mail.com,Elsa Wijaya,SL06,CB06,PR14,5.0,0.0,Lunas,elsa.wijaya4@mail.com,Water Heater,1650000,Medan,Sumatera,8250000.0,Besar
+250,TRX1210,2025-05-25,NICO.WIJAYA127@MAIL.COM,Nico Wijaya,SL03,CB03,PR08,3.0,0.2,Lunas,nico.wijaya127@mail.com,Air Fryer,899000,Bandung,Jawa,2157600.0,Besar
+252,TRX1243,2025-05-25,jessica.wijaya36@mail.com,jessica wijaya,SL20,CB10,PR09,4.0,0.2,Lunas,jessica.wijaya36@mail.com,Kompor Gas,520000,Makassar,Sulawesi,1664000.0,Sedang
+253,TRX1227,2025-05-26,  tiara.siregar89@mail.com , Tiara  Siregar ,SL18,CB08,PR03,2.0,0.0,Lunas,tiara.siregar89@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,350000.0,Kecil
+254,TRX1194,2025-05-27,tiara.saputra76@mail.com,Tiara Saputra,SL18,CB08,PR05,1.0,0.0,Lunas,tiara.saputra76@mail.com,Dispenser,650000,Denpasar,Bali & Nusa Tenggara,650000.0,Sedang
+256,TRX1233,2025-05-27,  agus.putri116@mail.com ,Agus Putri,SL06,CB06,PR12,5.0,0.0,Lunas,agus.putri116@mail.com,Mesin Cuci,2950000,Medan,Sumatera,14750000.0,Besar
+257,TRX1192,2025-05-29,  yoga.nugroho255@mail.com ,YOGA NUGROHO,SL18,CB08,PR10,3.0,0.2,Lunas,yoga.nugroho255@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,4440000.0,Besar
+261,TRX1216,2025-05-31,fikri.putri240@mail.com,Fikri Putri,SL03,CB03,PR01,2.0,0.2,Lunas,fikri.putri240@mail.com,Rice Cooker,350000,Bandung,Jawa,560000.0,Sedang
+262,TRX1252,2025-06-02,rani.halim180@mail.com,Rani Halim,SL07,CB07,PR01,3.0,0.2,Lunas,rani.halim180@mail.com,Rice Cooker,350000,Palembang,Sumatera,840000.0,Sedang
+263,TRX1261,2025-06-02,jessica.siregar202@mail.com,Jessica Siregar,SL07,CB07,PR05,5.0,0.0,Lunas,jessica.siregar202@mail.com,Dispenser,650000,Palembang,Sumatera,3250000.0,Besar
+264,TRX1273,2025-06-02,grace.wijaya160@mail.com,Grace Wijaya,SL08,CB08,PR04,2.0,0.15,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,382500.0,Kecil
+266,TRX1269,2025-06-03,  grace.wijaya154@mail.com ,Grace Wijaya,SL02,CB02,PR13,1.0,0.15,Lunas,grace.wijaya154@mail.com,AC 1 PK,3700000,Jakarta Selatan,Jawa,3145000.0,Besar
+271,TRX1257,2025-06-05,yoga.putri200@mail.com, Yoga  Putri ,SL03,CB03,PR04,3.0,0.0,Lunas,yoga.putri200@mail.com,Kipas Angin,225000,Bandung,Jawa,675000.0,Sedang
+273,TRX1283,2025-06-05,  tiara.pratama204@mail.com ,tiara pratama,SL12,CB02,PR02,2.0,0.2,Lunas,tiara.pratama204@mail.com,Blender,280000,Jakarta Selatan,Jawa,448000.0,Kecil
+274,TRX1258,2025-06-06,  hana.gunawan31@mail.com ,Hana Gunawan,SL15,CB05,PR01,3.0,0.05,Lunas,hana.gunawan31@mail.com,Rice Cooker,350000,Semarang,Jawa,997500.0,Sedang
+275,TRX1266,2025-06-06,tiara.siregar89@mail.com,Tiara Siregar,SL17,CB07,PR01,2.0,0.0,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Palembang,Sumatera,700000.0,Sedang
+276,TRX1304,2025-06-06,nico.hidayat87@mail.com,nico hidayat,SL06,CB06,PR10,3.0,0.05,Lunas,nico.hidayat87@mail.com,TV LED 32 Inch,1850000,Medan,Sumatera,5272500.0,Besar
+277,TRX1296,2025-06-07,grace.wijaya160@mail.com,Grace Wijaya,SL04,CB04,PR08,1.0,0.0,Lunas,grace.wijaya160@mail.com,Air Fryer,899000,Surabaya,Jawa,899000.0,Sedang
+278,TRX1278,2025-06-08,kevin.hidayat144@mail.com, Kevin  Hidayat ,SL04,CB04,PR01,1.0,0.0,Lunas,kevin.hidayat144@mail.com,Rice Cooker,350000,Surabaya,Jawa,350000.0,Kecil
+279,TRX1300,2025-06-08,clara.kusuma120@mail.com,clara kusuma,SL07,CB07,PR02,3.0,0.05,Lunas,clara.kusuma120@mail.com,Blender,280000,Palembang,Sumatera,798000.0,Sedang
+281,TRX1301,2025-06-09,grace.wijaya160@mail.com,Grace Wijaya,SL12,CB02,PR03,5.0,0.2,Lunas,grace.wijaya160@mail.com,Setrika,175000,Jakarta Selatan,Jawa,700000.0,Sedang
+282,TRX1256,2025-06-10,yoga.nugroho255@mail.com, Yoga  Nugroho ,SL01,CB01,PR02,4.0,0.0,Lunas,yoga.nugroho255@mail.com,Blender,280000,Jakarta Pusat,Jawa,1120000.0,Sedang
+283,TRX1262,2025-06-11,Clara.kusuma120@mail.com,CLARA KUSUMA,SL07,CB07,PR06,2.0,0.0,Lunas,clara.kusuma120@mail.com,Microwave,1150000,Palembang,Sumatera,2300000.0,Besar
+285,TRX1254,2025-06-12,Pandu.santoso35@mail.com,PANDU SANTOSO,SL12,CB02,PR02,1.0,0.0,Lunas,pandu.santoso35@mail.com,Blender,280000,Jakarta Selatan,Jawa,280000.0,Kecil
+287,TRX1286,2025-06-12,satria.wijaya194@mail.com, Satria  Wijaya ,SL08,CB08,PR01,2.0,0.15,Lunas,satria.wijaya194@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,595000.0,Sedang
+288,TRX1290,2025-06-12,grace.wijaya160@mail.com,Grace Wijaya,SL10,CB10,PR01,1.0,0.15,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Makassar,Sulawesi,297500.0,Kecil
+289,TRX1260,2025-06-13,nico.nugroho155@mail.com,Nico Nugroho,SL02,CB02,PR10,2.0,0.2,Lunas,nico.nugroho155@mail.com,TV LED 32 Inch,1850000,Jakarta Selatan,Jawa,2960000.0,Besar
+290,TRX1295,2025-06-13,pandu.kusuma246@mail.com,pandu kusuma,SL06,CB06,PR08,2.0,0.05,Lunas,pandu.kusuma246@mail.com,Air Fryer,899000,Medan,Sumatera,1708100.0,Sedang
+291,TRX1303,2025-06-13,  agus.putri116@mail.com ,Agus Putri,SL17,CB07,PR01,3.0,0.05,Lunas,agus.putri116@mail.com,Rice Cooker,350000,Palembang,Sumatera,997500.0,Sedang
+292,TRX1289,2025-06-14,tiara.siregar89@mail.com,Tiara Siregar,SL08,CB08,PR01,2.0,0.15,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,595000.0,Sedang
+293,TRX1288,2025-06-15,  grace.wijaya154@mail.com ,Grace Wijaya,SL02,CB02,PR08,5.0,0.15,Lunas,grace.wijaya154@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,3820750.0,Besar
+294,TRX1280,2025-06-16,rani.wijaya229@mail.com, Rani  Wijaya ,SL10,CB10,PR06,1.0,0.1,Lunas,rani.wijaya229@mail.com,Microwave,1150000,Makassar,Sulawesi,1035000.0,Sedang
+295,TRX1287,2025-06-16,  nico.hidayat87@mail.com ,NICO HIDAYAT,SL08,CB08,PR04,5.0,0.0,Lunas,nico.hidayat87@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,1125000.0,Sedang
+296,TRX1264,2025-06-18,grace.santoso83@mail.com,Grace Santoso,SL03,CB03,PR01,1.0,0.0,Lunas,grace.santoso83@mail.com,Rice Cooker,350000,Bandung,Jawa,350000.0,Kecil
+297,TRX1271,2025-06-18,kevin.pratama175@mail.com,Kevin Pratama,SL05,CB05,PR03,3.0,0.2,Lunas,kevin.pratama175@mail.com,Setrika,175000,Semarang,Jawa,420000.0,Kecil
+298,TRX1276,2025-06-18,grace.gunawan201@mail.com,Grace Gunawan,SL07,CB07,PR07,1.0,0.0,Lunas,grace.gunawan201@mail.com,Vacuum Cleaner,1450000,Palembang,Sumatera,1450000.0,Sedang
+299,TRX1255,2025-06-19,JESSICA.PUTRI138@MAIL.COM, Jessica  Putri ,SL16,CB06,PR01,3.0,0.2,Lunas,jessica.putri138@mail.com,Rice Cooker,350000,Medan,Sumatera,840000.0,Sedang
+301,TRX1285,2025-06-19,GRACE.WIJAYA160@MAIL.COM,Grace Wijaya,SL13,CB03,PR08,3.0,0.05,Lunas,grace.wijaya160@mail.com,Air Fryer,899000,Bandung,Jawa,2562150.0,Besar
+302,TRX1282,2025-06-20,GRACE.WIJAYA154@MAIL.COM,grace wijaya,SL18,CB08,PR05,2.0,0.1,Lunas,grace.wijaya154@mail.com,Dispenser,650000,Denpasar,Bali & Nusa Tenggara,1170000.0,Sedang
+303,TRX1299,2025-06-21,grace.gunawan99@mail.com,Grace Gunawan,SL01,CB01,PR01,2.0,0.0,Lunas,grace.gunawan99@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,700000.0,Sedang
+304,TRX1250,2025-06-22,grace.wijaya98@mail.com,Grace Wijaya,SL01,CB01,PR02,1.0,0.1,Lunas,grace.wijaya98@mail.com,Blender,280000,Jakarta Pusat,Jawa,252000.0,Kecil
+306,TRX1272,2025-06-23,  maya.wijaya122@mail.com ,Maya Wijaya,SL06,CB06,PR15,1.0,0.05,Lunas,maya.wijaya122@mail.com,Smart TV 50 Inch,6500000,Medan,Sumatera,6175000.0,Besar
+308,TRX1274,2025-06-24,grace.wijaya160@mail.com,grace wijaya,SL04,CB04,PR07,2.0,0.2,Lunas,grace.wijaya160@mail.com,Vacuum Cleaner,1450000,Surabaya,Jawa,2320000.0,Besar
+311,TRX1259,2025-06-26,ILHAM.WIJAYA217@MAIL.COM,Ilham Wijaya,SL15,CB05,PR01,1.0,0.0,Lunas,ilham.wijaya217@mail.com,Rice Cooker,350000,Semarang,Jawa,350000.0,Kecil
+313,TRX1275,2025-06-27,grace.wijaya154@mail.com,GRACE WIJAYA,SL02,CB02,PR08,1.0,0.0,Lunas,grace.wijaya154@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,899000.0,Sedang
+314,TRX1292,2025-06-28,RANI.PRATAMA51@MAIL.COM,rani pratama,SL05,CB05,PR01,4.0,0.0,Lunas,rani.pratama51@mail.com,Rice Cooker,350000,Semarang,Jawa,1400000.0,Sedang
+316,TRX1298,2025-06-29,jessica.pratama226@mail.com, Jessica  Pratama ,SL19,CB09,PR02,5.0,0.1,Lunas,jessica.pratama226@mail.com,Blender,280000,Balikpapan,Kalimantan,1260000.0,Sedang
+317,TRX1251,2025-06-30,Tiara.siregar89@mail.com,TIARA SIREGAR,SL20,CB10,PR08,2.0,0.1,Lunas,tiara.siregar89@mail.com,Air Fryer,899000,Makassar,Sulawesi,1618200.0,Sedang
+318,TRX1268,2025-06-30,kevin.lestari165@mail.com,kevin lestari,SL11,CB01,PR04,2.0,0.0,Lunas,kevin.lestari165@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,450000.0,Kecil
+320,TRX1325,2025-07-02,  jessica.putri167@mail.com ,Jessica Putri,SL03,CB03,PR01,2.0,0.05,Lunas,jessica.putri167@mail.com,Rice Cooker,350000,Bandung,Jawa,665000.0,Sedang
+321,TRX1333,2025-07-02,FIKRI.PUTRI240@MAIL.COM,FIKRI PUTRI,SL01,CB01,PR07,2.0,0.2,Lunas,fikri.putri240@mail.com,Vacuum Cleaner,1450000,Jakarta Pusat,Jawa,2320000.0,Besar
+322,TRX1356,2025-07-02,satria.wijaya194@mail.com,Satria Wijaya,SL17,CB07,PR03,1.0,0.0,Lunas,satria.wijaya194@mail.com,Setrika,175000,Palembang,Sumatera,175000.0,Kecil
+325,TRX1354,2025-07-03,Pandu.kusuma246@mail.com,Pandu Kusuma,SL06,CB06,PR03,1.0,0.05,Lunas,pandu.kusuma246@mail.com,Setrika,175000,Medan,Sumatera,166250.0,Kecil
+326,TRX1362,2025-07-03,Dimas.halim178@mail.com,Dimas Halim,SL11,CB01,PR12,1.0,0.2,Lunas,dimas.halim178@mail.com,Mesin Cuci,2950000,Jakarta Pusat,Jawa,2360000.0,Besar
+327,TRX1371,2025-07-03,Jessica.pratama27@mail.com,jessica pratama,SL19,CB09,PR04,2.0,0.15,Lunas,jessica.pratama27@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,382500.0,Kecil
+328,TRX1343,2025-07-05,elsa.wijaya4@mail.com,elsa wijaya,SL02,CB02,PR02,3.0,0.2,Lunas,elsa.wijaya4@mail.com,Blender,280000,Jakarta Selatan,Jawa,672000.0,Sedang
+330,TRX1357,2025-07-06,bayu.nugroho3@mail.com,Bayu Nugroho,SL15,CB05,PR08,2.0,0.2,Lunas,bayu.nugroho3@mail.com,Air Fryer,899000,Semarang,Jawa,1438400.0,Sedang
+331,TRX1315,2025-07-07,yoga.halim72@mail.com,YOGA HALIM,SL09,CB09,PR04,4.0,0.15,Lunas,yoga.halim72@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,765000.0,Sedang
+332,TRX1327,2025-07-07,  fikri.gunawan131@mail.com , Fikri  Gunawan ,SL15,CB05,PR10,3.0,0.05,Lunas,fikri.gunawan131@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,5272500.0,Besar
+333,TRX1350,2025-07-07,,BAYU SIREGAR,SL14,CB04,PR10,5.0,0.1,Lunas,,TV LED 32 Inch,1850000,Surabaya,Jawa,8325000.0,Besar
+334,TRX1363,2025-07-07,yoga.kusuma80@mail.com,Yoga Kusuma,SL11,CB01,PR08,2.0,0.0,Lunas,yoga.kusuma80@mail.com,Air Fryer,899000,Jakarta Pusat,Jawa,1798000.0,Sedang
+335,TRX1307,2025-07-08,ilham.lestari186@mail.com,Ilham Lestari,SL02,CB02,PR08,1.0,0.0,Lunas,ilham.lestari186@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,899000.0,Sedang
+336,TRX1310,2025-07-08,rani.wijaya229@mail.com,RANI WIJAYA,SL16,CB06,PR02,3.0,0.05,Lunas,rani.wijaya229@mail.com,Blender,280000,Medan,Sumatera,798000.0,Sedang
+337,TRX1341,2025-07-08,Grace.wijaya160@mail.com,Grace Wijaya,SL20,CB10,PR07,2.0,0.1,Lunas,grace.wijaya160@mail.com,Vacuum Cleaner,1450000,Makassar,Sulawesi,2610000.0,Besar
+338,TRX1360,2025-07-08,  yoga.kusuma80@mail.com ,Yoga Kusuma,SL08,CB08,PR05,1.0,0.1,Lunas,yoga.kusuma80@mail.com,Dispenser,650000,Denpasar,Bali & Nusa Tenggara,585000.0,Sedang
+340,TRX1320,2025-07-09,RANI.HIDAYAT148@MAIL.COM,Rani Hidayat,SL19,CB09,PR02,1.0,0.05,Lunas,rani.hidayat148@mail.com,Blender,280000,Balikpapan,Kalimantan,266000.0,Kecil
+341,TRX1326,2025-07-09,fikri.putri240@mail.com,Fikri Putri,SL09,CB09,PR08,1.0,0.1,Lunas,fikri.putri240@mail.com,Air Fryer,899000,Balikpapan,Kalimantan,809100.0,Sedang
+342,TRX1334,2025-07-09,YOGA.KUSUMA80@MAIL.COM,yoga kusuma,SL10,CB10,PR04,2.0,0.0,Lunas,yoga.kusuma80@mail.com,Kipas Angin,225000,Makassar,Sulawesi,450000.0,Kecil
+343,TRX1340,2025-07-09,BAYU.SIREGAR16@MAIL.COM,bayu siregar,SL16,CB06,PR15,1.0,0.1,Lunas,bayu.siregar16@mail.com,Smart TV 50 Inch,6500000,Medan,Sumatera,5850000.0,Besar
+344,TRX1365,2025-07-09,  fikri.gunawan131@mail.com ,fikri gunawan,SL10,CB10,PR04,5.0,0.0,Lunas,fikri.gunawan131@mail.com,Kipas Angin,225000,Makassar,Sulawesi,1125000.0,Sedang
+345,TRX1367,2025-07-09,fikri.putri240@mail.com,Fikri Putri,SL13,CB03,PR03,1.0,0.0,Lunas,fikri.putri240@mail.com,Setrika,175000,Bandung,Jawa,175000.0,Kecil
+346,TRX1319,2025-07-10,PANDU.SAPUTRA67@MAIL.COM,Pandu Saputra,SL02,CB02,PR12,2.0,0.15,Lunas,pandu.saputra67@mail.com,Mesin Cuci,2950000,Jakarta Selatan,Jawa,5015000.0,Besar
+347,TRX1332,2025-07-10,GRACE.WIJAYA154@MAIL.COM, Grace  Wijaya ,SL13,CB03,PR01,2.0,0.0,Lunas,grace.wijaya154@mail.com,Rice Cooker,350000,Bandung,Jawa,700000.0,Sedang
+348,TRX1353,2025-07-10,ilham.lestari186@mail.com,ILHAM LESTARI,SL01,CB01,PR12,4.0,0.05,Lunas,ilham.lestari186@mail.com,Mesin Cuci,2950000,Jakarta Pusat,Jawa,11210000.0,Besar
+349,TRX1355,2025-07-10,grace.wijaya160@mail.com,Grace Wijaya,SL20,CB10,PR02,1.0,0.0,Lunas,grace.wijaya160@mail.com,Blender,280000,Makassar,Sulawesi,280000.0,Kecil
+350,TRX1306,2025-07-11,  ilham.lestari186@mail.com ,Ilham Lestari,SL08,CB08,PR10,4.0,0.1,Lunas,ilham.lestari186@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,6660000.0,Besar
+352,TRX1335,2025-07-11,NICO.NUGROHO155@MAIL.COM,Nico Nugroho,SL03,CB03,PR06,1.0,0.0,Lunas,nico.nugroho155@mail.com,Microwave,1150000,Bandung,Jawa,1150000.0,Sedang
+355,TRX1313,2025-07-13,  elsa.wijaya59@mail.com ,Elsa Wijaya,SL20,CB10,PR12,1.0,0.2,Lunas,elsa.wijaya59@mail.com,Mesin Cuci,2950000,Makassar,Sulawesi,2360000.0,Besar
+356,TRX1348,2025-07-13,kevin.hidayat144@mail.com,Kevin Hidayat,SL12,CB02,PR08,2.0,0.15,Lunas,kevin.hidayat144@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,1528300.0,Sedang
+357,TRX1329,2025-07-14,  satria.wijaya194@mail.com ,Satria Wijaya,SL11,CB01,PR05,1.0,0.15,Lunas,satria.wijaya194@mail.com,Dispenser,650000,Jakarta Pusat,Jawa,552500.0,Sedang
+358,TRX1317,2025-07-16,clara.hidayat221@mail.com,Clara Hidayat,SL05,CB05,PR08,4.0,0.1,Lunas,clara.hidayat221@mail.com,Air Fryer,899000,Semarang,Jawa,3236400.0,Besar
+360,TRX1344,2025-07-17,elsa.saputra94@mail.com,elsa saputra,SL10,CB10,PR14,1.0,0.15,Lunas,elsa.saputra94@mail.com,Water Heater,1650000,Makassar,Sulawesi,1402500.0,Sedang
+362,TRX1338,2025-07-21,KEVIN.SANTOSO114@MAIL.COM,Kevin Santoso,SL09,CB09,PR14,2.0,0.1,Lunas,kevin.santoso114@mail.com,Water Heater,1650000,Balikpapan,Kalimantan,2970000.0,Besar
+363,TRX1346,2025-07-21,hana.kusuma196@mail.com,HANA KUSUMA,SL09,CB09,PR01,5.0,0.2,Lunas,hana.kusuma196@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,1400000.0,Sedang
+364,TRX1359,2025-07-21,grace.santoso38@mail.com,Grace Santoso,SL09,CB09,PR10,2.0,0.1,Lunas,grace.santoso38@mail.com,TV LED 32 Inch,1850000,Balikpapan,Kalimantan,3330000.0,Besar
+366,TRX1309,2025-07-22,kevin.kusuma222@mail.com,Kevin Kusuma,SL08,CB08,PR06,2.0,0.0,Lunas,kevin.kusuma222@mail.com,Microwave,1150000,Denpasar,Bali & Nusa Tenggara,2300000.0,Besar
+368,TRX1328,2025-07-22,  yoga.putri200@mail.com , Yoga  Putri ,SL01,CB01,PR08,3.0,0.2,Lunas,yoga.putri200@mail.com,Air Fryer,899000,Jakarta Pusat,Jawa,2157600.0,Besar
+369,TRX1366,2025-07-22,fikri.hidayat252@mail.com,FIKRI HIDAYAT,SL07,CB07,PR08,3.0,0.15,Lunas,fikri.hidayat252@mail.com,Air Fryer,899000,Palembang,Sumatera,2292450.0,Besar
+370,TRX1322,2025-07-23,bayu.hidayat34@mail.com,Bayu Hidayat,SL05,CB05,PR15,4.0,0.15,Lunas,bayu.hidayat34@mail.com,Smart TV 50 Inch,6500000,Semarang,Jawa,22100000.0,Besar
+371,TRX1342,2025-07-23,grace.wijaya160@mail.com,GRACE WIJAYA,SL12,CB02,PR08,3.0,0.2,Lunas,grace.wijaya160@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,2157600.0,Besar
+372,TRX1323,2025-07-24,CLARA.SIREGAR164@MAIL.COM,Clara Siregar,SL10,CB10,PR15,2.0,0.0,Lunas,clara.siregar164@mail.com,Smart TV 50 Inch,6500000,Makassar,Sulawesi,13000000.0,Besar
+373,TRX1330,2025-07-24,tiara.nugroho30@mail.com,Tiara Nugroho,SL03,CB03,PR04,2.0,0.1,Lunas,tiara.nugroho30@mail.com,Kipas Angin,225000,Bandung,Jawa,405000.0,Kecil
+374,TRX1349,2025-07-24,TIARA.SIREGAR89@MAIL.COM,TIARA SIREGAR,SL20,CB10,PR07,2.0,0.0,Lunas,tiara.siregar89@mail.com,Vacuum Cleaner,1450000,Makassar,Sulawesi,2900000.0,Besar
+375,TRX1352,2025-07-24,nico.hidayat87@mail.com,nico hidayat,SL15,CB05,PR01,4.0,0.0,Lunas,nico.hidayat87@mail.com,Rice Cooker,350000,Semarang,Jawa,1400000.0,Sedang
+376,TRX1368,2025-07-24,  bayu.siregar66@mail.com ,bayu siregar,SL20,CB10,PR03,5.0,0.1,Lunas,bayu.siregar66@mail.com,Setrika,175000,Makassar,Sulawesi,787500.0,Sedang
+379,TRX1312,2025-07-26,  kevin.siregar147@mail.com ,Kevin Siregar,SL11,CB01,PR04,2.0,0.1,Lunas,kevin.siregar147@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,405000.0,Kecil
+382,TRX1311,2025-07-27,nico.hidayat61@mail.com,nico hidayat,SL04,CB04,PR02,2.0,0.0,Lunas,nico.hidayat61@mail.com,Blender,280000,Surabaya,Jawa,560000.0,Sedang
+385,TRX1316,2025-07-30,jessica.santoso15@mail.com,jessica santoso,SL12,CB02,PR09,2.0,0.0,Lunas,jessica.santoso15@mail.com,Kompor Gas,520000,Jakarta Selatan,Jawa,1040000.0,Sedang
+386,TRX1331,2025-07-30,ilham.lestari186@mail.com, Ilham  Lestari ,SL04,CB04,PR08,2.0,0.2,Lunas,ilham.lestari186@mail.com,Air Fryer,899000,Surabaya,Jawa,1438400.0,Sedang
+387,TRX1308,2025-07-31,yoga.gunawan225@mail.com,yoga gunawan,SL07,CB07,PR11,1.0,0.0,Lunas,yoga.gunawan225@mail.com,Kulkas 1 Pintu,2400000,Palembang,Sumatera,2400000.0,Besar
+389,TRX1395,2025-08-01,olivia.nugroho29@mail.com,Olivia Nugroho,SL01,CB01,PR07,1.0,0.0,Lunas,olivia.nugroho29@mail.com,Vacuum Cleaner,1450000,Jakarta Pusat,Jawa,1450000.0,Sedang
+390,TRX1417,2025-08-01,satria.wijaya194@mail.com,Satria Wijaya,SL07,CB07,PR03,4.0,0.15,Lunas,satria.wijaya194@mail.com,Setrika,175000,Palembang,Sumatera,595000.0,Sedang
+391,TRX1372,2025-08-02,grace.wijaya160@mail.com,grace wijaya,SL16,CB06,PR09,1.0,0.15,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Medan,Sumatera,442000.0,Kecil
+392,TRX1375,2025-08-03,nico.hidayat37@mail.com,Nico Hidayat,SL01,CB01,PR01,3.0,0.0,Lunas,nico.hidayat37@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,1050000.0,Sedang
+393,TRX1386,2025-08-04,tiara.siregar89@mail.com,Tiara Siregar,SL06,CB06,PR06,1.0,0.0,Lunas,tiara.siregar89@mail.com,Microwave,1150000,Medan,Sumatera,1150000.0,Sedang
+394,TRX1391,2025-08-04,  elsa.saputra94@mail.com ,elsa saputra,SL11,CB01,PR08,1.0,0.05,Lunas,elsa.saputra94@mail.com,Air Fryer,899000,Jakarta Pusat,Jawa,854050.0,Sedang
+395,TRX1378,2025-08-05,  ilham.wijaya217@mail.com ,ilham wijaya,SL05,CB05,PR03,1.0,0.0,Lunas,ilham.wijaya217@mail.com,Setrika,175000,Semarang,Jawa,175000.0,Kecil
+396,TRX1400,2025-08-05,fikri.saputra199@mail.com,Fikri Saputra,SL05,CB05,PR01,2.0,0.1,Lunas,fikri.saputra199@mail.com,Rice Cooker,350000,Semarang,Jawa,630000.0,Sedang
+397,TRX1439,2025-08-05,ilham.halim109@mail.com,ILHAM HALIM,SL01,CB01,PR03,5.0,0.0,Lunas,ilham.halim109@mail.com,Setrika,175000,Jakarta Pusat,Jawa,875000.0,Sedang
+398,TRX1414,2025-08-06,tiara.siregar89@mail.com,TIARA SIREGAR,SL11,CB01,PR01,1.0,0.2,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,280000.0,Kecil
+399,TRX1406,2025-08-07,grace.wijaya160@mail.com, Grace  Wijaya ,SL13,CB03,PR08,2.0,0.2,Lunas,grace.wijaya160@mail.com,Air Fryer,899000,Bandung,Jawa,1438400.0,Sedang
+403,TRX1411,2025-08-09,jessica.pratama27@mail.com, Jessica  Pratama ,SL01,CB01,PR04,1.0,0.2,Lunas,jessica.pratama27@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,180000.0,Kecil
+404,TRX1430,2025-08-09,hana.halim100@mail.com,Hana Halim,SL02,CB02,PR10,2.0,0.0,Lunas,hana.halim100@mail.com,TV LED 32 Inch,1850000,Jakarta Selatan,Jawa,3700000.0,Besar
+405,TRX1396,2025-08-10,GRACE.WIJAYA160@MAIL.COM,grace wijaya,SL20,CB10,PR01,3.0,0.0,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Makassar,Sulawesi,1050000.0,Sedang
+406,TRX1428,2025-08-10,laras.kusuma64@mail.com,LARAS KUSUMA,SL17,CB07,PR12,2.0,0.15,Lunas,laras.kusuma64@mail.com,Mesin Cuci,2950000,Palembang,Sumatera,5015000.0,Besar
+407,TRX1399,2025-08-11,  ilham.halim109@mail.com ,Ilham Halim,SL04,CB04,PR06,5.0,0.05,Lunas,ilham.halim109@mail.com,Microwave,1150000,Surabaya,Jawa,5462500.0,Besar
+408,TRX1415,2025-08-11,ilham.lestari186@mail.com,ilham lestari,SL12,CB02,PR10,3.0,0.0,Lunas,ilham.lestari186@mail.com,TV LED 32 Inch,1850000,Jakarta Selatan,Jawa,5550000.0,Besar
+409,TRX1401,2025-08-13,TIARA.SANTOSO191@MAIL.COM,TIARA SANTOSO,SL08,CB08,PR01,1.0,0.05,Lunas,tiara.santoso191@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,332500.0,Kecil
+410,TRX1435,2025-08-13,Bayu.putri193@mail.com,Bayu Putri,SL15,CB05,PR10,2.0,0.0,Lunas,bayu.putri193@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,3700000.0,Besar
+411,TRX1384,2025-08-14,DIMAS.GUNAWAN136@MAIL.COM,dimas gunawan,SL10,CB10,PR01,2.0,0.0,Lunas,dimas.gunawan136@mail.com,Rice Cooker,350000,Makassar,Sulawesi,700000.0,Sedang
+412,TRX1397,2025-08-14,elsa.wijaya4@mail.com,Elsa Wijaya,SL07,CB07,PR08,4.0,0.0,Lunas,elsa.wijaya4@mail.com,Air Fryer,899000,Palembang,Sumatera,3596000.0,Besar
+413,TRX1426,2025-08-14,kevin.hidayat144@mail.com, Kevin  Hidayat ,SL13,CB03,PR01,1.0,0.2,Lunas,kevin.hidayat144@mail.com,Rice Cooker,350000,Bandung,Jawa,280000.0,Kecil
+415,TRX1427,2025-08-15,kevin.gunawan5@mail.com,KEVIN GUNAWAN,SL16,CB06,PR02,3.0,0.1,Lunas,kevin.gunawan5@mail.com,Blender,280000,Medan,Sumatera,756000.0,Sedang
+416,TRX1429,2025-08-15,yoga.siregar132@mail.com,Yoga Siregar,SL01,CB01,PR15,1.0,0.0,Lunas,yoga.siregar132@mail.com,Smart TV 50 Inch,6500000,Jakarta Pusat,Jawa,6500000.0,Besar
+417,TRX1393,2025-08-16,grace.wijaya160@mail.com, Grace  Wijaya ,SL01,CB01,PR05,5.0,0.0,Lunas,grace.wijaya160@mail.com,Dispenser,650000,Jakarta Pusat,Jawa,3250000.0,Besar
+418,TRX1398,2025-08-16,  ilham.santoso212@mail.com ,ilham santoso,SL07,CB07,PR02,5.0,0.0,Lunas,ilham.santoso212@mail.com,Blender,280000,Palembang,Sumatera,1400000.0,Sedang
+419,TRX1410,2025-08-16,  agus.wijaya58@mail.com ,Agus Wijaya,SL16,CB06,PR01,1.0,0.05,Lunas,agus.wijaya58@mail.com,Rice Cooker,350000,Medan,Sumatera,332500.0,Kecil
+420,TRX1425,2025-08-17,yoga.halim72@mail.com,yoga halim,SL17,CB07,PR09,2.0,0.05,Lunas,yoga.halim72@mail.com,Kompor Gas,520000,Palembang,Sumatera,988000.0,Sedang
+421,TRX1387,2025-08-18,YOGA.NUGROHO255@MAIL.COM,Yoga Nugroho,SL16,CB06,PR03,2.0,0.2,Lunas,yoga.nugroho255@mail.com,Setrika,175000,Medan,Sumatera,280000.0,Kecil
+422,TRX1388,2025-08-18,tiara.siregar89@mail.com,tiara siregar,SL07,CB07,PR01,1.0,0.0,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Palembang,Sumatera,350000.0,Kecil
+423,TRX1402,2025-08-18,pandu.hidayat106@mail.com,PANDU HIDAYAT,SL11,CB01,PR05,3.0,0.05,Lunas,pandu.hidayat106@mail.com,Dispenser,650000,Jakarta Pusat,Jawa,1852500.0,Sedang
+424,TRX1420,2025-08-18,tiara.pratama204@mail.com,Tiara Pratama,SL08,CB08,PR08,3.0,0.0,Lunas,tiara.pratama204@mail.com,Air Fryer,899000,Denpasar,Bali & Nusa Tenggara,2697000.0,Besar
+425,TRX1432,2025-08-18,dimas.gunawan136@mail.com,dimas gunawan,SL05,CB05,PR03,1.0,0.15,Lunas,dimas.gunawan136@mail.com,Setrika,175000,Semarang,Jawa,148750.0,Kecil
+426,TRX1436,2025-08-18,satria.pratama258@mail.com, Satria  Pratama ,SL05,CB05,PR12,3.0,0.2,Lunas,satria.pratama258@mail.com,Mesin Cuci,2950000,Semarang,Jawa,7080000.0,Besar
+427,TRX1403,2025-08-19,grace.wijaya160@mail.com,Grace Wijaya,SL07,CB07,PR03,1.0,0.1,Lunas,grace.wijaya160@mail.com,Setrika,175000,Palembang,Sumatera,157500.0,Kecil
+430,TRX1433,2025-08-19,  dimas.lestari93@mail.com ,Dimas Lestari,SL06,CB06,PR10,1.0,0.0,Lunas,dimas.lestari93@mail.com,TV LED 32 Inch,1850000,Medan,Sumatera,1850000.0,Sedang
+431,TRX1390,2025-08-20,grace.wijaya160@mail.com, Grace  Wijaya ,SL17,CB07,PR09,3.0,0.05,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Palembang,Sumatera,1482000.0,Sedang
+432,TRX1392,2025-08-20,grace.wijaya160@mail.com, Grace  Wijaya ,SL11,CB01,PR04,1.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,225000.0,Kecil
+433,TRX1434,2025-08-20,satria.wijaya194@mail.com,Satria Wijaya,SL10,CB10,PR09,5.0,0.0,Lunas,satria.wijaya194@mail.com,Kompor Gas,520000,Makassar,Sulawesi,2600000.0,Besar
+434,TRX1438,2025-08-21,yoga.kusuma80@mail.com,Yoga Kusuma,SL18,CB08,PR03,2.0,0.05,Lunas,yoga.kusuma80@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,332500.0,Kecil
+435,TRX1440,2025-08-21,tiara.pratama204@mail.com,Tiara Pratama,SL13,CB03,PR06,5.0,0.15,Lunas,tiara.pratama204@mail.com,Microwave,1150000,Bandung,Jawa,4887500.0,Besar
+436,TRX1383,2025-08-22,ilham.lestari186@mail.com,ilham lestari,SL03,CB03,PR02,4.0,0.15,Lunas,ilham.lestari186@mail.com,Blender,280000,Bandung,Jawa,952000.0,Sedang
+437,TRX1407,2025-08-22,ilham.nugroho60@mail.com,Ilham Nugroho,SL04,CB04,PR14,1.0,0.1,Lunas,ilham.nugroho60@mail.com,Water Heater,1650000,Surabaya,Jawa,1485000.0,Sedang
+440,TRX1424,2025-08-22,fikri.hidayat252@mail.com,Fikri Hidayat,SL18,CB08,PR15,5.0,0.0,Lunas,fikri.hidayat252@mail.com,Smart TV 50 Inch,6500000,Denpasar,Bali & Nusa Tenggara,32500000.0,Besar
+441,TRX1423,2025-08-23,grace.wijaya160@mail.com,Grace Wijaya,SL02,CB02,PR06,2.0,0.15,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Jakarta Selatan,Jawa,1955000.0,Sedang
+442,TRX1377,2025-08-24,  fikri.putri240@mail.com ,fikri putri,SL01,CB01,PR05,5.0,0.0,Lunas,fikri.putri240@mail.com,Dispenser,650000,Jakarta Pusat,Jawa,3250000.0,Besar
+444,TRX1379,2025-08-24,GRACE.WIJAYA160@MAIL.COM,grace wijaya,SL19,CB09,PR06,2.0,0.0,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Balikpapan,Kalimantan,2300000.0,Besar
+445,TRX1413,2025-08-24,Nico.hidayat87@mail.com,NICO HIDAYAT,SL10,CB10,PR06,2.0,0.0,Lunas,nico.hidayat87@mail.com,Microwave,1150000,Makassar,Sulawesi,2300000.0,Besar
+446,TRX1422,2025-08-24,dimas.wijaya174@mail.com,Dimas Wijaya,SL17,CB07,PR04,4.0,0.0,Lunas,dimas.wijaya174@mail.com,Kipas Angin,225000,Palembang,Sumatera,900000.0,Sedang
+447,TRX1374,2025-08-25,TIARA.SIREGAR89@MAIL.COM,Tiara Siregar,SL08,CB08,PR14,1.0,0.2,Lunas,tiara.siregar89@mail.com,Water Heater,1650000,Denpasar,Bali & Nusa Tenggara,1320000.0,Sedang
+448,TRX1416,2025-08-25,RANI.PUTRI256@MAIL.COM,Rani Putri,SL11,CB01,PR13,5.0,0.0,Lunas,rani.putri256@mail.com,AC 1 PK,3700000,Jakarta Pusat,Jawa,18500000.0,Besar
+450,TRX1380,2025-08-26,fikri.putri240@mail.com, Fikri  Putri ,SL07,CB07,PR08,1.0,0.2,Lunas,fikri.putri240@mail.com,Air Fryer,899000,Palembang,Sumatera,719200.0,Sedang
+451,TRX1409,2025-08-26,jessica.pratama226@mail.com,jessica pratama,SL17,CB07,PR06,1.0,0.0,Lunas,jessica.pratama226@mail.com,Microwave,1150000,Palembang,Sumatera,1150000.0,Sedang
+452,TRX1419,2025-08-26,bayu.kusuma121@mail.com, Bayu  Kusuma ,SL06,CB06,PR12,5.0,0.0,Lunas,bayu.kusuma121@mail.com,Mesin Cuci,2950000,Medan,Sumatera,14750000.0,Besar
+453,TRX1404,2025-08-28,  pandu.pratama124@mail.com ,Pandu Pratama,SL15,CB05,PR01,4.0,0.2,Lunas,pandu.pratama124@mail.com,Rice Cooker,350000,Semarang,Jawa,1120000.0,Sedang
+457,TRX1394,2025-08-30,pandu.kusuma12@mail.com,Pandu Kusuma,SL01,CB01,PR03,1.0,0.05,Lunas,pandu.kusuma12@mail.com,Setrika,175000,Jakarta Pusat,Jawa,166250.0,Kecil
+458,TRX1418,2025-08-30,tiara.siregar89@mail.com, Tiara  Siregar ,SL09,CB09,PR05,2.0,0.05,Lunas,tiara.siregar89@mail.com,Dispenser,650000,Balikpapan,Kalimantan,1235000.0,Sedang
+459,TRX1381,2025-08-31,bayu.saputra43@mail.com,Bayu Saputra,SL13,CB03,PR04,5.0,0.0,Lunas,bayu.saputra43@mail.com,Kipas Angin,225000,Bandung,Jawa,1125000.0,Sedang
+460,TRX1437,2025-08-31,ILHAM.GUNAWAN142@MAIL.COM,ilham gunawan,SL16,CB06,PR13,1.0,0.0,Lunas,ilham.gunawan142@mail.com,AC 1 PK,3700000,Medan,Sumatera,3700000.0,Besar
+461,TRX1465,2025-09-01,  tiara.siregar89@mail.com ,tiara siregar,SL08,CB08,PR02,1.0,0.0,Lunas,tiara.siregar89@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,280000.0,Kecil
+463,TRX1457,2025-09-03,yoga.saputra146@mail.com,YOGA SAPUTRA,SL06,CB06,PR09,1.0,0.0,Lunas,yoga.saputra146@mail.com,Kompor Gas,520000,Medan,Sumatera,520000.0,Sedang
+465,TRX1471,2025-09-03,grace.wijaya160@mail.com,Grace Wijaya,SL07,CB07,PR14,3.0,0.1,Lunas,grace.wijaya160@mail.com,Water Heater,1650000,Palembang,Sumatera,4455000.0,Besar
+466,TRX1480,2025-09-03,grace.wijaya160@mail.com,Grace Wijaya,SL12,CB02,PR12,1.0,0.15,Lunas,grace.wijaya160@mail.com,Mesin Cuci,2950000,Jakarta Selatan,Jawa,2507500.0,Besar
+467,TRX1446,2025-09-04,Yoga.kusuma80@mail.com,Yoga Kusuma,SL09,CB09,PR04,2.0,0.0,Lunas,yoga.kusuma80@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,450000.0,Kecil
+468,TRX1468,2025-09-04,grace.wijaya160@mail.com,Grace Wijaya,SL13,CB03,PR01,1.0,0.05,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Bandung,Jawa,332500.0,Kecil
+469,TRX1464,2025-09-05,rani.hidayat9@mail.com,Rani Hidayat,SL07,CB07,PR06,3.0,0.0,Lunas,rani.hidayat9@mail.com,Microwave,1150000,Palembang,Sumatera,3450000.0,Besar
+470,TRX1473,2025-09-05,OLIVIA.HALIM197@MAIL.COM, Olivia  Halim ,SL20,CB10,PR08,4.0,0.05,Lunas,olivia.halim197@mail.com,Air Fryer,899000,Makassar,Sulawesi,3416200.0,Besar
+471,TRX1476,2025-09-05,clara.lestari248@mail.com,Clara Lestari,SL06,CB06,PR04,2.0,0.0,Lunas,clara.lestari248@mail.com,Kipas Angin,225000,Medan,Sumatera,450000.0,Kecil
+472,TRX1448,2025-09-06,  grace.kusuma185@mail.com ,grace kusuma,SL04,CB04,PR04,2.0,0.15,Lunas,grace.kusuma185@mail.com,Kipas Angin,225000,Surabaya,Jawa,382500.0,Kecil
+474,TRX1485,2025-09-06,  ilham.saputra32@mail.com ,Ilham Saputra,SL17,CB07,PR02,2.0,0.0,Lunas,ilham.saputra32@mail.com,Blender,280000,Palembang,Sumatera,560000.0,Sedang
+475,TRX1495,2025-09-06,yoga.halim72@mail.com,Yoga Halim,SL06,CB06,PR01,3.0,0.2,Lunas,yoga.halim72@mail.com,Rice Cooker,350000,Medan,Sumatera,840000.0,Sedang
+477,TRX1445,2025-09-07,jessica.pratama27@mail.com,JESSICA PRATAMA,SL19,CB09,PR12,5.0,0.05,Lunas,jessica.pratama27@mail.com,Mesin Cuci,2950000,Balikpapan,Kalimantan,14012500.0,Besar
+478,TRX1474,2025-09-07,hana.halim100@mail.com,HANA HALIM,SL17,CB07,PR03,1.0,0.2,Lunas,hana.halim100@mail.com,Setrika,175000,Palembang,Sumatera,140000.0,Kecil
+479,TRX1477,2025-09-07,yoga.nugroho255@mail.com,Yoga Nugroho,SL17,CB07,PR15,2.0,0.0,Lunas,yoga.nugroho255@mail.com,Smart TV 50 Inch,6500000,Palembang,Sumatera,13000000.0,Besar
+480,TRX1498,2025-09-07,Grace.wijaya160@mail.com,GRACE WIJAYA,SL01,CB01,PR01,4.0,0.05,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,1330000.0,Sedang
+481,TRX1507,2025-09-07,dimas.lestari93@mail.com,Dimas Lestari,SL12,CB02,PR07,2.0,0.1,Lunas,dimas.lestari93@mail.com,Vacuum Cleaner,1450000,Jakarta Selatan,Jawa,2610000.0,Besar
+482,TRX1514,2025-09-08,yoga.siregar132@mail.com, Yoga  Siregar ,SL15,CB05,PR01,3.0,0.0,Lunas,yoga.siregar132@mail.com,Rice Cooker,350000,Semarang,Jawa,1050000.0,Sedang
+483,TRX1481,2025-09-09,Laras.gunawan218@mail.com,Laras Gunawan,SL18,CB08,PR04,5.0,0.0,Lunas,laras.gunawan218@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,1125000.0,Sedang
+484,TRX1505,2025-09-09,tiara.siregar89@mail.com,Tiara Siregar,SL05,CB05,PR03,1.0,0.15,Lunas,tiara.siregar89@mail.com,Setrika,175000,Semarang,Jawa,148750.0,Kecil
+485,TRX1467,2025-09-10,  olivia.nugroho29@mail.com ,Olivia Nugroho,SL12,CB02,PR04,4.0,0.0,Lunas,olivia.nugroho29@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,900000.0,Sedang
+486,TRX1496,2025-09-10,  jessica.wijaya36@mail.com ,JESSICA WIJAYA,SL02,CB02,PR02,2.0,0.15,Lunas,jessica.wijaya36@mail.com,Blender,280000,Jakarta Selatan,Jawa,476000.0,Kecil
+487,TRX1509,2025-09-10,kevin.wijaya152@mail.com,Kevin Wijaya,SL20,CB10,PR10,4.0,0.2,Lunas,kevin.wijaya152@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,5920000.0,Besar
+488,TRX1443,2025-09-11,ilham.lestari186@mail.com,ILHAM LESTARI,SL16,CB06,PR04,1.0,0.0,Lunas,ilham.lestari186@mail.com,Kipas Angin,225000,Medan,Sumatera,225000.0,Kecil
+489,TRX1500,2025-09-11,clara.wijaya85@mail.com,Clara Wijaya,SL16,CB06,PR04,1.0,0.0,Lunas,clara.wijaya85@mail.com,Kipas Angin,225000,Medan,Sumatera,225000.0,Kecil
+491,TRX1454,2025-09-13,satria.putri213@mail.com,SATRIA PUTRI,SL18,CB08,PR10,4.0,0.15,Lunas,satria.putri213@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,6290000.0,Besar
+493,TRX1478,2025-09-15,grace.wijaya160@mail.com,Grace Wijaya,SL18,CB08,PR06,3.0,0.05,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Denpasar,Bali & Nusa Tenggara,3277500.0,Besar
+494,TRX1482,2025-09-15,Clara.kusuma120@mail.com,Clara Kusuma,SL02,CB02,PR11,1.0,0.0,Lunas,clara.kusuma120@mail.com,Kulkas 1 Pintu,2400000,Jakarta Selatan,Jawa,2400000.0,Besar
+495,TRX1484,2025-09-15,satria.pratama17@mail.com, Satria  Pratama ,SL09,CB09,PR03,1.0,0.05,Lunas,satria.pratama17@mail.com,Setrika,175000,Balikpapan,Kalimantan,166250.0,Kecil
+497,TRX1515,2025-09-15,GRACE.WIJAYA154@MAIL.COM,Grace Wijaya,SL08,CB08,PR07,1.0,0.05,Lunas,grace.wijaya154@mail.com,Vacuum Cleaner,1450000,Denpasar,Bali & Nusa Tenggara,1377500.0,Sedang
+498,TRX1458,2025-09-16,jessica.wijaya36@mail.com,JESSICA WIJAYA,SL07,CB07,PR05,4.0,0.0,Lunas,jessica.wijaya36@mail.com,Dispenser,650000,Palembang,Sumatera,2600000.0,Besar
+499,TRX1472,2025-09-16,Tiara.siregar89@mail.com, Tiara  Siregar ,SL16,CB06,PR03,2.0,0.0,Lunas,tiara.siregar89@mail.com,Setrika,175000,Medan,Sumatera,350000.0,Kecil
+500,TRX1442,2025-09-17,olivia.halim197@mail.com,olivia halim,SL14,CB04,PR03,1.0,0.1,Lunas,olivia.halim197@mail.com,Setrika,175000,Surabaya,Jawa,157500.0,Kecil
+502,TRX1492,2025-09-17,Yoga.nugroho255@mail.com,YOGA NUGROHO,SL07,CB07,PR01,1.0,0.0,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Palembang,Sumatera,350000.0,Kecil
+503,TRX1441,2025-09-18,FIKRI.SANTOSO254@MAIL.COM,Fikri Santoso,SL17,CB07,PR04,2.0,0.05,Lunas,fikri.santoso254@mail.com,Kipas Angin,225000,Palembang,Sumatera,427500.0,Kecil
+504,TRX1451,2025-09-18,  pandu.nugroho86@mail.com ,PANDU NUGROHO,SL02,CB02,PR08,1.0,0.05,Lunas,pandu.nugroho86@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,854050.0,Sedang
+505,TRX1487,2025-09-18,HANA.GUNAWAN31@MAIL.COM, Hana  Gunawan ,SL10,CB10,PR15,5.0,0.0,Lunas,hana.gunawan31@mail.com,Smart TV 50 Inch,6500000,Makassar,Sulawesi,32500000.0,Besar
+506,TRX1494,2025-09-18,  grace.wijaya154@mail.com ,grace wijaya,SL06,CB06,PR05,1.0,0.0,Lunas,grace.wijaya154@mail.com,Dispenser,650000,Medan,Sumatera,650000.0,Sedang
+507,TRX1449,2025-09-19,fikri.lestari247@mail.com,fikri lestari,SL19,CB09,PR04,1.0,0.1,Lunas,fikri.lestari247@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,202500.0,Kecil
+508,TRX1466,2025-09-19,grace.wijaya160@mail.com,grace wijaya,SL08,CB08,PR13,4.0,0.0,Lunas,grace.wijaya160@mail.com,AC 1 PK,3700000,Denpasar,Bali & Nusa Tenggara,14800000.0,Besar
+509,TRX1489,2025-09-19,bayu.kusuma121@mail.com,bayu kusuma,SL17,CB07,PR02,2.0,0.2,Lunas,bayu.kusuma121@mail.com,Blender,280000,Palembang,Sumatera,448000.0,Kecil
+510,TRX1512,2025-09-19,elsa.halim181@mail.com,elsa halim,SL07,CB07,PR04,2.0,0.0,Lunas,elsa.halim181@mail.com,Kipas Angin,225000,Palembang,Sumatera,450000.0,Kecil
+511,TRX1469,2025-09-20,fikri.putri240@mail.com, Fikri  Putri ,SL20,CB10,PR05,2.0,0.1,Lunas,fikri.putri240@mail.com,Dispenser,650000,Makassar,Sulawesi,1170000.0,Sedang
+512,TRX1490,2025-09-20,pandu.santoso25@mail.com,pandu santoso,SL12,CB02,PR05,2.0,0.0,Lunas,pandu.santoso25@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,1300000.0,Sedang
+514,TRX1461,2025-09-21,fikri.santoso254@mail.com,Fikri Santoso,SL03,CB03,PR10,4.0,0.05,Lunas,fikri.santoso254@mail.com,TV LED 32 Inch,1850000,Bandung,Jawa,7030000.0,Besar
+516,TRX1506,2025-09-21,ilham.saputra32@mail.com,Ilham Saputra,SL09,CB09,PR01,2.0,0.0,Lunas,ilham.saputra32@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,700000.0,Sedang
+517,TRX1453,2025-09-22,tiara.pratama204@mail.com,Tiara Pratama,SL10,CB10,PR10,5.0,0.15,Lunas,tiara.pratama204@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,7862500.0,Besar
+519,TRX1470,2025-09-22,pandu.lestari123@mail.com,PANDU LESTARI,SL12,CB02,PR01,1.0,0.1,Lunas,pandu.lestari123@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,315000.0,Kecil
+520,TRX1493,2025-09-22,dimas.kusuma129@mail.com, Dimas  Kusuma ,SL06,CB06,PR02,5.0,0.0,Lunas,dimas.kusuma129@mail.com,Blender,280000,Medan,Sumatera,1400000.0,Sedang
+521,TRX1513,2025-09-22,satria.putri213@mail.com,satria putri,SL08,CB08,PR10,2.0,0.1,Lunas,satria.putri213@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,3330000.0,Besar
+523,TRX1502,2025-09-23,yoga.nugroho255@mail.com,yoga nugroho,SL18,CB08,PR02,1.0,0.1,Lunas,yoga.nugroho255@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,252000.0,Kecil
+524,TRX1447,2025-09-24,jessica.nugroho101@mail.com,JESSICA NUGROHO,SL09,CB09,PR12,1.0,0.0,Lunas,jessica.nugroho101@mail.com,Mesin Cuci,2950000,Balikpapan,Kalimantan,2950000.0,Besar
+526,TRX1483,2025-09-25,grace.wijaya154@mail.com,Grace Wijaya,SL16,CB06,PR02,5.0,0.0,Lunas,grace.wijaya154@mail.com,Blender,280000,Medan,Sumatera,1400000.0,Sedang
+527,TRX1503,2025-09-25,Jessica.putri167@mail.com,Jessica Putri,SL06,CB06,PR02,2.0,0.2,Lunas,jessica.putri167@mail.com,Blender,280000,Medan,Sumatera,448000.0,Kecil
+528,TRX1504,2025-09-25,pandu.kusuma12@mail.com,pandu kusuma,SL08,CB08,PR08,5.0,0.0,Lunas,pandu.kusuma12@mail.com,Air Fryer,899000,Denpasar,Bali & Nusa Tenggara,4495000.0,Besar
+529,TRX1475,2025-09-26,ILHAM.HALIM109@MAIL.COM,Ilham Halim,SL17,CB07,PR01,3.0,0.0,Lunas,ilham.halim109@mail.com,Rice Cooker,350000,Palembang,Sumatera,1050000.0,Sedang
+531,TRX1486,2025-09-27,jessica.wijaya36@mail.com,Jessica Wijaya,SL08,CB08,PR03,2.0,0.0,Lunas,jessica.wijaya36@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,350000.0,Kecil
+532,TRX1499,2025-09-27,FIKRI.SAPUTRA199@MAIL.COM,Fikri Saputra,SL10,CB10,PR09,4.0,0.05,Lunas,fikri.saputra199@mail.com,Kompor Gas,520000,Makassar,Sulawesi,1976000.0,Sedang
+533,TRX1459,2025-09-28,Tiara.siregar89@mail.com,tiara siregar,SL01,CB01,PR02,5.0,0.0,Lunas,tiara.siregar89@mail.com,Blender,280000,Jakarta Pusat,Jawa,1400000.0,Sedang
+535,TRX1462,2025-09-29,ilham.lestari186@mail.com,ILHAM LESTARI,SL13,CB03,PR01,4.0,0.05,Lunas,ilham.lestari186@mail.com,Rice Cooker,350000,Bandung,Jawa,1330000.0,Sedang
+536,TRX1463,2025-09-29,,FIKRI PUTRI,SL05,CB05,PR02,1.0,0.2,Lunas,,Blender,280000,Semarang,Jawa,224000.0,Kecil
+538,TRX1533,2025-10-01,YOGA.SAPUTRA168@MAIL.COM,Yoga Saputra,SL16,CB06,PR04,2.0,0.0,Lunas,yoga.saputra168@mail.com,Kipas Angin,225000,Medan,Sumatera,450000.0,Kecil
+539,TRX1541,2025-10-01,hana.gunawan31@mail.com,hana gunawan,SL05,CB05,PR01,2.0,0.15,Lunas,hana.gunawan31@mail.com,Rice Cooker,350000,Semarang,Jawa,595000.0,Sedang
+540,TRX1573,2025-10-01,  pandu.nugroho86@mail.com ,Pandu Nugroho,SL13,CB03,PR10,5.0,0.0,Lunas,pandu.nugroho86@mail.com,TV LED 32 Inch,1850000,Bandung,Jawa,9250000.0,Besar
+541,TRX1522,2025-10-03,dimas.putri41@mail.com,dimas putri,SL19,CB09,PR09,3.0,0.1,Lunas,dimas.putri41@mail.com,Kompor Gas,520000,Balikpapan,Kalimantan,1404000.0,Sedang
+542,TRX1518,2025-10-04,satria.wijaya194@mail.com,Satria Wijaya,SL12,CB02,PR07,3.0,0.05,Lunas,satria.wijaya194@mail.com,Vacuum Cleaner,1450000,Jakarta Selatan,Jawa,4132500.0,Besar
+543,TRX1546,2025-10-04,tiara.siregar89@mail.com,tiara siregar,SL19,CB09,PR06,1.0,0.0,Lunas,tiara.siregar89@mail.com,Microwave,1150000,Balikpapan,Kalimantan,1150000.0,Sedang
+544,TRX1571,2025-10-04,NICO.HIDAYAT87@MAIL.COM,Nico Hidayat,SL15,CB05,PR03,1.0,0.15,Lunas,nico.hidayat87@mail.com,Setrika,175000,Semarang,Jawa,148750.0,Kecil
+545,TRX1552,2025-10-05,ilham.lestari186@mail.com,ilham lestari,SL07,CB07,PR03,4.0,0.2,Lunas,ilham.lestari186@mail.com,Setrika,175000,Palembang,Sumatera,560000.0,Sedang
+548,TRX1529,2025-10-06,BAYU.PUTRI63@MAIL.COM,bayu putri,SL10,CB10,PR06,4.0,0.0,Lunas,bayu.putri63@mail.com,Microwave,1150000,Makassar,Sulawesi,4600000.0,Besar
+549,TRX1543,2025-10-06,TIARA.PRATAMA204@MAIL.COM,Tiara Pratama,SL09,CB09,PR01,3.0,0.1,Lunas,tiara.pratama204@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,945000.0,Sedang
+551,TRX1534,2025-10-07,ILHAM.HIDAYAT236@MAIL.COM,ilham hidayat,SL04,CB04,PR15,2.0,0.2,Lunas,ilham.hidayat236@mail.com,Smart TV 50 Inch,6500000,Surabaya,Jawa,10400000.0,Besar
+553,TRX1542,2025-10-08,grace.wijaya160@mail.com,Grace Wijaya,SL07,CB07,PR09,5.0,0.0,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Palembang,Sumatera,2600000.0,Besar
+554,TRX1560,2025-10-08,yoga.wijaya257@mail.com,yoga wijaya,SL14,CB04,PR12,1.0,0.2,Lunas,yoga.wijaya257@mail.com,Mesin Cuci,2950000,Surabaya,Jawa,2360000.0,Besar
+555,TRX1562,2025-10-08,satria.wijaya194@mail.com,satria wijaya,SL08,CB08,PR11,1.0,0.1,Lunas,satria.wijaya194@mail.com,Kulkas 1 Pintu,2400000,Denpasar,Bali & Nusa Tenggara,2160000.0,Besar
+556,TRX1567,2025-10-08,ilham.lestari186@mail.com,Ilham Lestari,SL01,CB01,PR01,2.0,0.05,Lunas,ilham.lestari186@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,665000.0,Sedang
+557,TRX1528,2025-10-09,  kevin.pratama175@mail.com ,Kevin Pratama,SL08,CB08,PR11,1.0,0.0,Lunas,kevin.pratama175@mail.com,Kulkas 1 Pintu,2400000,Denpasar,Bali & Nusa Tenggara,2400000.0,Besar
+558,TRX1530,2025-10-09,,Clara Kusuma,SL19,CB09,PR14,5.0,0.15,Lunas,,Water Heater,1650000,Balikpapan,Kalimantan,7012500.0,Besar
+559,TRX1544,2025-10-10,  fikri.lestari247@mail.com ,Fikri Lestari,SL03,CB03,PR05,3.0,0.1,Lunas,fikri.lestari247@mail.com,Dispenser,650000,Bandung,Jawa,1755000.0,Sedang
+560,TRX1553,2025-10-10,  yoga.saputra146@mail.com ,Yoga Saputra,SL07,CB07,PR02,2.0,0.05,Lunas,yoga.saputra146@mail.com,Blender,280000,Palembang,Sumatera,532000.0,Sedang
+561,TRX1556,2025-10-10,SATRIA.PRATAMA17@MAIL.COM, Satria  Pratama ,SL18,CB08,PR12,5.0,0.1,Lunas,satria.pratama17@mail.com,Mesin Cuci,2950000,Denpasar,Bali & Nusa Tenggara,13275000.0,Besar
+562,TRX1575,2025-10-10,tiara.saputra76@mail.com,tiara saputra,SL03,CB03,PR01,3.0,0.15,Lunas,tiara.saputra76@mail.com,Rice Cooker,350000,Bandung,Jawa,892500.0,Sedang
+563,TRX1524,2025-10-11,clara.siregar164@mail.com,clara siregar,SL18,CB08,PR14,1.0,0.0,Lunas,clara.siregar164@mail.com,Water Heater,1650000,Denpasar,Bali & Nusa Tenggara,1650000.0,Sedang
+564,TRX1558,2025-10-11,GRACE.WIJAYA154@MAIL.COM,Grace Wijaya,SL06,CB06,PR02,2.0,0.1,Lunas,grace.wijaya154@mail.com,Blender,280000,Medan,Sumatera,504000.0,Sedang
+565,TRX1559,2025-10-11,  clara.kusuma120@mail.com ,clara kusuma,SL10,CB10,PR14,1.0,0.1,Lunas,clara.kusuma120@mail.com,Water Heater,1650000,Makassar,Sulawesi,1485000.0,Sedang
+567,TRX1517,2025-10-13,clara.kusuma120@mail.com,Clara Kusuma,SL11,CB01,PR05,1.0,0.05,Lunas,clara.kusuma120@mail.com,Dispenser,650000,Jakarta Pusat,Jawa,617500.0,Sedang
+568,TRX1565,2025-10-13,dimas.kusuma129@mail.com,DIMAS KUSUMA,SL06,CB06,PR04,1.0,0.2,Lunas,dimas.kusuma129@mail.com,Kipas Angin,225000,Medan,Sumatera,180000.0,Kecil
+569,TRX1531,2025-10-14,kevin.siregar147@mail.com,Kevin Siregar,SL05,CB05,PR10,4.0,0.05,Lunas,kevin.siregar147@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,7030000.0,Besar
+571,TRX1527,2025-10-15,yoga.saputra220@mail.com,Yoga Saputra,SL17,CB07,PR08,1.0,0.05,Lunas,yoga.saputra220@mail.com,Air Fryer,899000,Palembang,Sumatera,854050.0,Sedang
+572,TRX1569,2025-10-15,,Grace Wijaya,SL09,CB09,PR05,1.0,0.0,Lunas,,Dispenser,650000,Balikpapan,Kalimantan,650000.0,Sedang
+573,TRX1564,2025-10-16,FIKRI.PRATAMA135@MAIL.COM, Fikri  Pratama ,SL02,CB02,PR11,4.0,0.0,Lunas,fikri.pratama135@mail.com,Kulkas 1 Pintu,2400000,Jakarta Selatan,Jawa,9600000.0,Besar
+574,TRX1549,2025-10-17,ilham.lestari186@mail.com,ilham lestari,SL17,CB07,PR08,1.0,0.0,Lunas,ilham.lestari186@mail.com,Air Fryer,899000,Palembang,Sumatera,899000.0,Sedang
+575,TRX1561,2025-10-17,grace.wijaya160@mail.com, Grace  Wijaya ,SL14,CB04,PR03,4.0,0.1,Lunas,grace.wijaya160@mail.com,Setrika,175000,Surabaya,Jawa,630000.0,Sedang
+576,TRX1563,2025-10-17,GRACE.WIJAYA154@MAIL.COM,GRACE WIJAYA,SL11,CB01,PR11,5.0,0.0,Lunas,grace.wijaya154@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,12000000.0,Besar
+578,TRX1555,2025-10-18,  ilham.halim109@mail.com ,ILHAM HALIM,SL12,CB02,PR06,4.0,0.15,Lunas,ilham.halim109@mail.com,Microwave,1150000,Jakarta Selatan,Jawa,3910000.0,Besar
+579,TRX1557,2025-10-18,ilham.hidayat137@mail.com,Ilham Hidayat,SL18,CB08,PR01,4.0,0.0,Lunas,ilham.hidayat137@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,1400000.0,Sedang
+581,TRX1516,2025-10-20,Kevin.wijaya152@mail.com,Kevin Wijaya,SL04,CB04,PR11,1.0,0.0,Lunas,kevin.wijaya152@mail.com,Kulkas 1 Pintu,2400000,Surabaya,Jawa,2400000.0,Besar
+585,TRX1526,2025-10-22,yoga.nugroho255@mail.com,yoga nugroho,SL02,CB02,PR09,2.0,0.0,Lunas,yoga.nugroho255@mail.com,Kompor Gas,520000,Jakarta Selatan,Jawa,1040000.0,Sedang
+586,TRX1536,2025-10-23,YOGA.SIREGAR132@MAIL.COM,yoga siregar,SL03,CB03,PR15,1.0,0.0,Lunas,yoga.siregar132@mail.com,Smart TV 50 Inch,6500000,Bandung,Jawa,6500000.0,Besar
+587,TRX1568,2025-10-23,grace.wijaya160@mail.com,Grace Wijaya,SL06,CB06,PR08,1.0,0.15,Lunas,grace.wijaya160@mail.com,Air Fryer,899000,Medan,Sumatera,764150.0,Sedang
+588,TRX1523,2025-10-24,yoga.kusuma80@mail.com,yoga kusuma,SL15,CB05,PR04,2.0,0.1,Lunas,yoga.kusuma80@mail.com,Kipas Angin,225000,Semarang,Jawa,405000.0,Kecil
+589,TRX1545,2025-10-24,yoga.nugroho255@mail.com,yoga nugroho,SL06,CB06,PR01,2.0,0.0,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Medan,Sumatera,700000.0,Sedang
+590,TRX1576,2025-10-24,ilham.santoso212@mail.com,Ilham Santoso,SL12,CB02,PR08,2.0,0.2,Lunas,ilham.santoso212@mail.com,Air Fryer,899000,Jakarta Selatan,Jawa,1438400.0,Sedang
+591,TRX1550,2025-10-25,LARAS.SIREGAR65@MAIL.COM,LARAS SIREGAR,SL15,CB05,PR10,3.0,0.15,Lunas,laras.siregar65@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,4717500.0,Besar
+592,TRX1525,2025-10-26,laras.kusuma64@mail.com,laras kusuma,SL11,CB01,PR11,5.0,0.0,Lunas,laras.kusuma64@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,12000000.0,Besar
+593,TRX1535,2025-10-26,grace.wijaya160@mail.com,Grace Wijaya,SL09,CB09,PR04,2.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,450000.0,Kecil
+596,TRX1519,2025-10-28,jessica.nugroho54@mail.com,Jessica Nugroho,SL06,CB06,PR05,3.0,0.1,Lunas,jessica.nugroho54@mail.com,Dispenser,650000,Medan,Sumatera,1755000.0,Sedang
+597,TRX1547,2025-10-28,Clara.siregar78@mail.com,CLARA SIREGAR,SL09,CB09,PR01,2.0,0.2,Lunas,clara.siregar78@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,560000.0,Sedang
+598,TRX1566,2025-10-28,Hana.putri150@mail.com, Hana  Putri ,SL19,CB09,PR01,1.0,0.1,Lunas,hana.putri150@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,315000.0,Kecil
+601,TRX1548,2025-10-29,fikri.wijaya206@mail.com,Fikri Wijaya,SL17,CB07,PR03,1.0,0.05,Lunas,fikri.wijaya206@mail.com,Setrika,175000,Palembang,Sumatera,166250.0,Kecil
+602,TRX1551,2025-10-29,  grace.wijaya160@mail.com , Grace  Wijaya ,SL16,CB06,PR04,5.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Medan,Sumatera,1125000.0,Sedang
+604,TRX1520,2025-10-30,hana.gunawan31@mail.com,Hana Gunawan,SL18,CB08,PR01,2.0,0.05,Lunas,hana.gunawan31@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,665000.0,Sedang
+606,TRX1613,2025-11-01,agus.putri116@mail.com,agus putri,SL18,CB08,PR02,3.0,0.0,Lunas,agus.putri116@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,840000.0,Sedang
+607,TRX1648,2025-11-01,Clara.kusuma120@mail.com,Clara Kusuma,SL10,CB10,PR04,1.0,0.15,Lunas,clara.kusuma120@mail.com,Kipas Angin,225000,Makassar,Sulawesi,191250.0,Kecil
+608,TRX1595,2025-11-02,grace.wijaya160@mail.com,Grace Wijaya,SL10,CB10,PR02,3.0,0.05,Lunas,grace.wijaya160@mail.com,Blender,280000,Makassar,Sulawesi,798000.0,Sedang
+609,TRX1607,2025-11-02,yoga.kusuma80@mail.com, Yoga  Kusuma ,SL19,CB09,PR05,4.0,0.05,Lunas,yoga.kusuma80@mail.com,Dispenser,650000,Balikpapan,Kalimantan,2470000.0,Besar
+610,TRX1623,2025-11-02,elsa.saputra94@mail.com,Elsa Saputra,SL03,CB03,PR09,1.0,0.15,Lunas,elsa.saputra94@mail.com,Kompor Gas,520000,Bandung,Jawa,442000.0,Kecil
+611,TRX1643,2025-11-02,tiara.siregar89@mail.com,tiara siregar,SL09,CB09,PR06,2.0,0.05,Lunas,tiara.siregar89@mail.com,Microwave,1150000,Balikpapan,Kalimantan,2185000.0,Besar
+612,TRX1602,2025-11-03,grace.wijaya160@mail.com,Grace Wijaya,SL14,CB04,PR02,1.0,0.05,Lunas,grace.wijaya160@mail.com,Blender,280000,Surabaya,Jawa,266000.0,Kecil
+613,TRX1611,2025-11-03,ilham.hidayat236@mail.com,ILHAM HIDAYAT,SL19,CB09,PR08,3.0,0.0,Lunas,ilham.hidayat236@mail.com,Air Fryer,899000,Balikpapan,Kalimantan,2697000.0,Besar
+614,TRX1614,2025-11-03,ELSA.HALIM181@MAIL.COM,Elsa Halim,SL12,CB02,PR02,2.0,0.15,Lunas,elsa.halim181@mail.com,Blender,280000,Jakarta Selatan,Jawa,476000.0,Kecil
+616,TRX1597,2025-11-04,fikri.putri240@mail.com,Fikri Putri,SL10,CB10,PR03,4.0,0.0,Lunas,fikri.putri240@mail.com,Setrika,175000,Makassar,Sulawesi,700000.0,Sedang
+617,TRX1619,2025-11-04,bayu.saputra43@mail.com,BAYU SAPUTRA,SL11,CB01,PR04,5.0,0.1,Lunas,bayu.saputra43@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,1012500.0,Sedang
+618,TRX1657,2025-11-04,Yoga.kusuma80@mail.com,Yoga Kusuma,SL13,CB03,PR01,1.0,0.0,Lunas,yoga.kusuma80@mail.com,Rice Cooker,350000,Bandung,Jawa,350000.0,Kecil
+619,TRX1585,2025-11-06,fikri.putri240@mail.com,Fikri Putri,SL01,CB01,PR03,2.0,0.0,Lunas,fikri.putri240@mail.com,Setrika,175000,Jakarta Pusat,Jawa,350000.0,Kecil
+620,TRX1600,2025-11-06,bayu.wijaya108@mail.com, Bayu  Wijaya ,SL20,CB10,PR13,3.0,0.05,Lunas,bayu.wijaya108@mail.com,AC 1 PK,3700000,Makassar,Sulawesi,10545000.0,Besar
+621,TRX1633,2025-11-06,  tiara.siregar89@mail.com ,Tiara Siregar,SL18,CB08,PR08,1.0,0.0,Lunas,tiara.siregar89@mail.com,Air Fryer,899000,Denpasar,Bali & Nusa Tenggara,899000.0,Sedang
+623,TRX1606,2025-11-07,tiara.siregar89@mail.com,Tiara Siregar,SL19,CB09,PR02,2.0,0.0,Lunas,tiara.siregar89@mail.com,Blender,280000,Balikpapan,Kalimantan,560000.0,Sedang
+624,TRX1630,2025-11-07,Pandu.nugroho86@mail.com,PANDU NUGROHO,SL03,CB03,PR01,2.0,0.0,Lunas,pandu.nugroho86@mail.com,Rice Cooker,350000,Bandung,Jawa,700000.0,Sedang
+625,TRX1650,2025-11-07,  fikri.saputra199@mail.com ,Fikri Saputra,SL03,CB03,PR02,3.0,0.05,Lunas,fikri.saputra199@mail.com,Blender,280000,Bandung,Jawa,798000.0,Sedang
+626,TRX1609,2025-11-08,elsa.wijaya4@mail.com,Elsa Wijaya,SL02,CB02,PR05,2.0,0.2,Lunas,elsa.wijaya4@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,1040000.0,Sedang
+627,TRX1617,2025-11-08,jessica.putri167@mail.com,JESSICA PUTRI,SL07,CB07,PR06,2.0,0.1,Lunas,jessica.putri167@mail.com,Microwave,1150000,Palembang,Sumatera,2070000.0,Besar
+629,TRX1640,2025-11-08,  grace.wijaya160@mail.com ,Grace Wijaya,SL13,CB03,PR12,5.0,0.0,Lunas,grace.wijaya160@mail.com,Mesin Cuci,2950000,Bandung,Jawa,14750000.0,Besar
+630,TRX1582,2025-11-09,  grace.wijaya160@mail.com ,GRACE WIJAYA,SL17,CB07,PR03,1.0,0.15,Lunas,grace.wijaya160@mail.com,Setrika,175000,Palembang,Sumatera,148750.0,Kecil
+631,TRX1598,2025-11-09,  laras.hidayat56@mail.com ,Laras Hidayat,SL09,CB09,PR02,1.0,0.1,Lunas,laras.hidayat56@mail.com,Blender,280000,Balikpapan,Kalimantan,252000.0,Kecil
+632,TRX1601,2025-11-10,fikri.putri240@mail.com,Fikri Putri,SL19,CB09,PR05,1.0,0.05,Lunas,fikri.putri240@mail.com,Dispenser,650000,Balikpapan,Kalimantan,617500.0,Sedang
+633,TRX1654,2025-11-10,yoga.kusuma80@mail.com,yoga kusuma,SL01,CB01,PR11,1.0,0.05,Lunas,yoga.kusuma80@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,2280000.0,Besar
+634,TRX1590,2025-11-11,fikri.kusuma19@mail.com,FIKRI KUSUMA,SL04,CB04,PR09,1.0,0.15,Lunas,fikri.kusuma19@mail.com,Kompor Gas,520000,Surabaya,Jawa,442000.0,Kecil
+636,TRX1625,2025-11-11,dimas.wijaya174@mail.com,Dimas Wijaya,SL04,CB04,PR09,1.0,0.0,Lunas,dimas.wijaya174@mail.com,Kompor Gas,520000,Surabaya,Jawa,520000.0,Sedang
+638,TRX1635,2025-11-11,grace.wijaya160@mail.com,grace wijaya,SL07,CB07,PR08,5.0,0.0,Lunas,grace.wijaya160@mail.com,Air Fryer,899000,Palembang,Sumatera,4495000.0,Besar
+639,TRX1588,2025-11-12,  grace.wijaya98@mail.com ,GRACE WIJAYA,SL08,CB08,PR03,5.0,0.2,Lunas,grace.wijaya98@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,700000.0,Sedang
+640,TRX1593,2025-11-12,GRACE.GUNAWAN99@MAIL.COM, Grace  Gunawan ,SL18,CB08,PR02,1.0,0.15,Lunas,grace.gunawan99@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,238000.0,Kecil
+641,TRX1638,2025-11-12,fikri.putri240@mail.com,Fikri Putri,SL04,CB04,PR12,1.0,0.15,Lunas,fikri.putri240@mail.com,Mesin Cuci,2950000,Surabaya,Jawa,2507500.0,Besar
+642,TRX1645,2025-11-12,dimas.siregar143@mail.com,Dimas Siregar,SL03,CB03,PR04,2.0,0.0,Lunas,dimas.siregar143@mail.com,Kipas Angin,225000,Bandung,Jawa,450000.0,Kecil
+643,TRX1592,2025-11-13,grace.wijaya160@mail.com,Grace Wijaya,SL13,CB03,PR05,2.0,0.0,Lunas,grace.wijaya160@mail.com,Dispenser,650000,Bandung,Jawa,1300000.0,Sedang
+644,TRX1652,2025-11-13,Nico.putri24@mail.com, Nico  Putri ,SL08,CB08,PR07,1.0,0.05,Lunas,nico.putri24@mail.com,Vacuum Cleaner,1450000,Denpasar,Bali & Nusa Tenggara,1377500.0,Sedang
+645,TRX1594,2025-11-14,jessica.saputra102@mail.com,Jessica Saputra,SL05,CB05,PR07,1.0,0.0,Lunas,jessica.saputra102@mail.com,Vacuum Cleaner,1450000,Semarang,Jawa,1450000.0,Sedang
+646,TRX1644,2025-11-14,tiara.siregar89@mail.com,Tiara Siregar,SL04,CB04,PR13,1.0,0.0,Lunas,tiara.siregar89@mail.com,AC 1 PK,3700000,Surabaya,Jawa,3700000.0,Besar
+647,TRX1634,2025-11-15,  satria.putri213@mail.com ,satria putri,SL01,CB01,PR07,5.0,0.0,Lunas,satria.putri213@mail.com,Vacuum Cleaner,1450000,Jakarta Pusat,Jawa,7250000.0,Besar
+648,TRX1646,2025-11-15,ilham.hidayat137@mail.com,ilham hidayat,SL05,CB05,PR04,2.0,0.0,Lunas,ilham.hidayat137@mail.com,Kipas Angin,225000,Semarang,Jawa,450000.0,Kecil
+649,TRX1658,2025-11-15,rani.putri256@mail.com,Rani Putri,SL03,CB03,PR02,1.0,0.2,Lunas,rani.putri256@mail.com,Blender,280000,Bandung,Jawa,224000.0,Kecil
+650,TRX1599,2025-11-16,satria.pratama17@mail.com,satria pratama,SL19,CB09,PR07,5.0,0.05,Lunas,satria.pratama17@mail.com,Vacuum Cleaner,1450000,Balikpapan,Kalimantan,6887500.0,Besar
+651,TRX1629,2025-11-16,bayu.nugroho215@mail.com,bayu nugroho,SL07,CB07,PR04,3.0,0.0,Lunas,bayu.nugroho215@mail.com,Kipas Angin,225000,Palembang,Sumatera,675000.0,Sedang
+652,TRX1583,2025-11-17,NICO.KUSUMA95@MAIL.COM,NICO KUSUMA,SL08,CB08,PR08,1.0,0.0,Lunas,nico.kusuma95@mail.com,Air Fryer,899000,Denpasar,Bali & Nusa Tenggara,899000.0,Sedang
+654,TRX1615,2025-11-17,rani.hidayat9@mail.com,RANI HIDAYAT,SL05,CB05,PR05,5.0,0.0,Lunas,rani.hidayat9@mail.com,Dispenser,650000,Semarang,Jawa,3250000.0,Besar
+655,TRX1608,2025-11-18,bayu.kusuma121@mail.com,Bayu Kusuma,SL17,CB07,PR06,3.0,0.0,Lunas,bayu.kusuma121@mail.com,Microwave,1150000,Palembang,Sumatera,3450000.0,Besar
+656,TRX1616,2025-11-18,rani.lestari46@mail.com,Rani Lestari,SL10,CB10,PR03,1.0,0.0,Lunas,rani.lestari46@mail.com,Setrika,175000,Makassar,Sulawesi,175000.0,Kecil
+659,TRX1628,2025-11-18,  grace.putri166@mail.com ,Grace Putri,SL09,CB09,PR09,3.0,0.0,Lunas,grace.putri166@mail.com,Kompor Gas,520000,Balikpapan,Kalimantan,1560000.0,Sedang
+661,TRX1627,2025-11-19,grace.wijaya160@mail.com,Grace Wijaya,SL15,CB05,PR06,2.0,0.2,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Semarang,Jawa,1840000.0,Sedang
+662,TRX1649,2025-11-19,grace.wijaya160@mail.com,GRACE WIJAYA,SL20,CB10,PR11,3.0,0.15,Lunas,grace.wijaya160@mail.com,Kulkas 1 Pintu,2400000,Makassar,Sulawesi,6120000.0,Besar
+663,TRX1586,2025-11-20,pandu.kusuma53@mail.com,pandu kusuma,SL20,CB10,PR11,5.0,0.0,Lunas,pandu.kusuma53@mail.com,Kulkas 1 Pintu,2400000,Makassar,Sulawesi,12000000.0,Besar
+664,TRX1604,2025-11-20,tiara.siregar89@mail.com,Tiara Siregar,SL18,CB08,PR12,5.0,0.2,Lunas,tiara.siregar89@mail.com,Mesin Cuci,2950000,Denpasar,Bali & Nusa Tenggara,11800000.0,Besar
+666,TRX1653,2025-11-20,satria.pratama17@mail.com,Satria Pratama,SL09,CB09,PR02,1.0,0.05,Lunas,satria.pratama17@mail.com,Blender,280000,Balikpapan,Kalimantan,266000.0,Kecil
+668,TRX1620,2025-11-21,  tiara.siregar89@mail.com ,Tiara Siregar,SL13,CB03,PR05,2.0,0.1,Lunas,tiara.siregar89@mail.com,Dispenser,650000,Bandung,Jawa,1170000.0,Sedang
+669,TRX1636,2025-11-21,agus.wijaya192@mail.com,AGUS WIJAYA,SL08,CB08,PR08,2.0,0.1,Lunas,agus.wijaya192@mail.com,Air Fryer,899000,Denpasar,Bali & Nusa Tenggara,1618200.0,Sedang
+670,TRX1610,2025-11-22,  grace.wijaya160@mail.com , Grace  Wijaya ,SL09,CB09,PR04,2.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,450000.0,Kecil
+671,TRX1624,2025-11-22,bayu.siregar66@mail.com,BAYU SIREGAR,SL10,CB10,PR12,4.0,0.0,Lunas,bayu.siregar66@mail.com,Mesin Cuci,2950000,Makassar,Sulawesi,11800000.0,Besar
+673,TRX1639,2025-11-22,DIMAS.LESTARI93@MAIL.COM,Dimas Lestari,SL06,CB06,PR01,1.0,0.1,Lunas,dimas.lestari93@mail.com,Rice Cooker,350000,Medan,Sumatera,315000.0,Kecil
+676,TRX1637,2025-11-23,bayu.nugroho179@mail.com, Bayu  Nugroho ,SL18,CB08,PR03,2.0,0.0,Lunas,bayu.nugroho179@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,350000.0,Kecil
+677,TRX1651,2025-11-23,GRACE.WIJAYA160@MAIL.COM,Grace Wijaya,SL02,CB02,PR13,1.0,0.15,Lunas,grace.wijaya160@mail.com,AC 1 PK,3700000,Jakarta Selatan,Jawa,3145000.0,Besar
+678,TRX1591,2025-11-24,  agus.nugroho214@mail.com ,Agus Nugroho,SL02,CB02,PR05,4.0,0.15,Lunas,agus.nugroho214@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,2210000.0,Besar
+679,TRX1596,2025-11-24,  hana.gunawan31@mail.com ,Hana Gunawan,SL15,CB05,PR10,4.0,0.0,Lunas,hana.gunawan31@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,7400000.0,Besar
+680,TRX1626,2025-11-24,laras.kusuma64@mail.com,laras kusuma,SL11,CB01,PR09,2.0,0.0,Lunas,laras.kusuma64@mail.com,Kompor Gas,520000,Jakarta Pusat,Jawa,1040000.0,Sedang
+681,TRX1632,2025-11-24,yoga.kusuma80@mail.com,YOGA KUSUMA,SL12,CB02,PR12,3.0,0.15,Lunas,yoga.kusuma80@mail.com,Mesin Cuci,2950000,Jakarta Selatan,Jawa,7522500.0,Besar
+682,TRX1656,2025-11-24,  olivia.hidayat231@mail.com ,Olivia Hidayat,SL09,CB09,PR12,1.0,0.05,Lunas,olivia.hidayat231@mail.com,Mesin Cuci,2950000,Balikpapan,Kalimantan,2802500.0,Besar
+684,TRX1612,2025-11-25,elsa.wijaya4@mail.com, Elsa  Wijaya ,SL19,CB09,PR02,3.0,0.0,Lunas,elsa.wijaya4@mail.com,Blender,280000,Balikpapan,Kalimantan,840000.0,Sedang
+685,TRX1631,2025-11-25,grace.wijaya160@mail.com,Grace Wijaya,SL03,CB03,PR03,2.0,0.0,Lunas,grace.wijaya160@mail.com,Setrika,175000,Bandung,Jawa,350000.0,Kecil
+686,TRX1647,2025-11-26,ilham.halim23@mail.com, Ilham  Halim ,SL01,CB01,PR04,3.0,0.2,Lunas,ilham.halim23@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,540000.0,Sedang
+687,TRX1603,2025-11-29,nico.wijaya127@mail.com,nico wijaya,SL09,CB09,PR01,4.0,0.0,Lunas,nico.wijaya127@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,1400000.0,Sedang
+688,TRX1698,2025-12-01,  fikri.saputra199@mail.com ,Fikri Saputra,SL09,CB09,PR14,2.0,0.15,Lunas,fikri.saputra199@mail.com,Water Heater,1650000,Balikpapan,Kalimantan,2805000.0,Besar
+689,TRX1700,2025-12-01,YOGA.HALIM72@MAIL.COM,Yoga Halim,SL19,CB09,PR02,3.0,0.1,Lunas,yoga.halim72@mail.com,Blender,280000,Balikpapan,Kalimantan,756000.0,Sedang
+690,TRX1712,2025-12-01,nico.nugroho155@mail.com,NICO NUGROHO,SL06,CB06,PR07,1.0,0.1,Lunas,nico.nugroho155@mail.com,Vacuum Cleaner,1450000,Medan,Sumatera,1305000.0,Sedang
+692,TRX1670,2025-12-02,GRACE.WIJAYA160@MAIL.COM,Grace Wijaya,SL05,CB05,PR02,1.0,0.05,Lunas,grace.wijaya160@mail.com,Blender,280000,Semarang,Jawa,266000.0,Kecil
+693,TRX1671,2025-12-02,tiara.siregar89@mail.com,Tiara Siregar,SL12,CB02,PR09,1.0,0.15,Lunas,tiara.siregar89@mail.com,Kompor Gas,520000,Jakarta Selatan,Jawa,442000.0,Kecil
+694,TRX1680,2025-12-02,Agus.putri116@mail.com,agus putri,SL09,CB09,PR13,2.0,0.0,Lunas,agus.putri116@mail.com,AC 1 PK,3700000,Balikpapan,Kalimantan,7400000.0,Besar
+695,TRX1681,2025-12-02,ilham.wijaya217@mail.com,Ilham Wijaya,SL12,CB02,PR02,1.0,0.05,Lunas,ilham.wijaya217@mail.com,Blender,280000,Jakarta Selatan,Jawa,266000.0,Kecil
+696,TRX1699,2025-12-02,nico.wijaya127@mail.com,nico wijaya,SL15,CB05,PR07,5.0,0.0,Lunas,nico.wijaya127@mail.com,Vacuum Cleaner,1450000,Semarang,Jawa,7250000.0,Besar
+697,TRX1702,2025-12-02,grace.wijaya160@mail.com,grace wijaya,SL19,CB09,PR13,1.0,0.15,Lunas,grace.wijaya160@mail.com,AC 1 PK,3700000,Balikpapan,Kalimantan,3145000.0,Besar
+698,TRX1716,2025-12-02,jessica.pratama226@mail.com,Jessica Pratama,SL12,CB02,PR01,4.0,0.0,Lunas,jessica.pratama226@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,1400000.0,Sedang
+700,TRX1723,2025-12-03,grace.wijaya160@mail.com,Grace Wijaya,SL20,CB10,PR05,1.0,0.0,Lunas,grace.wijaya160@mail.com,Dispenser,650000,Makassar,Sulawesi,650000.0,Sedang
+701,TRX1691,2025-12-04,Dimas.kusuma129@mail.com,DIMAS KUSUMA,SL18,CB08,PR04,1.0,0.05,Lunas,dimas.kusuma129@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,213750.0,Kecil
+702,TRX1726,2025-12-04,Agus.putri116@mail.com,Agus Putri,SL20,CB10,PR10,4.0,0.15,Lunas,agus.putri116@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,6290000.0,Besar
+704,TRX1696,2025-12-05,fikri.putri240@mail.com,Fikri Putri,SL05,CB05,PR04,1.0,0.1,Lunas,fikri.putri240@mail.com,Kipas Angin,225000,Semarang,Jawa,202500.0,Kecil
+705,TRX1710,2025-12-05,Kevin.putri79@mail.com,Kevin Putri,SL20,CB10,PR10,4.0,0.2,Lunas,kevin.putri79@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,5920000.0,Besar
+706,TRX1713,2025-12-05,GRACE.WIJAYA160@MAIL.COM, Grace  Wijaya ,SL19,CB09,PR03,2.0,0.05,Lunas,grace.wijaya160@mail.com,Setrika,175000,Balikpapan,Kalimantan,332500.0,Kecil
+707,TRX1668,2025-12-07,nico.wijaya239@mail.com,Nico Wijaya,SL12,CB02,PR04,3.0,0.0,Lunas,nico.wijaya239@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,675000.0,Sedang
+708,TRX1689,2025-12-07,jessica.siregar202@mail.com,jessica siregar,SL04,CB04,PR08,1.0,0.0,Lunas,jessica.siregar202@mail.com,Air Fryer,899000,Surabaya,Jawa,899000.0,Sedang
+711,TRX1742,2025-12-07,ILHAM.LESTARI186@MAIL.COM, Ilham  Lestari ,SL18,CB08,PR07,2.0,0.0,Lunas,ilham.lestari186@mail.com,Vacuum Cleaner,1450000,Denpasar,Bali & Nusa Tenggara,2900000.0,Besar
+712,TRX1751,2025-12-07,tiara.siregar89@mail.com,Tiara Siregar,SL19,CB09,PR04,2.0,0.0,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,450000.0,Kecil
+713,TRX1660,2025-12-08,dimas.putri20@mail.com,Dimas Putri,SL20,CB10,PR01,2.0,0.0,Lunas,dimas.putri20@mail.com,Rice Cooker,350000,Makassar,Sulawesi,700000.0,Sedang
+716,TRX1740,2025-12-08,jessica.halim115@mail.com,Jessica Halim,SL05,CB05,PR08,1.0,0.15,Lunas,jessica.halim115@mail.com,Air Fryer,899000,Semarang,Jawa,764150.0,Sedang
+717,TRX1743,2025-12-08,pandu.santoso35@mail.com, Pandu  Santoso ,SL16,CB06,PR09,3.0,0.2,Lunas,pandu.santoso35@mail.com,Kompor Gas,520000,Medan,Sumatera,1248000.0,Sedang
+718,TRX1663,2025-12-09,dimas.hidayat125@mail.com,DIMAS HIDAYAT,SL20,CB10,PR09,3.0,0.0,Lunas,dimas.hidayat125@mail.com,Kompor Gas,520000,Makassar,Sulawesi,1560000.0,Sedang
+719,TRX1679,2025-12-09,Rani.pratama74@mail.com,Rani Pratama,SL18,CB08,PR04,1.0,0.2,Lunas,rani.pratama74@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,180000.0,Kecil
+721,TRX1683,2025-12-09,Jessica.putri167@mail.com,jessica putri,SL17,CB07,PR03,2.0,0.15,Lunas,jessica.putri167@mail.com,Setrika,175000,Palembang,Sumatera,297500.0,Kecil
+723,TRX1692,2025-12-09,KEVIN.LESTARI165@MAIL.COM,Kevin Lestari,SL20,CB10,PR04,2.0,0.0,Lunas,kevin.lestari165@mail.com,Kipas Angin,225000,Makassar,Sulawesi,450000.0,Kecil
+724,TRX1709,2025-12-09,dimas.hidayat125@mail.com,DIMAS HIDAYAT,SL16,CB06,PR04,4.0,0.0,Lunas,dimas.hidayat125@mail.com,Kipas Angin,225000,Medan,Sumatera,900000.0,Sedang
+725,TRX1715,2025-12-09,  grace.santoso38@mail.com ,Grace Santoso,SL18,CB08,PR13,4.0,0.0,Lunas,grace.santoso38@mail.com,AC 1 PK,3700000,Denpasar,Bali & Nusa Tenggara,14800000.0,Besar
+727,TRX1675,2025-12-10,  yoga.halim251@mail.com ,yoga halim,SL10,CB10,PR15,2.0,0.0,Lunas,yoga.halim251@mail.com,Smart TV 50 Inch,6500000,Makassar,Sulawesi,13000000.0,Besar
+728,TRX1676,2025-12-10,tiara.putri159@mail.com,Tiara Putri,SL05,CB05,PR07,1.0,0.15,Lunas,tiara.putri159@mail.com,Vacuum Cleaner,1450000,Semarang,Jawa,1232500.0,Sedang
+729,TRX1694,2025-12-10,bayu.nugroho179@mail.com,bayu nugroho,SL01,CB01,PR01,1.0,0.05,Lunas,bayu.nugroho179@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,332500.0,Kecil
+730,TRX1701,2025-12-10,ilham.lestari186@mail.com,ilham lestari,SL08,CB08,PR10,5.0,0.0,Lunas,ilham.lestari186@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,9250000.0,Besar
+733,TRX1666,2025-12-11,SATRIA.PRATAMA17@MAIL.COM,Satria Pratama,SL06,CB06,PR01,4.0,0.0,Lunas,satria.pratama17@mail.com,Rice Cooker,350000,Medan,Sumatera,1400000.0,Sedang
+734,TRX1664,2025-12-12,DIMAS.KUSUMA129@MAIL.COM,Dimas Kusuma,SL18,CB08,PR01,1.0,0.0,Lunas,dimas.kusuma129@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,350000.0,Kecil
+736,TRX1674,2025-12-12,bayu.nugroho215@mail.com,bayu nugroho,SL10,CB10,PR09,2.0,0.2,Lunas,bayu.nugroho215@mail.com,Kompor Gas,520000,Makassar,Sulawesi,832000.0,Sedang
+741,TRX1752,2025-12-12,  yoga.halim72@mail.com ,Yoga Halim,SL13,CB03,PR02,3.0,0.05,Lunas,yoga.halim72@mail.com,Blender,280000,Bandung,Jawa,798000.0,Sedang
+743,TRX1707,2025-12-15,yoga.santoso70@mail.com,yoga santoso,SL19,CB09,PR10,3.0,0.0,Lunas,yoga.santoso70@mail.com,TV LED 32 Inch,1850000,Balikpapan,Kalimantan,5550000.0,Besar
+745,TRX1747,2025-12-15,FIKRI.SAPUTRA199@MAIL.COM,fikri saputra,SL17,CB07,PR10,3.0,0.0,Lunas,fikri.saputra199@mail.com,TV LED 32 Inch,1850000,Palembang,Sumatera,5550000.0,Besar
+747,TRX1750,2025-12-16,ilham.lestari186@mail.com,Ilham Lestari,SL18,CB08,PR01,3.0,0.1,Lunas,ilham.lestari186@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,945000.0,Sedang
+748,TRX1685,2025-12-17,ilham.lestari186@mail.com,Ilham Lestari,SL04,CB04,PR08,3.0,0.1,Lunas,ilham.lestari186@mail.com,Air Fryer,899000,Surabaya,Jawa,2427300.0,Besar
+749,TRX1733,2025-12-17,rani.wijaya229@mail.com,Rani Wijaya,SL09,CB09,PR01,2.0,0.0,Lunas,rani.wijaya229@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,700000.0,Sedang
+750,TRX1735,2025-12-17,ilham.lestari186@mail.com,ilham lestari,SL19,CB09,PR04,5.0,0.15,Lunas,ilham.lestari186@mail.com,Kipas Angin,225000,Balikpapan,Kalimantan,956250.0,Sedang
+751,TRX1748,2025-12-17,Grace.wijaya160@mail.com, Grace  Wijaya ,SL06,CB06,PR12,3.0,0.05,Lunas,grace.wijaya160@mail.com,Mesin Cuci,2950000,Medan,Sumatera,8407500.0,Besar
+752,TRX1703,2025-12-18,DIMAS.KUSUMA129@MAIL.COM, Dimas  Kusuma ,SL19,CB09,PR15,1.0,0.15,Lunas,dimas.kusuma129@mail.com,Smart TV 50 Inch,6500000,Balikpapan,Kalimantan,5525000.0,Besar
+754,TRX1721,2025-12-18,nico.nugroho155@mail.com,Nico Nugroho,SL11,CB01,PR01,2.0,0.05,Lunas,nico.nugroho155@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,665000.0,Sedang
+755,TRX1731,2025-12-18,olivia.putri235@mail.com, Olivia  Putri ,SL19,CB09,PR07,4.0,0.0,Lunas,olivia.putri235@mail.com,Vacuum Cleaner,1450000,Balikpapan,Kalimantan,5800000.0,Besar
+757,TRX1749,2025-12-18,ilham.lestari186@mail.com,Ilham Lestari,SL09,CB09,PR05,3.0,0.0,Lunas,ilham.lestari186@mail.com,Dispenser,650000,Balikpapan,Kalimantan,1950000.0,Sedang
+758,TRX1677,2025-12-19,  ilham.lestari186@mail.com ,ilham lestari,SL07,CB07,PR15,1.0,0.1,Lunas,ilham.lestari186@mail.com,Smart TV 50 Inch,6500000,Palembang,Sumatera,5850000.0,Besar
+759,TRX1688,2025-12-19,ilham.putri13@mail.com,ILHAM PUTRI,SL01,CB01,PR08,3.0,0.1,Lunas,ilham.putri13@mail.com,Air Fryer,899000,Jakarta Pusat,Jawa,2427300.0,Besar
+760,TRX1717,2025-12-19,yoga.nugroho255@mail.com,Yoga Nugroho,SL09,CB09,PR11,2.0,0.1,Lunas,yoga.nugroho255@mail.com,Kulkas 1 Pintu,2400000,Balikpapan,Kalimantan,4320000.0,Besar
+761,TRX1669,2025-12-20,  maya.wijaya122@mail.com ,MAYA WIJAYA,SL05,CB05,PR02,5.0,0.05,Lunas,maya.wijaya122@mail.com,Blender,280000,Semarang,Jawa,1330000.0,Sedang
+762,TRX1724,2025-12-20,Grace.wijaya160@mail.com, Grace  Wijaya ,SL13,CB03,PR01,3.0,0.15,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Bandung,Jawa,892500.0,Sedang
+763,TRX1744,2025-12-20,,Grace Wijaya,SL01,CB01,PR09,4.0,0.0,Lunas,,Kompor Gas,520000,Jakarta Pusat,Jawa,2080000.0,Besar
+764,TRX1730,2025-12-22,grace.wijaya160@mail.com, Grace  Wijaya ,SL10,CB10,PR07,3.0,0.15,Lunas,grace.wijaya160@mail.com,Vacuum Cleaner,1450000,Makassar,Sulawesi,3697500.0,Besar
+765,TRX1678,2025-12-23,grace.wijaya160@mail.com,Grace Wijaya,SL14,CB04,PR04,1.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Surabaya,Jawa,225000.0,Kecil
+766,TRX1718,2025-12-23,  dimas.wijaya174@mail.com , Dimas  Wijaya ,SL16,CB06,PR14,2.0,0.0,Lunas,dimas.wijaya174@mail.com,Water Heater,1650000,Medan,Sumatera,3300000.0,Besar
+768,TRX1682,2025-12-24,  hana.halim100@mail.com , Hana  Halim ,SL18,CB08,PR09,1.0,0.0,Lunas,hana.halim100@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,520000.0,Sedang
+769,TRX1693,2025-12-24,  maya.pratama68@mail.com ,Maya Pratama,SL15,CB05,PR10,3.0,0.0,Lunas,maya.pratama68@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,5550000.0,Besar
+771,TRX1732,2025-12-24,YOGA.HALIM72@MAIL.COM,yoga halim,SL08,CB08,PR04,3.0,0.1,Lunas,yoga.halim72@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,607500.0,Sedang
+776,TRX1705,2025-12-26,  grace.wijaya160@mail.com ,Grace Wijaya,SL13,CB03,PR11,1.0,0.0,Lunas,grace.wijaya160@mail.com,Kulkas 1 Pintu,2400000,Bandung,Jawa,2400000.0,Besar
+777,TRX1665,2025-12-27,dimas.kusuma129@mail.com, Dimas  Kusuma ,SL06,CB06,PR14,2.0,0.0,Lunas,dimas.kusuma129@mail.com,Water Heater,1650000,Medan,Sumatera,3300000.0,Besar
+778,TRX1706,2025-12-27,TIARA.SIREGAR89@MAIL.COM,Tiara Siregar,SL03,CB03,PR05,1.0,0.0,Lunas,tiara.siregar89@mail.com,Dispenser,650000,Bandung,Jawa,650000.0,Sedang
+779,TRX1714,2025-12-27,jessica.pratama226@mail.com,jessica pratama,SL17,CB07,PR03,1.0,0.0,Lunas,jessica.pratama226@mail.com,Setrika,175000,Palembang,Sumatera,175000.0,Kecil
+780,TRX1725,2025-12-27,  hana.gunawan31@mail.com ,Hana Gunawan,SL13,CB03,PR08,2.0,0.0,Lunas,hana.gunawan31@mail.com,Air Fryer,899000,Bandung,Jawa,1798000.0,Sedang
+781,TRX1659,2025-12-28,pandu.kusuma53@mail.com,Pandu Kusuma,SL03,CB03,PR09,5.0,0.0,Lunas,pandu.kusuma53@mail.com,Kompor Gas,520000,Bandung,Jawa,2600000.0,Besar
+783,TRX1734,2025-12-28,pandu.putri52@mail.com,pandu putri,SL05,CB05,PR11,1.0,0.1,Lunas,pandu.putri52@mail.com,Kulkas 1 Pintu,2400000,Semarang,Jawa,2160000.0,Besar
+784,TRX1704,2025-12-29,rani.wijaya229@mail.com,Rani Wijaya,SL20,CB10,PR12,1.0,0.15,Lunas,rani.wijaya229@mail.com,Mesin Cuci,2950000,Makassar,Sulawesi,2507500.0,Besar
+785,TRX1741,2025-12-29,rani.pratama74@mail.com,rani pratama,SL09,CB09,PR14,4.0,0.2,Lunas,rani.pratama74@mail.com,Water Heater,1650000,Balikpapan,Kalimantan,5280000.0,Besar
+786,TRX1728,2025-12-30,tiara.siregar89@mail.com,tiara siregar,SL15,CB05,PR12,4.0,0.0,Lunas,tiara.siregar89@mail.com,Mesin Cuci,2950000,Semarang,Jawa,11800000.0,Besar
+787,TRX1672,2025-12-31,  clara.siregar78@mail.com ,Clara Siregar,SL14,CB04,PR07,4.0,0.1,Lunas,clara.siregar78@mail.com,Vacuum Cleaner,1450000,Surabaya,Jawa,5220000.0,Besar
+788,TRX1727,2025-12-31,pandu.santoso35@mail.com, Pandu  Santoso ,SL08,CB08,PR02,3.0,0.05,Lunas,pandu.santoso35@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,798000.0,Sedang
+789,TRX1795,2026-01-01,  nico.hidayat87@mail.com ,Nico Hidayat,SL06,CB06,PR06,1.0,0.0,Lunas,nico.hidayat87@mail.com,Microwave,1150000,Medan,Sumatera,1150000.0,Sedang
+790,TRX1769,2026-01-02,fikri.saputra199@mail.com, Fikri  Saputra ,SL06,CB06,PR03,1.0,0.0,Lunas,fikri.saputra199@mail.com,Setrika,175000,Medan,Sumatera,175000.0,Kecil
+791,TRX1775,2026-01-02,ilham.halim109@mail.com,ilham halim,SL01,CB01,PR04,5.0,0.05,Lunas,ilham.halim109@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,1068750.0,Sedang
+793,TRX1787,2026-01-02,fikri.putri240@mail.com,Fikri Putri,SL14,CB04,PR01,1.0,0.0,Lunas,fikri.putri240@mail.com,Rice Cooker,350000,Surabaya,Jawa,350000.0,Kecil
+795,TRX1788,2026-01-03,PANDU.HIDAYAT106@MAIL.COM,Pandu Hidayat,SL01,CB01,PR11,1.0,0.0,Lunas,pandu.hidayat106@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,2400000.0,Besar
+796,TRX1824,2026-01-03,maya.wijaya122@mail.com,Maya Wijaya,SL13,CB03,PR05,4.0,0.2,Lunas,maya.wijaya122@mail.com,Dispenser,650000,Bandung,Jawa,2080000.0,Besar
+797,TRX1777,2026-01-04,DIMAS.KUSUMA129@MAIL.COM, Dimas  Kusuma ,SL03,CB03,PR06,1.0,0.05,Lunas,dimas.kusuma129@mail.com,Microwave,1150000,Bandung,Jawa,1092500.0,Sedang
+798,TRX1799,2026-01-04,CLARA.KUSUMA120@MAIL.COM,Clara Kusuma,SL16,CB06,PR05,1.0,0.05,Lunas,clara.kusuma120@mail.com,Dispenser,650000,Medan,Sumatera,617500.0,Sedang
+799,TRX1763,2026-01-05,pandu.kusuma12@mail.com,Pandu Kusuma,SL08,CB08,PR10,2.0,0.15,Lunas,pandu.kusuma12@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,3145000.0,Besar
+801,TRX1764,2026-01-05,tiara.siregar89@mail.com,TIARA SIREGAR,SL06,CB06,PR14,1.0,0.05,Lunas,tiara.siregar89@mail.com,Water Heater,1650000,Medan,Sumatera,1567500.0,Sedang
+802,TRX1780,2026-01-05,rani.wijaya229@mail.com,rani wijaya,SL10,CB10,PR12,4.0,0.0,Lunas,rani.wijaya229@mail.com,Mesin Cuci,2950000,Makassar,Sulawesi,11800000.0,Besar
+803,TRX1791,2026-01-05,grace.wijaya160@mail.com,Grace Wijaya,SL02,CB02,PR06,1.0,0.15,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Jakarta Selatan,Jawa,977500.0,Sedang
+804,TRX1797,2026-01-05,tiara.saputra76@mail.com,Tiara Saputra,SL18,CB08,PR01,3.0,0.05,Lunas,tiara.saputra76@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,997500.0,Sedang
+805,TRX1805,2026-01-05,satria.wijaya194@mail.com, Satria  Wijaya ,SL13,CB03,PR05,5.0,0.2,Lunas,satria.wijaya194@mail.com,Dispenser,650000,Bandung,Jawa,2600000.0,Besar
+806,TRX1759,2026-01-06,  laras.kusuma64@mail.com ,Laras Kusuma,SL10,CB10,PR05,2.0,0.05,Lunas,laras.kusuma64@mail.com,Dispenser,650000,Makassar,Sulawesi,1235000.0,Sedang
+808,TRX1754,2026-01-07,  yoga.siregar132@mail.com ,Yoga Siregar,SL11,CB01,PR04,1.0,0.2,Lunas,yoga.siregar132@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,180000.0,Kecil
+809,TRX1760,2026-01-07,tiara.siregar89@mail.com,tiara siregar,SL06,CB06,PR10,5.0,0.1,Lunas,tiara.siregar89@mail.com,TV LED 32 Inch,1850000,Medan,Sumatera,8325000.0,Besar
+810,TRX1756,2026-01-08,kevin.lestari10@mail.com,Kevin Lestari,SL02,CB02,PR01,4.0,0.1,Lunas,kevin.lestari10@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,1260000.0,Sedang
+811,TRX1772,2026-01-08,jessica.putri167@mail.com,Jessica Putri,SL15,CB05,PR09,1.0,0.0,Lunas,jessica.putri167@mail.com,Kompor Gas,520000,Semarang,Jawa,520000.0,Sedang
+813,TRX1813,2026-01-10,pandu.hidayat106@mail.com,pandu hidayat,SL15,CB05,PR13,5.0,0.2,Lunas,pandu.hidayat106@mail.com,AC 1 PK,3700000,Semarang,Jawa,14800000.0,Besar
+814,TRX1819,2026-01-10,  olivia.santoso195@mail.com ,Olivia Santoso,SL14,CB04,PR08,4.0,0.15,Lunas,olivia.santoso195@mail.com,Air Fryer,899000,Surabaya,Jawa,3056600.0,Besar
+815,TRX1786,2026-01-11,  grace.kusuma119@mail.com ,GRACE KUSUMA,SL04,CB04,PR11,2.0,0.0,Lunas,grace.kusuma119@mail.com,Kulkas 1 Pintu,2400000,Surabaya,Jawa,4800000.0,Besar
+816,TRX1796,2026-01-11,  tiara.siregar89@mail.com ,tiara siregar,SL18,CB08,PR03,5.0,0.0,Lunas,tiara.siregar89@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,875000.0,Sedang
+817,TRX1800,2026-01-11,grace.wijaya160@mail.com,Grace Wijaya,SL01,CB01,PR06,5.0,0.0,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Jakarta Pusat,Jawa,5750000.0,Besar
+818,TRX1807,2026-01-11,  ilham.lestari186@mail.com ,ilham lestari,SL20,CB10,PR07,3.0,0.0,Lunas,ilham.lestari186@mail.com,Vacuum Cleaner,1450000,Makassar,Sulawesi,4350000.0,Besar
+821,TRX1818,2026-01-12,maya.lestari96@mail.com,Maya Lestari,SL03,CB03,PR09,5.0,0.2,Lunas,maya.lestari96@mail.com,Kompor Gas,520000,Bandung,Jawa,2080000.0,Besar
+822,TRX1768,2026-01-13,clara.wijaya85@mail.com,Clara Wijaya,SL19,CB09,PR08,4.0,0.2,Lunas,clara.wijaya85@mail.com,Air Fryer,899000,Balikpapan,Kalimantan,2876800.0,Besar
+823,TRX1816,2026-01-13,satria.pratama17@mail.com,Satria Pratama,SL03,CB03,PR02,2.0,0.15,Lunas,satria.pratama17@mail.com,Blender,280000,Bandung,Jawa,476000.0,Kecil
+824,TRX1784,2026-01-14,  dimas.siregar143@mail.com ,dimas siregar,SL11,CB01,PR06,4.0,0.0,Lunas,dimas.siregar143@mail.com,Microwave,1150000,Jakarta Pusat,Jawa,4600000.0,Besar
+826,TRX1770,2026-01-15,jessica.saputra102@mail.com,Jessica Saputra,SL08,CB08,PR05,1.0,0.15,Lunas,jessica.saputra102@mail.com,Dispenser,650000,Denpasar,Bali & Nusa Tenggara,552500.0,Sedang
+827,TRX1815,2026-01-15,olivia.halim197@mail.com,OLIVIA HALIM,SL03,CB03,PR01,2.0,0.0,Lunas,olivia.halim197@mail.com,Rice Cooker,350000,Bandung,Jawa,700000.0,Sedang
+828,TRX1825,2026-01-15,yoga.wijaya97@mail.com,Yoga Wijaya,SL07,CB07,PR09,1.0,0.0,Lunas,yoga.wijaya97@mail.com,Kompor Gas,520000,Palembang,Sumatera,520000.0,Sedang
+830,TRX1773,2026-01-17,  fikri.kusuma19@mail.com ,Fikri Kusuma,SL05,CB05,PR15,5.0,0.0,Lunas,fikri.kusuma19@mail.com,Smart TV 50 Inch,6500000,Semarang,Jawa,32500000.0,Besar
+831,TRX1808,2026-01-17,  clara.siregar78@mail.com ,Clara Siregar,SL02,CB02,PR05,1.0,0.05,Lunas,clara.siregar78@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,617500.0,Sedang
+833,TRX1785,2026-01-18,agus.wijaya58@mail.com, Agus  Wijaya ,SL07,CB07,PR10,5.0,0.0,Lunas,agus.wijaya58@mail.com,TV LED 32 Inch,1850000,Palembang,Sumatera,9250000.0,Besar
+834,TRX1757,2026-01-19,nico.hidayat87@mail.com,Nico Hidayat,SL09,CB09,PR01,3.0,0.0,Lunas,nico.hidayat87@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,1050000.0,Sedang
+835,TRX1820,2026-01-19,KEVIN.WIJAYA152@MAIL.COM,Kevin Wijaya,SL19,CB09,PR09,2.0,0.0,Lunas,kevin.wijaya152@mail.com,Kompor Gas,520000,Balikpapan,Kalimantan,1040000.0,Sedang
+836,TRX1823,2026-01-19,bayu.saputra43@mail.com,Bayu Saputra,SL18,CB08,PR02,1.0,0.1,Lunas,bayu.saputra43@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,252000.0,Kecil
+837,TRX1790,2026-01-20,Satria.saputra47@mail.com,satria saputra,SL19,CB09,PR07,5.0,0.0,Lunas,satria.saputra47@mail.com,Vacuum Cleaner,1450000,Balikpapan,Kalimantan,7250000.0,Besar
+838,TRX1812,2026-01-20,Fikri.putri240@mail.com,Fikri Putri,SL12,CB02,PR07,1.0,0.2,Lunas,fikri.putri240@mail.com,Vacuum Cleaner,1450000,Jakarta Selatan,Jawa,1160000.0,Sedang
+839,TRX1826,2026-01-20,tiara.siregar89@mail.com,Tiara Siregar,SL10,CB10,PR14,3.0,0.0,Lunas,tiara.siregar89@mail.com,Water Heater,1650000,Makassar,Sulawesi,4950000.0,Besar
+840,TRX1771,2026-01-21,  bayu.hidayat34@mail.com , Bayu  Hidayat ,SL01,CB01,PR03,1.0,0.2,Lunas,bayu.hidayat34@mail.com,Setrika,175000,Jakarta Pusat,Jawa,140000.0,Kecil
+841,TRX1774,2026-01-21,bayu.siregar66@mail.com,BAYU SIREGAR,SL20,CB10,PR05,2.0,0.0,Lunas,bayu.siregar66@mail.com,Dispenser,650000,Makassar,Sulawesi,1300000.0,Sedang
+842,TRX1803,2026-01-21,agus.santoso198@mail.com,AGUS SANTOSO,SL16,CB06,PR02,3.0,0.0,Lunas,agus.santoso198@mail.com,Blender,280000,Medan,Sumatera,840000.0,Sedang
+843,TRX1801,2026-01-22,Jessica.nugroho101@mail.com, Jessica  Nugroho ,SL09,CB09,PR15,2.0,0.0,Lunas,jessica.nugroho101@mail.com,Smart TV 50 Inch,6500000,Balikpapan,Kalimantan,13000000.0,Besar
+844,TRX1802,2026-01-22,rani.putri256@mail.com,rani putri,SL13,CB03,PR04,1.0,0.2,Lunas,rani.putri256@mail.com,Kipas Angin,225000,Bandung,Jawa,180000.0,Kecil
+845,TRX1758,2026-01-23,yoga.putri200@mail.com,YOGA PUTRI,SL16,CB06,PR02,1.0,0.0,Lunas,yoga.putri200@mail.com,Blender,280000,Medan,Sumatera,280000.0,Kecil
+849,TRX1765,2026-01-25,  grace.wijaya160@mail.com , Grace  Wijaya ,SL11,CB01,PR09,4.0,0.15,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Jakarta Pusat,Jawa,1768000.0,Sedang
+850,TRX1778,2026-01-25,satria.putri213@mail.com,satria putri,SL01,CB01,PR11,4.0,0.0,Lunas,satria.putri213@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,9600000.0,Besar
+851,TRX1789,2026-01-25,Nico.hidayat37@mail.com,Nico Hidayat,SL12,CB02,PR05,1.0,0.0,Lunas,nico.hidayat37@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,650000.0,Sedang
+854,TRX1804,2026-01-27,grace.wijaya160@mail.com,grace wijaya,SL06,CB06,PR02,1.0,0.2,Lunas,grace.wijaya160@mail.com,Blender,280000,Medan,Sumatera,224000.0,Kecil
+855,TRX1806,2026-01-27,  tiara.saputra76@mail.com ,tiara saputra,SL11,CB01,PR04,1.0,0.1,Lunas,tiara.saputra76@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,202500.0,Kecil
+856,TRX1809,2026-01-27,ilham.putri45@mail.com, Ilham  Putri ,SL11,CB01,PR03,2.0,0.05,Lunas,ilham.putri45@mail.com,Setrika,175000,Jakarta Pusat,Jawa,332500.0,Kecil
+857,TRX1821,2026-01-27,yoga.gunawan173@mail.com,yoga gunawan,SL12,CB02,PR11,1.0,0.0,Lunas,yoga.gunawan173@mail.com,Kulkas 1 Pintu,2400000,Jakarta Selatan,Jawa,2400000.0,Besar
+858,TRX1782,2026-01-29,yoga.gunawan225@mail.com, Yoga  Gunawan ,SL06,CB06,PR03,1.0,0.15,Lunas,yoga.gunawan225@mail.com,Setrika,175000,Medan,Sumatera,148750.0,Kecil
+859,TRX1798,2026-01-29,nico.kusuma95@mail.com, Nico  Kusuma ,SL18,CB08,PR09,4.0,0.15,Lunas,nico.kusuma95@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,1768000.0,Sedang
+862,TRX1811,2026-01-30,,Grace Wijaya,SL09,CB09,PR02,1.0,0.1,Lunas,,Blender,280000,Balikpapan,Kalimantan,252000.0,Kecil
+863,TRX1767,2026-01-31,  satria.putri18@mail.com ,SATRIA PUTRI,SL08,CB08,PR03,1.0,0.15,Lunas,satria.putri18@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,148750.0,Kecil
+865,TRX1783,2026-01-31,Bayu.putri193@mail.com,bayu putri,SL01,CB01,PR06,2.0,0.05,Lunas,bayu.putri193@mail.com,Microwave,1150000,Jakarta Pusat,Jawa,2185000.0,Besar
+866,TRX1792,2026-01-31,yoga.nugroho255@mail.com,yoga nugroho,SL11,CB01,PR02,1.0,0.0,Lunas,yoga.nugroho255@mail.com,Blender,280000,Jakarta Pusat,Jawa,280000.0,Kecil
+867,TRX1834,2026-02-01,yoga.kusuma80@mail.com,Yoga Kusuma,SL12,CB02,PR06,1.0,0.0,Lunas,yoga.kusuma80@mail.com,Microwave,1150000,Jakarta Selatan,Jawa,1150000.0,Sedang
+868,TRX1849,2026-02-02,jessica.santoso242@mail.com,jessica santoso,SL13,CB03,PR07,2.0,0.2,Lunas,jessica.santoso242@mail.com,Vacuum Cleaner,1450000,Bandung,Jawa,2320000.0,Besar
+869,TRX1874,2026-02-02,Grace.wijaya160@mail.com,Grace Wijaya,SL13,CB03,PR02,4.0,0.15,Lunas,grace.wijaya160@mail.com,Blender,280000,Bandung,Jawa,952000.0,Sedang
+870,TRX1885,2026-02-02,pandu.nugroho86@mail.com,PANDU NUGROHO,SL13,CB03,PR07,5.0,0.1,Lunas,pandu.nugroho86@mail.com,Vacuum Cleaner,1450000,Bandung,Jawa,6525000.0,Besar
+872,TRX1862,2026-02-03,TIARA.SIREGAR89@MAIL.COM,TIARA SIREGAR,SL08,CB08,PR04,1.0,0.05,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,213750.0,Kecil
+875,TRX1899,2026-02-04,YOGA.KUSUMA80@MAIL.COM,YOGA KUSUMA,SL07,CB07,PR02,5.0,0.15,Lunas,yoga.kusuma80@mail.com,Blender,280000,Palembang,Sumatera,1190000.0,Sedang
+876,TRX1913,2026-02-04,Nico.nugroho155@mail.com,nico nugroho,SL12,CB02,PR12,4.0,0.0,Lunas,nico.nugroho155@mail.com,Mesin Cuci,2950000,Jakarta Selatan,Jawa,11800000.0,Besar
+877,TRX1847,2026-02-05,ilham.santoso212@mail.com, Ilham  Santoso ,SL08,CB08,PR11,1.0,0.0,Lunas,ilham.santoso212@mail.com,Kulkas 1 Pintu,2400000,Denpasar,Bali & Nusa Tenggara,2400000.0,Besar
+878,TRX1850,2026-02-05,ilham.lestari186@mail.com,ILHAM LESTARI,SL08,CB08,PR05,3.0,0.1,Lunas,ilham.lestari186@mail.com,Dispenser,650000,Denpasar,Bali & Nusa Tenggara,1755000.0,Sedang
+880,TRX1864,2026-02-05,YOGA.SAPUTRA146@MAIL.COM, Yoga  Saputra ,SL16,CB06,PR15,1.0,0.0,Lunas,yoga.saputra146@mail.com,Smart TV 50 Inch,6500000,Medan,Sumatera,6500000.0,Besar
+883,TRX1835,2026-02-06,grace.wijaya160@mail.com,Grace Wijaya,SL15,CB05,PR01,4.0,0.0,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Semarang,Jawa,1400000.0,Sedang
+884,TRX1840,2026-02-07,fikri.saputra199@mail.com,Fikri Saputra,SL20,CB10,PR02,3.0,0.0,Lunas,fikri.saputra199@mail.com,Blender,280000,Makassar,Sulawesi,840000.0,Sedang
+886,TRX1830,2026-02-08,maya.siregar171@mail.com,MAYA SIREGAR,SL04,CB04,PR02,1.0,0.0,Lunas,maya.siregar171@mail.com,Blender,280000,Surabaya,Jawa,280000.0,Kecil
+887,TRX1841,2026-02-08,tiara.siregar89@mail.com,Tiara Siregar,SL17,CB07,PR05,1.0,0.05,Lunas,tiara.siregar89@mail.com,Dispenser,650000,Palembang,Sumatera,617500.0,Sedang
+888,TRX1846,2026-02-08,rani.wijaya229@mail.com,RANI WIJAYA,SL17,CB07,PR08,1.0,0.05,Lunas,rani.wijaya229@mail.com,Air Fryer,899000,Palembang,Sumatera,854050.0,Sedang
+889,TRX1855,2026-02-08,yoga.gunawan177@mail.com,yoga gunawan,SL19,CB09,PR11,1.0,0.0,Lunas,yoga.gunawan177@mail.com,Kulkas 1 Pintu,2400000,Balikpapan,Kalimantan,2400000.0,Besar
+890,TRX1903,2026-02-08,clara.kusuma120@mail.com,CLARA KUSUMA,SL10,CB10,PR07,3.0,0.05,Lunas,clara.kusuma120@mail.com,Vacuum Cleaner,1450000,Makassar,Sulawesi,4132500.0,Besar
+893,TRX1871,2026-02-10,  rani.wijaya229@mail.com ,Rani Wijaya,SL04,CB04,PR11,4.0,0.0,Lunas,rani.wijaya229@mail.com,Kulkas 1 Pintu,2400000,Surabaya,Jawa,9600000.0,Besar
+895,TRX1882,2026-02-10,SATRIA.WIJAYA194@MAIL.COM,satria wijaya,SL11,CB01,PR07,1.0,0.0,Lunas,satria.wijaya194@mail.com,Vacuum Cleaner,1450000,Jakarta Pusat,Jawa,1450000.0,Sedang
+896,TRX1896,2026-02-10,grace.wijaya160@mail.com,Grace Wijaya,SL12,CB02,PR12,1.0,0.2,Lunas,grace.wijaya160@mail.com,Mesin Cuci,2950000,Jakarta Selatan,Jawa,2360000.0,Besar
+897,TRX1901,2026-02-10,MAYA.WIJAYA122@MAIL.COM,MAYA WIJAYA,SL11,CB01,PR02,2.0,0.0,Lunas,maya.wijaya122@mail.com,Blender,280000,Jakarta Pusat,Jawa,560000.0,Sedang
+899,TRX1888,2026-02-11,jessica.halim115@mail.com,Jessica Halim,SL17,CB07,PR07,1.0,0.0,Lunas,jessica.halim115@mail.com,Vacuum Cleaner,1450000,Palembang,Sumatera,1450000.0,Sedang
+900,TRX1838,2026-02-12,elsa.wijaya59@mail.com,Elsa Wijaya,SL04,CB04,PR05,1.0,0.0,Lunas,elsa.wijaya59@mail.com,Dispenser,650000,Surabaya,Jawa,650000.0,Sedang
+902,TRX1836,2026-02-13,laras.siregar65@mail.com,LARAS SIREGAR,SL15,CB05,PR02,5.0,0.0,Lunas,laras.siregar65@mail.com,Blender,280000,Semarang,Jawa,1400000.0,Sedang
+903,TRX1851,2026-02-13,Yoga.nugroho255@mail.com,Yoga Nugroho,SL10,CB10,PR01,1.0,0.2,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Makassar,Sulawesi,280000.0,Kecil
+904,TRX1877,2026-02-13,rani.pratama51@mail.com,Rani Pratama,SL01,CB01,PR05,1.0,0.05,Lunas,rani.pratama51@mail.com,Dispenser,650000,Jakarta Pusat,Jawa,617500.0,Sedang
+905,TRX1860,2026-02-14,yoga.halim72@mail.com,Yoga Halim,SL08,CB08,PR03,1.0,0.05,Lunas,yoga.halim72@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,166250.0,Kecil
+907,TRX1886,2026-02-14,Tiara.pratama204@mail.com,Tiara Pratama,SL06,CB06,PR10,2.0,0.0,Lunas,tiara.pratama204@mail.com,TV LED 32 Inch,1850000,Medan,Sumatera,3700000.0,Besar
+910,TRX1842,2026-02-15,dimas.halim178@mail.com,Dimas Halim,SL10,CB10,PR09,1.0,0.2,Lunas,dimas.halim178@mail.com,Kompor Gas,520000,Makassar,Sulawesi,416000.0,Kecil
+911,TRX1852,2026-02-15,pandu.kusuma12@mail.com,Pandu Kusuma,SL02,CB02,PR01,1.0,0.0,Lunas,pandu.kusuma12@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,350000.0,Kecil
+914,TRX1900,2026-02-15,fikri.nugroho105@mail.com,Fikri Nugroho,SL16,CB06,PR01,3.0,0.05,Lunas,fikri.nugroho105@mail.com,Rice Cooker,350000,Medan,Sumatera,997500.0,Sedang
+915,TRX1905,2026-02-15,pandu.hidayat106@mail.com,Pandu Hidayat,SL03,CB03,PR08,1.0,0.15,Lunas,pandu.hidayat106@mail.com,Air Fryer,899000,Bandung,Jawa,764150.0,Sedang
+916,TRX1890,2026-02-16,grace.wijaya160@mail.com,grace wijaya,SL16,CB06,PR09,1.0,0.2,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Medan,Sumatera,416000.0,Kecil
+918,TRX1875,2026-02-17,ilham.lestari133@mail.com,Ilham Lestari,SL16,CB06,PR01,1.0,0.05,Lunas,ilham.lestari133@mail.com,Rice Cooker,350000,Medan,Sumatera,332500.0,Kecil
+919,TRX1893,2026-02-17,tiara.saputra76@mail.com,Tiara Saputra,SL02,CB02,PR01,5.0,0.0,Lunas,tiara.saputra76@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,1750000.0,Sedang
+920,TRX1895,2026-02-17,ilham.hidayat137@mail.com, Ilham  Hidayat ,SL20,CB10,PR03,5.0,0.1,Lunas,ilham.hidayat137@mail.com,Setrika,175000,Makassar,Sulawesi,787500.0,Sedang
+921,TRX1863,2026-02-18,CLARA.SIREGAR182@MAIL.COM,clara siregar,SL19,CB09,PR02,2.0,0.2,Lunas,clara.siregar182@mail.com,Blender,280000,Balikpapan,Kalimantan,448000.0,Kecil
+922,TRX1879,2026-02-18,Dimas.santoso205@mail.com, Dimas  Santoso ,SL19,CB09,PR05,2.0,0.15,Lunas,dimas.santoso205@mail.com,Dispenser,650000,Balikpapan,Kalimantan,1105000.0,Sedang
+923,TRX1883,2026-02-18,grace.santoso38@mail.com,grace santoso,SL14,CB04,PR06,2.0,0.15,Lunas,grace.santoso38@mail.com,Microwave,1150000,Surabaya,Jawa,1955000.0,Sedang
+924,TRX1858,2026-02-20,dimas.kusuma233@mail.com, Dimas  Kusuma ,SL09,CB09,PR06,3.0,0.2,Lunas,dimas.kusuma233@mail.com,Microwave,1150000,Balikpapan,Kalimantan,2760000.0,Besar
+925,TRX1861,2026-02-20,tiara.siregar89@mail.com,TIARA SIREGAR,SL17,CB07,PR04,4.0,0.0,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Palembang,Sumatera,900000.0,Sedang
+926,TRX1868,2026-02-20,Kevin.lestari10@mail.com,Kevin Lestari,SL11,CB01,PR02,1.0,0.15,Lunas,kevin.lestari10@mail.com,Blender,280000,Jakarta Pusat,Jawa,238000.0,Kecil
+927,TRX1898,2026-02-20,Ilham.halim109@mail.com,ILHAM HALIM,SL13,CB03,PR04,1.0,0.0,Lunas,ilham.halim109@mail.com,Kipas Angin,225000,Bandung,Jawa,225000.0,Kecil
+928,TRX1912,2026-02-20,grace.wijaya160@mail.com,Grace Wijaya,SL18,CB08,PR01,1.0,0.2,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,280000.0,Kecil
+929,TRX1833,2026-02-22,grace.wijaya160@mail.com,Grace Wijaya,SL16,CB06,PR10,1.0,0.05,Lunas,grace.wijaya160@mail.com,TV LED 32 Inch,1850000,Medan,Sumatera,1757500.0,Sedang
+930,TRX1837,2026-02-22,GRACE.WIJAYA160@MAIL.COM, Grace  Wijaya ,SL08,CB08,PR01,1.0,0.2,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,280000.0,Kecil
+931,TRX1859,2026-02-22,dimas.hidayat125@mail.com,Dimas Hidayat,SL14,CB04,PR14,5.0,0.0,Lunas,dimas.hidayat125@mail.com,Water Heater,1650000,Surabaya,Jawa,8250000.0,Besar
+932,TRX1889,2026-02-22,Kevin.pratama175@mail.com,Kevin Pratama,SL16,CB06,PR11,1.0,0.0,Lunas,kevin.pratama175@mail.com,Kulkas 1 Pintu,2400000,Medan,Sumatera,2400000.0,Besar
+935,TRX1843,2026-02-24,grace.wijaya160@mail.com,Grace Wijaya,SL03,CB03,PR03,3.0,0.2,Lunas,grace.wijaya160@mail.com,Setrika,175000,Bandung,Jawa,420000.0,Kecil
+936,TRX1856,2026-02-24,  jessica.halim115@mail.com , Jessica  Halim ,SL11,CB01,PR02,5.0,0.1,Lunas,jessica.halim115@mail.com,Blender,280000,Jakarta Pusat,Jawa,1260000.0,Sedang
+937,TRX1878,2026-02-24,laras.kusuma64@mail.com,Laras Kusuma,SL17,CB07,PR03,3.0,0.0,Lunas,laras.kusuma64@mail.com,Setrika,175000,Palembang,Sumatera,525000.0,Sedang
+938,TRX1881,2026-02-24,grace.wijaya154@mail.com,grace wijaya,SL08,CB08,PR10,1.0,0.05,Lunas,grace.wijaya154@mail.com,TV LED 32 Inch,1850000,Denpasar,Bali & Nusa Tenggara,1757500.0,Sedang
+939,TRX1831,2026-02-25,  tiara.saputra172@mail.com ,Tiara Saputra,SL19,CB09,PR08,4.0,0.05,Lunas,tiara.saputra172@mail.com,Air Fryer,899000,Balikpapan,Kalimantan,3416200.0,Besar
+940,TRX1872,2026-02-25,Tiara.saputra76@mail.com,Tiara Saputra,SL01,CB01,PR04,2.0,0.15,Lunas,tiara.saputra76@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,382500.0,Kecil
+942,TRX1910,2026-02-25,  yoga.gunawan173@mail.com ,Yoga Gunawan,SL17,CB07,PR01,5.0,0.05,Lunas,yoga.gunawan173@mail.com,Rice Cooker,350000,Palembang,Sumatera,1662500.0,Sedang
+943,TRX1848,2026-02-26,grace.wijaya160@mail.com,Grace Wijaya,SL07,CB07,PR03,2.0,0.0,Lunas,grace.wijaya160@mail.com,Setrika,175000,Palembang,Sumatera,350000.0,Kecil
+945,TRX1854,2026-02-26,nico.hidayat87@mail.com,nico hidayat,SL12,CB02,PR06,1.0,0.1,Lunas,nico.hidayat87@mail.com,Microwave,1150000,Jakarta Selatan,Jawa,1035000.0,Sedang
+946,TRX1870,2026-02-26,kevin.wijaya152@mail.com,Kevin Wijaya,SL06,CB06,PR07,1.0,0.0,Lunas,kevin.wijaya152@mail.com,Vacuum Cleaner,1450000,Medan,Sumatera,1450000.0,Sedang
+947,TRX1884,2026-02-26,agus.wijaya192@mail.com,Agus Wijaya,SL03,CB03,PR05,1.0,0.15,Lunas,agus.wijaya192@mail.com,Dispenser,650000,Bandung,Jawa,552500.0,Sedang
+949,TRX1857,2026-02-27,elsa.nugroho48@mail.com,Elsa Nugroho,SL05,CB05,PR05,3.0,0.2,Lunas,elsa.nugroho48@mail.com,Dispenser,650000,Semarang,Jawa,1560000.0,Sedang
+950,TRX1869,2026-02-27,pandu.kusuma12@mail.com,Pandu Kusuma,SL03,CB03,PR03,3.0,0.2,Lunas,pandu.kusuma12@mail.com,Setrika,175000,Bandung,Jawa,420000.0,Kecil
+952,TRX1832,2026-02-28,jessica.nugroho54@mail.com,JESSICA NUGROHO,SL16,CB06,PR02,1.0,0.0,Lunas,jessica.nugroho54@mail.com,Blender,280000,Medan,Sumatera,280000.0,Kecil
+953,TRX1844,2026-02-28,GRACE.WIJAYA160@MAIL.COM,Grace Wijaya,SL10,CB10,PR06,1.0,0.1,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Makassar,Sulawesi,1035000.0,Sedang
+954,TRX1906,2026-02-28,olivia.halim197@mail.com,Olivia Halim,SL10,CB10,PR04,3.0,0.05,Lunas,olivia.halim197@mail.com,Kipas Angin,225000,Makassar,Sulawesi,641250.0,Sedang
+955,TRX1909,2026-02-28,tiara.siregar89@mail.com,Tiara Siregar,SL03,CB03,PR03,3.0,0.0,Lunas,tiara.siregar89@mail.com,Setrika,175000,Bandung,Jawa,525000.0,Sedang
+956,TRX1933,2026-03-01,ilham.putri82@mail.com,ilham putri,SL08,CB08,PR04,1.0,0.15,Lunas,ilham.putri82@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,191250.0,Kecil
+957,TRX1943,2026-03-01,grace.wijaya154@mail.com,Grace Wijaya,SL09,CB09,PR05,2.0,0.0,Lunas,grace.wijaya154@mail.com,Dispenser,650000,Balikpapan,Kalimantan,1300000.0,Sedang
+959,TRX1964,2026-03-01,Clara.hidayat221@mail.com,clara hidayat,SL13,CB03,PR05,3.0,0.2,Lunas,clara.hidayat221@mail.com,Dispenser,650000,Bandung,Jawa,1560000.0,Sedang
+960,TRX1967,2026-03-01,ilham.hidayat137@mail.com,ILHAM HIDAYAT,SL12,CB02,PR12,3.0,0.0,Lunas,ilham.hidayat137@mail.com,Mesin Cuci,2950000,Jakarta Selatan,Jawa,8850000.0,Besar
+961,TRX1990,2026-03-01,  grace.wijaya160@mail.com , Grace  Wijaya ,SL19,CB09,PR05,3.0,0.05,Lunas,grace.wijaya160@mail.com,Dispenser,650000,Balikpapan,Kalimantan,1852500.0,Sedang
+962,TRX1993,2026-03-02,  olivia.putri6@mail.com ,olivia putri,SL12,CB02,PR04,2.0,0.0,Lunas,olivia.putri6@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,450000.0,Kecil
+964,TRX1966,2026-03-03,yoga.kusuma80@mail.com, Yoga  Kusuma ,SL13,CB03,PR04,5.0,0.2,Lunas,yoga.kusuma80@mail.com,Kipas Angin,225000,Bandung,Jawa,900000.0,Sedang
+965,TRX1972,2026-03-03,GRACE.WIJAYA154@MAIL.COM,grace wijaya,SL08,CB08,PR06,5.0,0.15,Lunas,grace.wijaya154@mail.com,Microwave,1150000,Denpasar,Bali & Nusa Tenggara,4887500.0,Besar
+967,TRX1930,2026-03-04,satria.pratama258@mail.com,Satria Pratama,SL09,CB09,PR14,4.0,0.15,Lunas,satria.pratama258@mail.com,Water Heater,1650000,Balikpapan,Kalimantan,5610000.0,Besar
+968,TRX1944,2026-03-04,Elsa.wijaya4@mail.com,ELSA WIJAYA,SL13,CB03,PR14,5.0,0.2,Lunas,elsa.wijaya4@mail.com,Water Heater,1650000,Bandung,Jawa,6600000.0,Besar
+971,TRX1927,2026-03-05,  agus.nugroho214@mail.com ,agus nugroho,SL05,CB05,PR07,2.0,0.0,Lunas,agus.nugroho214@mail.com,Vacuum Cleaner,1450000,Semarang,Jawa,2900000.0,Besar
+972,TRX1982,2026-03-05,dimas.wijaya174@mail.com, Dimas  Wijaya ,SL15,CB05,PR01,3.0,0.15,Lunas,dimas.wijaya174@mail.com,Rice Cooker,350000,Semarang,Jawa,892500.0,Sedang
+973,TRX1924,2026-03-06,grace.wijaya160@mail.com,Grace Wijaya,SL08,CB08,PR09,1.0,0.0,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Denpasar,Bali & Nusa Tenggara,520000.0,Sedang
+974,TRX1929,2026-03-07,grace.wijaya160@mail.com, Grace  Wijaya ,SL01,CB01,PR03,2.0,0.0,Lunas,grace.wijaya160@mail.com,Setrika,175000,Jakarta Pusat,Jawa,350000.0,Kecil
+975,TRX1952,2026-03-07,yoga.kusuma80@mail.com, Yoga  Kusuma ,SL02,CB02,PR04,2.0,0.15,Lunas,yoga.kusuma80@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,382500.0,Kecil
+976,TRX1914,2026-03-08,grace.wijaya160@mail.com,Grace Wijaya,SL02,CB02,PR02,3.0,0.05,Lunas,grace.wijaya160@mail.com,Blender,280000,Jakarta Selatan,Jawa,798000.0,Sedang
+977,TRX1920,2026-03-08,NICO.PUTRI24@MAIL.COM,Nico Putri,SL15,CB05,PR06,2.0,0.0,Lunas,nico.putri24@mail.com,Microwave,1150000,Semarang,Jawa,2300000.0,Besar
+978,TRX1958,2026-03-08,yoga.gunawan173@mail.com,Yoga Gunawan,SL14,CB04,PR04,2.0,0.15,Lunas,yoga.gunawan173@mail.com,Kipas Angin,225000,Surabaya,Jawa,382500.0,Kecil
+979,TRX1963,2026-03-08,agus.putri116@mail.com,Agus Putri,SL16,CB06,PR03,1.0,0.0,Lunas,agus.putri116@mail.com,Setrika,175000,Medan,Sumatera,175000.0,Kecil
+981,TRX1983,2026-03-08,ilham.hidayat137@mail.com,Ilham Hidayat,SL09,CB09,PR03,2.0,0.0,Lunas,ilham.hidayat137@mail.com,Setrika,175000,Balikpapan,Kalimantan,350000.0,Kecil
+982,TRX1950,2026-03-09,  dimas.wijaya174@mail.com ,Dimas Wijaya,SL14,CB04,PR02,1.0,0.0,Lunas,dimas.wijaya174@mail.com,Blender,280000,Surabaya,Jawa,280000.0,Kecil
+983,TRX1979,2026-03-09,  kevin.putri79@mail.com ,Kevin Putri,SL12,CB02,PR05,3.0,0.0,Lunas,kevin.putri79@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,1950000.0,Sedang
+985,TRX1938,2026-03-10,  clara.kusuma120@mail.com ,Clara Kusuma,SL17,CB07,PR08,1.0,0.05,Lunas,clara.kusuma120@mail.com,Air Fryer,899000,Palembang,Sumatera,854050.0,Sedang
+987,TRX1970,2026-03-11,tiara.siregar89@mail.com,Tiara Siregar,SL14,CB04,PR05,1.0,0.1,Lunas,tiara.siregar89@mail.com,Dispenser,650000,Surabaya,Jawa,585000.0,Sedang
+988,TRX1995,2026-03-11,satria.putri18@mail.com,satria putri,SL12,CB02,PR14,2.0,0.1,Lunas,satria.putri18@mail.com,Water Heater,1650000,Jakarta Selatan,Jawa,2970000.0,Besar
+989,TRX1928,2026-03-12,olivia.nugroho29@mail.com, Olivia  Nugroho ,SL20,CB10,PR10,3.0,0.2,Lunas,olivia.nugroho29@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,4440000.0,Besar
+990,TRX1945,2026-03-12,  grace.putri166@mail.com ,GRACE PUTRI,SL18,CB08,PR01,2.0,0.0,Lunas,grace.putri166@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,700000.0,Sedang
+991,TRX1957,2026-03-12,grace.wijaya160@mail.com,Grace Wijaya,SL07,CB07,PR04,1.0,0.2,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Palembang,Sumatera,180000.0,Kecil
+993,TRX1987,2026-03-14,tiara.siregar89@mail.com,Tiara Siregar,SL01,CB01,PR12,2.0,0.05,Lunas,tiara.siregar89@mail.com,Mesin Cuci,2950000,Jakarta Pusat,Jawa,5605000.0,Besar
+994,TRX1925,2026-03-15,jessica.wijaya36@mail.com, Jessica  Wijaya ,SL20,CB10,PR14,1.0,0.0,Lunas,jessica.wijaya36@mail.com,Water Heater,1650000,Makassar,Sulawesi,1650000.0,Sedang
+996,TRX1956,2026-03-16,,Rani Wijaya,SL04,CB04,PR06,1.0,0.15,Lunas,,Microwave,1150000,Surabaya,Jawa,977500.0,Sedang
+997,TRX1935,2026-03-17,Clara.siregar164@mail.com,Clara Siregar,SL09,CB09,PR10,5.0,0.1,Lunas,clara.siregar164@mail.com,TV LED 32 Inch,1850000,Balikpapan,Kalimantan,8325000.0,Besar
+999,TRX1973,2026-03-17,pandu.gunawan103@mail.com,pandu gunawan,SL20,CB10,PR04,2.0,0.0,Lunas,pandu.gunawan103@mail.com,Kipas Angin,225000,Makassar,Sulawesi,450000.0,Kecil
+1000,TRX1942,2026-03-18,dimas.kusuma129@mail.com,Dimas Kusuma,SL09,CB09,PR10,5.0,0.0,Lunas,dimas.kusuma129@mail.com,TV LED 32 Inch,1850000,Balikpapan,Kalimantan,9250000.0,Besar
+1001,TRX1969,2026-03-18,laras.siregar65@mail.com, Laras  Siregar ,SL04,CB04,PR07,4.0,0.2,Lunas,laras.siregar65@mail.com,Vacuum Cleaner,1450000,Surabaya,Jawa,4640000.0,Besar
+1002,TRX1948,2026-03-19,YOGA.NUGROHO255@MAIL.COM,yoga nugroho,SL03,CB03,PR04,2.0,0.1,Lunas,yoga.nugroho255@mail.com,Kipas Angin,225000,Bandung,Jawa,405000.0,Kecil
+1004,TRX1977,2026-03-19,grace.wijaya160@mail.com,grace wijaya,SL01,CB01,PR02,4.0,0.15,Lunas,grace.wijaya160@mail.com,Blender,280000,Jakarta Pusat,Jawa,952000.0,Sedang
+1005,TRX1916,2026-03-20,  tiara.saputra172@mail.com ,Tiara Saputra,SL01,CB01,PR14,5.0,0.2,Lunas,tiara.saputra172@mail.com,Water Heater,1650000,Jakarta Pusat,Jawa,6600000.0,Besar
+1006,TRX1934,2026-03-20,SATRIA.PRATAMA17@MAIL.COM,Satria Pratama,SL08,CB08,PR06,1.0,0.0,Lunas,satria.pratama17@mail.com,Microwave,1150000,Denpasar,Bali & Nusa Tenggara,1150000.0,Sedang
+1007,TRX1961,2026-03-20,yoga.nugroho255@mail.com,Yoga Nugroho,SL12,CB02,PR01,1.0,0.1,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,315000.0,Kecil
+1008,TRX1955,2026-03-21,,Grace Wijaya,SL03,CB03,PR01,5.0,0.05,Lunas,,Rice Cooker,350000,Bandung,Jawa,1662500.0,Sedang
+1009,TRX1992,2026-03-22,,Jessica Pratama,SL19,CB09,PR09,2.0,0.15,Lunas,,Kompor Gas,520000,Balikpapan,Kalimantan,884000.0,Sedang
+1010,TRX1939,2026-03-23,clara.kusuma120@mail.com,Clara Kusuma,SL14,CB04,PR09,1.0,0.0,Lunas,clara.kusuma120@mail.com,Kompor Gas,520000,Surabaya,Jawa,520000.0,Sedang
+1011,TRX1940,2026-03-23,ilham.lestari186@mail.com,Ilham Lestari,SL05,CB05,PR07,2.0,0.0,Lunas,ilham.lestari186@mail.com,Vacuum Cleaner,1450000,Semarang,Jawa,2900000.0,Besar
+1012,TRX1959,2026-03-23,jessica.wijaya36@mail.com,Jessica Wijaya,SL14,CB04,PR02,1.0,0.0,Lunas,jessica.wijaya36@mail.com,Blender,280000,Surabaya,Jawa,280000.0,Kecil
+1013,TRX1968,2026-03-23,tiara.siregar89@mail.com,TIARA SIREGAR,SL11,CB01,PR04,1.0,0.05,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,213750.0,Kecil
+1014,TRX1918,2026-03-24,kevin.wijaya152@mail.com, Kevin  Wijaya ,SL08,CB08,PR11,5.0,0.15,Lunas,kevin.wijaya152@mail.com,Kulkas 1 Pintu,2400000,Denpasar,Bali & Nusa Tenggara,10200000.0,Besar
+1015,TRX1931,2026-03-24,  grace.wijaya160@mail.com ,GRACE WIJAYA,SL20,CB10,PR09,1.0,0.0,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Makassar,Sulawesi,520000.0,Sedang
+1017,TRX1989,2026-03-24,jessica.kusuma259@mail.com,JESSICA KUSUMA,SL05,CB05,PR01,5.0,0.0,Lunas,jessica.kusuma259@mail.com,Rice Cooker,350000,Semarang,Jawa,1750000.0,Sedang
+1018,TRX1994,2026-03-24,SATRIA.WIJAYA194@MAIL.COM,satria wijaya,SL08,CB08,PR04,1.0,0.2,Lunas,satria.wijaya194@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,180000.0,Kecil
+1020,TRX1949,2026-03-25,rani.hidayat148@mail.com,rani hidayat,SL06,CB06,PR08,2.0,0.2,Lunas,rani.hidayat148@mail.com,Air Fryer,899000,Medan,Sumatera,1438400.0,Sedang
+1021,TRX1974,2026-03-25,  nico.nugroho155@mail.com ,NICO NUGROHO,SL18,CB08,PR01,1.0,0.0,Lunas,nico.nugroho155@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,350000.0,Kecil
+1024,TRX1922,2026-03-26,YOGA.NUGROHO255@MAIL.COM,Yoga Nugroho,SL09,CB09,PR05,1.0,0.0,Lunas,yoga.nugroho255@mail.com,Dispenser,650000,Balikpapan,Kalimantan,650000.0,Sedang
+1025,TRX1932,2026-03-26,  grace.wijaya160@mail.com , Grace  Wijaya ,SL17,CB07,PR09,3.0,0.2,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Palembang,Sumatera,1248000.0,Sedang
+1026,TRX1965,2026-03-26,fikri.putri240@mail.com, Fikri  Putri ,SL06,CB06,PR04,1.0,0.15,Lunas,fikri.putri240@mail.com,Kipas Angin,225000,Medan,Sumatera,191250.0,Kecil
+1027,TRX1978,2026-03-26,grace.wijaya160@mail.com,grace wijaya,SL17,CB07,PR02,5.0,0.0,Lunas,grace.wijaya160@mail.com,Blender,280000,Palembang,Sumatera,1400000.0,Sedang
+1028,TRX1984,2026-03-26,elsa.halim181@mail.com,Elsa Halim,SL12,CB02,PR01,3.0,0.0,Lunas,elsa.halim181@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,1050000.0,Sedang
+1029,TRX1986,2026-03-26,Yoga.halim72@mail.com,Yoga Halim,SL13,CB03,PR04,2.0,0.15,Lunas,yoga.halim72@mail.com,Kipas Angin,225000,Bandung,Jawa,382500.0,Kecil
+1030,TRX1915,2026-03-27,NICO.HIDAYAT87@MAIL.COM,Nico Hidayat,SL15,CB05,PR06,4.0,0.2,Lunas,nico.hidayat87@mail.com,Microwave,1150000,Semarang,Jawa,3680000.0,Besar
+1031,TRX1960,2026-03-27,  grace.wijaya160@mail.com ,Grace Wijaya,SL11,CB01,PR04,4.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,900000.0,Sedang
+1032,TRX1947,2026-03-28,Laras.hidayat56@mail.com,LARAS HIDAYAT,SL16,CB06,PR08,3.0,0.15,Lunas,laras.hidayat56@mail.com,Air Fryer,899000,Medan,Sumatera,2292450.0,Besar
+1033,TRX1975,2026-03-28,Ilham.lestari186@mail.com,ILHAM LESTARI,SL09,CB09,PR12,2.0,0.15,Lunas,ilham.lestari186@mail.com,Mesin Cuci,2950000,Balikpapan,Kalimantan,5015000.0,Besar
+1034,TRX1962,2026-03-29,jessica.pratama226@mail.com,jessica pratama,SL07,CB07,PR06,4.0,0.05,Lunas,jessica.pratama226@mail.com,Microwave,1150000,Palembang,Sumatera,4370000.0,Besar
+1035,TRX1980,2026-03-29,grace.wijaya160@mail.com,grace wijaya,SL10,CB10,PR10,3.0,0.1,Lunas,grace.wijaya160@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,4995000.0,Besar
+1038,TRX1985,2026-03-30,  olivia.putri235@mail.com ,Olivia Putri,SL13,CB03,PR01,1.0,0.1,Lunas,olivia.putri235@mail.com,Rice Cooker,350000,Bandung,Jawa,315000.0,Kecil
+1039,TRX1991,2026-03-30,agus.putri184@mail.com,Agus Putri,SL04,CB04,PR11,2.0,0.15,Lunas,agus.putri184@mail.com,Kulkas 1 Pintu,2400000,Surabaya,Jawa,4080000.0,Besar
+1040,TRX1923,2026-03-31,  grace.wijaya160@mail.com ,GRACE WIJAYA,SL09,CB09,PR01,2.0,0.2,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,560000.0,Sedang
+1041,TRX1926,2026-03-31,,tiara siregar,SL08,CB08,PR02,1.0,0.05,Lunas,,Blender,280000,Denpasar,Bali & Nusa Tenggara,266000.0,Kecil
+1042,TRX2001,2026-04-01,pandu.kusuma12@mail.com,pandu kusuma,SL10,CB10,PR04,1.0,0.0,Lunas,pandu.kusuma12@mail.com,Kipas Angin,225000,Makassar,Sulawesi,225000.0,Kecil
+1043,TRX2017,2026-04-01,  ilham.halim109@mail.com ,ILHAM HALIM,SL10,CB10,PR04,2.0,0.05,Lunas,ilham.halim109@mail.com,Kipas Angin,225000,Makassar,Sulawesi,427500.0,Kecil
+1044,TRX2039,2026-04-01,  dimas.putri41@mail.com ,DIMAS PUTRI,SL17,CB07,PR05,1.0,0.0,Lunas,dimas.putri41@mail.com,Dispenser,650000,Palembang,Sumatera,650000.0,Sedang
+1047,TRX2072,2026-04-01,ilham.hidayat137@mail.com,ILHAM HIDAYAT,SL15,CB05,PR03,5.0,0.05,Lunas,ilham.hidayat137@mail.com,Setrika,175000,Semarang,Jawa,831250.0,Sedang
+1049,TRX2041,2026-04-02,FIKRI.WIJAYA206@MAIL.COM,fikri wijaya,SL16,CB06,PR07,5.0,0.15,Lunas,fikri.wijaya206@mail.com,Vacuum Cleaner,1450000,Medan,Sumatera,6162500.0,Besar
+1050,TRX2060,2026-04-03,Grace.siregar243@mail.com,grace siregar,SL20,CB10,PR11,1.0,0.05,Lunas,grace.siregar243@mail.com,Kulkas 1 Pintu,2400000,Makassar,Sulawesi,2280000.0,Besar
+1051,TRX2009,2026-04-04,grace.wijaya160@mail.com,Grace Wijaya,SL01,CB01,PR01,2.0,0.1,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,630000.0,Sedang
+1052,TRX2044,2026-04-04,Pandu.kusuma246@mail.com,Pandu Kusuma,SL12,CB02,PR01,1.0,0.0,Lunas,pandu.kusuma246@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,350000.0,Kecil
+1053,TRX2052,2026-04-05,  tiara.siregar89@mail.com ,Tiara Siregar,SL11,CB01,PR02,5.0,0.0,Lunas,tiara.siregar89@mail.com,Blender,280000,Jakarta Pusat,Jawa,1400000.0,Sedang
+1054,TRX2040,2026-04-06,  dimas.santoso205@mail.com ,Dimas Santoso,SL05,CB05,PR05,1.0,0.1,Lunas,dimas.santoso205@mail.com,Dispenser,650000,Semarang,Jawa,585000.0,Sedang
+1055,TRX2064,2026-04-06,grace.wijaya160@mail.com,GRACE WIJAYA,SL08,CB08,PR03,5.0,0.0,Lunas,grace.wijaya160@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,875000.0,Sedang
+1056,TRX2051,2026-04-07,bayu.nugroho3@mail.com,bayu nugroho,SL15,CB05,PR03,4.0,0.1,Lunas,bayu.nugroho3@mail.com,Setrika,175000,Semarang,Jawa,630000.0,Sedang
+1057,TRX2053,2026-04-07,  grace.putri166@mail.com ,Grace Putri,SL16,CB06,PR07,1.0,0.05,Lunas,grace.putri166@mail.com,Vacuum Cleaner,1450000,Medan,Sumatera,1377500.0,Sedang
+1059,TRX2059,2026-04-07,hana.saputra189@mail.com,Hana Saputra,SL01,CB01,PR13,5.0,0.1,Lunas,hana.saputra189@mail.com,AC 1 PK,3700000,Jakarta Pusat,Jawa,16650000.0,Besar
+1060,TRX2015,2026-04-08,grace.wijaya154@mail.com,Grace Wijaya,SL03,CB03,PR14,5.0,0.0,Lunas,grace.wijaya154@mail.com,Water Heater,1650000,Bandung,Jawa,8250000.0,Besar
+1064,TRX1998,2026-04-10,tiara.siregar89@mail.com,TIARA SIREGAR,SL17,CB07,PR11,5.0,0.0,Lunas,tiara.siregar89@mail.com,Kulkas 1 Pintu,2400000,Palembang,Sumatera,12000000.0,Besar
+1066,TRX2011,2026-04-10,  jessica.halim115@mail.com ,Jessica Halim,SL17,CB07,PR08,4.0,0.1,Lunas,jessica.halim115@mail.com,Air Fryer,899000,Palembang,Sumatera,3236400.0,Besar
+1067,TRX2042,2026-04-10,pandu.santoso130@mail.com,Pandu Santoso,SL07,CB07,PR02,4.0,0.0,Lunas,pandu.santoso130@mail.com,Blender,280000,Palembang,Sumatera,1120000.0,Sedang
+1068,TRX2035,2026-04-11,tiara.putri159@mail.com,Tiara Putri,SL06,CB06,PR14,2.0,0.1,Lunas,tiara.putri159@mail.com,Water Heater,1650000,Medan,Sumatera,2970000.0,Besar
+1069,TRX2038,2026-04-11,kevin.pratama175@mail.com,KEVIN PRATAMA,SL08,CB08,PR03,3.0,0.15,Lunas,kevin.pratama175@mail.com,Setrika,175000,Denpasar,Bali & Nusa Tenggara,446250.0,Kecil
+1070,TRX2045,2026-04-11,tiara.siregar89@mail.com,Tiara Siregar,SL05,CB05,PR08,2.0,0.0,Lunas,tiara.siregar89@mail.com,Air Fryer,899000,Semarang,Jawa,1798000.0,Sedang
+1072,TRX2002,2026-04-12,tiara.putri159@mail.com, Tiara  Putri ,SL02,CB02,PR02,5.0,0.1,Lunas,tiara.putri159@mail.com,Blender,280000,Jakarta Selatan,Jawa,1260000.0,Sedang
+1073,TRX2006,2026-04-13,  grace.wijaya160@mail.com ,Grace Wijaya,SL14,CB04,PR04,4.0,0.2,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Surabaya,Jawa,720000.0,Sedang
+1074,TRX2019,2026-04-13,grace.wijaya160@mail.com, Grace  Wijaya ,SL16,CB06,PR05,1.0,0.0,Lunas,grace.wijaya160@mail.com,Dispenser,650000,Medan,Sumatera,650000.0,Sedang
+1076,TRX2055,2026-04-13,pandu.hidayat106@mail.com,pandu hidayat,SL18,CB08,PR01,1.0,0.0,Lunas,pandu.hidayat106@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,350000.0,Kecil
+1077,TRX2067,2026-04-13,fikri.lestari71@mail.com,FIKRI LESTARI,SL06,CB06,PR11,2.0,0.2,Lunas,fikri.lestari71@mail.com,Kulkas 1 Pintu,2400000,Medan,Sumatera,3840000.0,Besar
+1079,TRX2037,2026-04-14,yoga.nugroho255@mail.com,Yoga Nugroho,SL20,CB10,PR01,2.0,0.1,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Makassar,Sulawesi,630000.0,Sedang
+1080,TRX2056,2026-04-15,yoga.gunawan173@mail.com,Yoga Gunawan,SL15,CB05,PR10,4.0,0.0,Lunas,yoga.gunawan173@mail.com,TV LED 32 Inch,1850000,Semarang,Jawa,7400000.0,Besar
+1081,TRX2014,2026-04-16,grace.wijaya160@mail.com, Grace  Wijaya ,SL05,CB05,PR15,1.0,0.0,Lunas,grace.wijaya160@mail.com,Smart TV 50 Inch,6500000,Semarang,Jawa,6500000.0,Besar
+1082,TRX2024,2026-04-17,pandu.pratama124@mail.com,Pandu Pratama,SL04,CB04,PR05,1.0,0.05,Lunas,pandu.pratama124@mail.com,Dispenser,650000,Surabaya,Jawa,617500.0,Sedang
+1083,TRX2062,2026-04-17,maya.saputra170@mail.com,Maya Saputra,SL10,CB10,PR10,4.0,0.0,Lunas,maya.saputra170@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,7400000.0,Besar
+1084,TRX2068,2026-04-17,yoga.nugroho255@mail.com,Yoga Nugroho,SL05,CB05,PR08,2.0,0.2,Lunas,yoga.nugroho255@mail.com,Air Fryer,899000,Semarang,Jawa,1438400.0,Sedang
+1085,TRX2070,2026-04-17,  ilham.putri82@mail.com ,ilham putri,SL14,CB04,PR09,5.0,0.05,Lunas,ilham.putri82@mail.com,Kompor Gas,520000,Surabaya,Jawa,2470000.0,Besar
+1087,TRX2036,2026-04-18,olivia.wijaya88@mail.com,olivia wijaya,SL19,CB09,PR02,2.0,0.2,Lunas,olivia.wijaya88@mail.com,Blender,280000,Balikpapan,Kalimantan,448000.0,Kecil
+1088,TRX2069,2026-04-18,fikri.putri240@mail.com,Fikri Putri,SL03,CB03,PR07,1.0,0.0,Lunas,fikri.putri240@mail.com,Vacuum Cleaner,1450000,Bandung,Jawa,1450000.0,Sedang
+1089,TRX2023,2026-04-19,Maya.lestari96@mail.com,Maya Lestari,SL16,CB06,PR10,1.0,0.0,Lunas,maya.lestari96@mail.com,TV LED 32 Inch,1850000,Medan,Sumatera,1850000.0,Sedang
+1090,TRX1996,2026-04-20,Jessica.halim115@mail.com,Jessica Halim,SL19,CB09,PR14,2.0,0.05,Lunas,jessica.halim115@mail.com,Water Heater,1650000,Balikpapan,Kalimantan,3135000.0,Besar
+1091,TRX2013,2026-04-20,yoga.wijaya257@mail.com,Yoga Wijaya,SL19,CB09,PR13,1.0,0.05,Lunas,yoga.wijaya257@mail.com,AC 1 PK,3700000,Balikpapan,Kalimantan,3515000.0,Besar
+1094,TRX2047,2026-04-22,pandu.hidayat106@mail.com,Pandu Hidayat,SL07,CB07,PR13,1.0,0.1,Lunas,pandu.hidayat106@mail.com,AC 1 PK,3700000,Palembang,Sumatera,3330000.0,Besar
+1095,TRX2065,2026-04-22,jessica.halim115@mail.com, Jessica  Halim ,SL19,CB09,PR14,2.0,0.2,Lunas,jessica.halim115@mail.com,Water Heater,1650000,Balikpapan,Kalimantan,2640000.0,Besar
+1096,TRX2012,2026-04-23,YOGA.KUSUMA80@MAIL.COM,Yoga Kusuma,SL20,CB10,PR10,4.0,0.2,Lunas,yoga.kusuma80@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,5920000.0,Besar
+1097,TRX2027,2026-04-23,  pandu.gunawan103@mail.com ,Pandu Gunawan,SL11,CB01,PR03,1.0,0.2,Lunas,pandu.gunawan103@mail.com,Setrika,175000,Jakarta Pusat,Jawa,140000.0,Kecil
+1098,TRX2005,2026-04-24,yoga.nugroho255@mail.com,Yoga Nugroho,SL13,CB03,PR01,1.0,0.0,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Bandung,Jawa,350000.0,Kecil
+1099,TRX2034,2026-04-24,kevin.hidayat14@mail.com,KEVIN HIDAYAT,SL12,CB02,PR07,4.0,0.0,Lunas,kevin.hidayat14@mail.com,Vacuum Cleaner,1450000,Jakarta Selatan,Jawa,5800000.0,Besar
+1100,TRX2049,2026-04-24,DIMAS.KUSUMA233@MAIL.COM,Dimas Kusuma,SL09,CB09,PR12,1.0,0.2,Lunas,dimas.kusuma233@mail.com,Mesin Cuci,2950000,Balikpapan,Kalimantan,2360000.0,Besar
+1101,TRX2003,2026-04-25,olivia.putri235@mail.com,OLIVIA PUTRI,SL20,CB10,PR10,2.0,0.0,Lunas,olivia.putri235@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,3700000.0,Besar
+1102,TRX2018,2026-04-25,  tiara.wijaya90@mail.com ,Tiara Wijaya,SL16,CB06,PR01,2.0,0.0,Lunas,tiara.wijaya90@mail.com,Rice Cooker,350000,Medan,Sumatera,700000.0,Sedang
+1103,TRX2016,2026-04-26,dimas.kusuma129@mail.com,Dimas Kusuma,SL19,CB09,PR01,4.0,0.1,Lunas,dimas.kusuma129@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,1260000.0,Sedang
+1106,TRX2050,2026-04-26,agus.putri116@mail.com,agus putri,SL14,CB04,PR07,1.0,0.15,Lunas,agus.putri116@mail.com,Vacuum Cleaner,1450000,Surabaya,Jawa,1232500.0,Sedang
+1107,TRX2029,2026-04-27,kevin.lestari165@mail.com,KEVIN LESTARI,SL16,CB06,PR02,2.0,0.0,Lunas,kevin.lestari165@mail.com,Blender,280000,Medan,Sumatera,560000.0,Sedang
+1109,TRX2010,2026-04-28,kevin.hidayat14@mail.com,KEVIN HIDAYAT,SL17,CB07,PR03,3.0,0.1,Lunas,kevin.hidayat14@mail.com,Setrika,175000,Palembang,Sumatera,472500.0,Kecil
+1110,TRX2022,2026-04-28,agus.putri116@mail.com,agus putri,SL04,CB04,PR03,4.0,0.0,Lunas,agus.putri116@mail.com,Setrika,175000,Surabaya,Jawa,700000.0,Sedang
+1111,TRX2026,2026-04-28,ILHAM.SANTOSO212@MAIL.COM,ilham santoso,SL18,CB08,PR12,1.0,0.0,Lunas,ilham.santoso212@mail.com,Mesin Cuci,2950000,Denpasar,Bali & Nusa Tenggara,2950000.0,Besar
+1112,TRX2046,2026-04-28,bayu.putri63@mail.com,bayu putri,SL13,CB03,PR08,4.0,0.0,Lunas,bayu.putri63@mail.com,Air Fryer,899000,Bandung,Jawa,3596000.0,Besar
+1115,TRX2061,2026-04-29,  ilham.lestari81@mail.com ,ilham lestari,SL06,CB06,PR06,5.0,0.0,Lunas,ilham.lestari81@mail.com,Microwave,1150000,Medan,Sumatera,5750000.0,Besar
+1116,TRX2031,2026-04-30,grace.wijaya154@mail.com,grace wijaya,SL06,CB06,PR09,4.0,0.0,Lunas,grace.wijaya154@mail.com,Kompor Gas,520000,Medan,Sumatera,2080000.0,Besar
+1117,TRX2054,2026-04-30,olivia.putri235@mail.com,olivia putri,SL07,CB07,PR07,2.0,0.1,Lunas,olivia.putri235@mail.com,Vacuum Cleaner,1450000,Palembang,Sumatera,2610000.0,Besar
+1121,TRX2128,2026-05-01,clara.kusuma120@mail.com, Clara  Kusuma ,SL12,CB02,PR03,1.0,0.0,Lunas,clara.kusuma120@mail.com,Setrika,175000,Jakarta Selatan,Jawa,175000.0,Kecil
+1125,TRX2097,2026-05-03,tiara.pratama204@mail.com,TIARA PRATAMA,SL04,CB04,PR02,3.0,0.1,Lunas,tiara.pratama204@mail.com,Blender,280000,Surabaya,Jawa,756000.0,Sedang
+1126,TRX2106,2026-05-03,fikri.putri240@mail.com,fikri putri,SL07,CB07,PR03,1.0,0.2,Lunas,fikri.putri240@mail.com,Setrika,175000,Palembang,Sumatera,140000.0,Kecil
+1128,TRX2074,2026-05-04,HANA.GUNAWAN31@MAIL.COM,Hana Gunawan,SL16,CB06,PR15,2.0,0.0,Lunas,hana.gunawan31@mail.com,Smart TV 50 Inch,6500000,Medan,Sumatera,13000000.0,Besar
+1129,TRX2148,2026-05-04,hana.gunawan31@mail.com,hana gunawan,SL17,CB07,PR08,2.0,0.15,Lunas,hana.gunawan31@mail.com,Air Fryer,899000,Palembang,Sumatera,1528300.0,Sedang
+1130,TRX2112,2026-05-05,olivia.hidayat231@mail.com, Olivia  Hidayat ,SL05,CB05,PR02,5.0,0.1,Lunas,olivia.hidayat231@mail.com,Blender,280000,Semarang,Jawa,1260000.0,Sedang
+1131,TRX2121,2026-05-05,yoga.nugroho255@mail.com,YOGA NUGROHO,SL05,CB05,PR06,2.0,0.0,Lunas,yoga.nugroho255@mail.com,Microwave,1150000,Semarang,Jawa,2300000.0,Besar
+1133,TRX2077,2026-05-06,pandu.kusuma244@mail.com,Pandu Kusuma,SL01,CB01,PR02,4.0,0.15,Lunas,pandu.kusuma244@mail.com,Blender,280000,Jakarta Pusat,Jawa,952000.0,Sedang
+1134,TRX2075,2026-05-07,  dimas.kusuma129@mail.com ,Dimas Kusuma,SL17,CB07,PR02,1.0,0.2,Lunas,dimas.kusuma129@mail.com,Blender,280000,Palembang,Sumatera,224000.0,Kecil
+1135,TRX2122,2026-05-07,elsa.wijaya4@mail.com,Elsa Wijaya,SL06,CB06,PR12,3.0,0.0,Lunas,elsa.wijaya4@mail.com,Mesin Cuci,2950000,Medan,Sumatera,8850000.0,Besar
+1137,TRX2086,2026-05-08,Grace.wijaya160@mail.com,GRACE WIJAYA,SL14,CB04,PR06,5.0,0.1,Lunas,grace.wijaya160@mail.com,Microwave,1150000,Surabaya,Jawa,5175000.0,Besar
+1138,TRX2137,2026-05-08,  pandu.putri44@mail.com ,pandu putri,SL12,CB02,PR01,2.0,0.2,Lunas,pandu.putri44@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,560000.0,Sedang
+1139,TRX2080,2026-05-09,FIKRI.SAPUTRA199@MAIL.COM,Fikri Saputra,SL08,CB08,PR04,2.0,0.0,Lunas,fikri.saputra199@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,450000.0,Kecil
+1140,TRX2115,2026-05-09,  grace.wijaya160@mail.com , Grace  Wijaya ,SL16,CB06,PR03,1.0,0.0,Lunas,grace.wijaya160@mail.com,Setrika,175000,Medan,Sumatera,175000.0,Kecil
+1141,TRX2084,2026-05-10,ilham.lestari81@mail.com,Ilham Lestari,SL12,CB02,PR04,2.0,0.0,Lunas,ilham.lestari81@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,450000.0,Kecil
+1142,TRX2094,2026-05-10,FIKRI.PUTRI240@MAIL.COM,Fikri Putri,SL05,CB05,PR12,1.0,0.1,Lunas,fikri.putri240@mail.com,Mesin Cuci,2950000,Semarang,Jawa,2655000.0,Besar
+1144,TRX2081,2026-05-11,tiara.siregar89@mail.com,Tiara Siregar,SL02,CB02,PR04,5.0,0.0,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,1125000.0,Sedang
+1145,TRX2078,2026-05-12,bayu.nugroho179@mail.com,bayu nugroho,SL09,CB09,PR07,5.0,0.0,Lunas,bayu.nugroho179@mail.com,Vacuum Cleaner,1450000,Balikpapan,Kalimantan,7250000.0,Besar
+1146,TRX2139,2026-05-12,grace.wijaya160@mail.com,Grace Wijaya,SL10,CB10,PR10,4.0,0.1,Lunas,grace.wijaya160@mail.com,TV LED 32 Inch,1850000,Makassar,Sulawesi,6660000.0,Besar
+1147,TRX2145,2026-05-12,grace.gunawan223@mail.com,Grace Gunawan,SL18,CB08,PR01,4.0,0.05,Lunas,grace.gunawan223@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,1330000.0,Sedang
+1148,TRX2109,2026-05-13,bayu.saputra43@mail.com,Bayu Saputra,SL07,CB07,PR09,1.0,0.05,Lunas,bayu.saputra43@mail.com,Kompor Gas,520000,Palembang,Sumatera,494000.0,Kecil
+1151,TRX2150,2026-05-13,olivia.putri235@mail.com,olivia putri,SL09,CB09,PR11,2.0,0.0,Lunas,olivia.putri235@mail.com,Kulkas 1 Pintu,2400000,Balikpapan,Kalimantan,4800000.0,Besar
+1153,TRX2089,2026-05-15,YOGA.KUSUMA80@MAIL.COM,Yoga Kusuma,SL19,CB09,PR02,4.0,0.05,Lunas,yoga.kusuma80@mail.com,Blender,280000,Balikpapan,Kalimantan,1064000.0,Sedang
+1154,TRX2140,2026-05-15,Grace.kusuma185@mail.com,GRACE KUSUMA,SL01,CB01,PR11,5.0,0.0,Lunas,grace.kusuma185@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,12000000.0,Besar
+1155,TRX2141,2026-05-15,clara.kusuma120@mail.com,Clara Kusuma,SL19,CB09,PR12,1.0,0.0,Lunas,clara.kusuma120@mail.com,Mesin Cuci,2950000,Balikpapan,Kalimantan,2950000.0,Besar
+1156,TRX2144,2026-05-15,olivia.saputra107@mail.com,Olivia Saputra,SL15,CB05,PR05,1.0,0.0,Lunas,olivia.saputra107@mail.com,Dispenser,650000,Semarang,Jawa,650000.0,Sedang
+1157,TRX2107,2026-05-16,fikri.putri240@mail.com,Fikri Putri,SL13,CB03,PR02,3.0,0.2,Lunas,fikri.putri240@mail.com,Blender,280000,Bandung,Jawa,672000.0,Sedang
+1159,TRX2133,2026-05-16,pandu.kusuma244@mail.com,Pandu Kusuma,SL06,CB06,PR03,1.0,0.2,Lunas,pandu.kusuma244@mail.com,Setrika,175000,Medan,Sumatera,140000.0,Kecil
+1160,TRX2135,2026-05-16,yoga.nugroho255@mail.com,Yoga Nugroho,SL18,CB08,PR02,1.0,0.0,Lunas,yoga.nugroho255@mail.com,Blender,280000,Denpasar,Bali & Nusa Tenggara,280000.0,Kecil
+1161,TRX2073,2026-05-17,  grace.wijaya160@mail.com , Grace  Wijaya ,SL14,CB04,PR13,1.0,0.15,Lunas,grace.wijaya160@mail.com,AC 1 PK,3700000,Surabaya,Jawa,3145000.0,Besar
+1163,TRX2113,2026-05-17,yoga.nugroho255@mail.com,Yoga Nugroho,SL01,CB01,PR01,1.0,0.0,Lunas,yoga.nugroho255@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,350000.0,Kecil
+1164,TRX2114,2026-05-17,grace.wijaya160@mail.com, Grace  Wijaya ,SL06,CB06,PR09,2.0,0.1,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Medan,Sumatera,936000.0,Sedang
+1166,TRX2104,2026-05-18,YOGA.KUSUMA80@MAIL.COM,Yoga Kusuma,SL02,CB02,PR09,2.0,0.05,Lunas,yoga.kusuma80@mail.com,Kompor Gas,520000,Jakarta Selatan,Jawa,988000.0,Sedang
+1167,TRX2126,2026-05-18,grace.wijaya160@mail.com,Grace Wijaya,SL14,CB04,PR13,3.0,0.05,Lunas,grace.wijaya160@mail.com,AC 1 PK,3700000,Surabaya,Jawa,10545000.0,Besar
+1168,TRX2116,2026-05-19,clara.kusuma120@mail.com, Clara  Kusuma ,SL06,CB06,PR08,1.0,0.05,Lunas,clara.kusuma120@mail.com,Air Fryer,899000,Medan,Sumatera,854050.0,Sedang
+1169,TRX2136,2026-05-19,  tiara.siregar89@mail.com ,Tiara Siregar,SL17,CB07,PR01,1.0,0.1,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Palembang,Sumatera,315000.0,Kecil
+1170,TRX2149,2026-05-19,Fikri.putri240@mail.com,fikri putri,SL13,CB03,PR02,3.0,0.1,Lunas,fikri.putri240@mail.com,Blender,280000,Bandung,Jawa,756000.0,Sedang
+1171,TRX2131,2026-05-20,grace.wijaya160@mail.com,Grace Wijaya,SL04,CB04,PR02,1.0,0.05,Lunas,grace.wijaya160@mail.com,Blender,280000,Surabaya,Jawa,266000.0,Kecil
+1172,TRX2134,2026-05-20,grace.wijaya160@mail.com,grace wijaya,SL07,CB07,PR02,2.0,0.2,Lunas,grace.wijaya160@mail.com,Blender,280000,Palembang,Sumatera,448000.0,Kecil
+1173,TRX2099,2026-05-21,clara.siregar78@mail.com,clara siregar,SL01,CB01,PR04,1.0,0.15,Lunas,clara.siregar78@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,191250.0,Kecil
+1174,TRX2100,2026-05-21,tiara.siregar89@mail.com,Tiara Siregar,SL07,CB07,PR04,4.0,0.0,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Palembang,Sumatera,900000.0,Sedang
+1175,TRX2117,2026-05-21,grace.wijaya154@mail.com,Grace Wijaya,SL11,CB01,PR09,2.0,0.05,Lunas,grace.wijaya154@mail.com,Kompor Gas,520000,Jakarta Pusat,Jawa,988000.0,Sedang
+1177,TRX2102,2026-05-23,pandu.gunawan103@mail.com, Pandu  Gunawan ,SL01,CB01,PR09,3.0,0.0,Lunas,pandu.gunawan103@mail.com,Kompor Gas,520000,Jakarta Pusat,Jawa,1560000.0,Sedang
+1178,TRX2076,2026-05-24,pandu.kusuma12@mail.com,Pandu Kusuma,SL18,CB08,PR11,2.0,0.0,Lunas,pandu.kusuma12@mail.com,Kulkas 1 Pintu,2400000,Denpasar,Bali & Nusa Tenggara,4800000.0,Besar
+1179,TRX2091,2026-05-24,  yoga.nugroho255@mail.com ,yoga nugroho,SL12,CB02,PR07,3.0,0.1,Lunas,yoga.nugroho255@mail.com,Vacuum Cleaner,1450000,Jakarta Selatan,Jawa,3915000.0,Besar
+1180,TRX2147,2026-05-24,  yoga.kusuma80@mail.com ,Yoga Kusuma,SL17,CB07,PR03,1.0,0.2,Lunas,yoga.kusuma80@mail.com,Setrika,175000,Palembang,Sumatera,140000.0,Kecil
+1181,TRX2092,2026-05-25,clara.kusuma120@mail.com,CLARA KUSUMA,SL14,CB04,PR03,1.0,0.15,Lunas,clara.kusuma120@mail.com,Setrika,175000,Surabaya,Jawa,148750.0,Kecil
+1182,TRX2093,2026-05-25,ilham.nugroho60@mail.com,Ilham Nugroho,SL12,CB02,PR02,1.0,0.1,Lunas,ilham.nugroho60@mail.com,Blender,280000,Jakarta Selatan,Jawa,252000.0,Kecil
+1183,TRX2096,2026-05-25,LARAS.KUSUMA64@MAIL.COM, Laras  Kusuma ,SL13,CB03,PR04,1.0,0.0,Lunas,laras.kusuma64@mail.com,Kipas Angin,225000,Bandung,Jawa,225000.0,Kecil
+1185,TRX2132,2026-05-25,agus.wijaya192@mail.com,AGUS WIJAYA,SL20,CB10,PR07,1.0,0.0,Lunas,agus.wijaya192@mail.com,Vacuum Cleaner,1450000,Makassar,Sulawesi,1450000.0,Sedang
+1187,TRX2105,2026-05-26,YOGA.NUGROHO255@MAIL.COM,YOGA NUGROHO,SL15,CB05,PR03,5.0,0.2,Lunas,yoga.nugroho255@mail.com,Setrika,175000,Semarang,Jawa,700000.0,Sedang
+1188,TRX2111,2026-05-26,rani.wijaya229@mail.com,Rani Wijaya,SL13,CB03,PR02,2.0,0.05,Lunas,rani.wijaya229@mail.com,Blender,280000,Bandung,Jawa,532000.0,Sedang
+1189,TRX2103,2026-05-27,CLARA.KUSUMA120@MAIL.COM,CLARA KUSUMA,SL15,CB05,PR03,5.0,0.1,Lunas,clara.kusuma120@mail.com,Setrika,175000,Semarang,Jawa,787500.0,Sedang
+1190,TRX2138,2026-05-27,yoga.nugroho255@mail.com,Yoga Nugroho,SL02,CB02,PR05,5.0,0.0,Lunas,yoga.nugroho255@mail.com,Dispenser,650000,Jakarta Selatan,Jawa,3250000.0,Besar
+1191,TRX2146,2026-05-27,  clara.kusuma120@mail.com ,Clara Kusuma,SL19,CB09,PR01,2.0,0.05,Lunas,clara.kusuma120@mail.com,Rice Cooker,350000,Balikpapan,Kalimantan,665000.0,Sedang
+1192,TRX2082,2026-05-28,yoga.putri200@mail.com,Yoga Putri,SL08,CB08,PR06,2.0,0.0,Lunas,yoga.putri200@mail.com,Microwave,1150000,Denpasar,Bali & Nusa Tenggara,2300000.0,Besar
+1193,TRX2095,2026-05-28,clara.hidayat110@mail.com, Clara  Hidayat ,SL08,CB08,PR14,1.0,0.0,Lunas,clara.hidayat110@mail.com,Water Heater,1650000,Denpasar,Bali & Nusa Tenggara,1650000.0,Sedang
+1194,TRX2120,2026-05-29,JESSICA.SANTOSO242@MAIL.COM,JESSICA SANTOSO,SL10,CB10,PR04,1.0,0.15,Lunas,jessica.santoso242@mail.com,Kipas Angin,225000,Makassar,Sulawesi,191250.0,Kecil
+1196,TRX2142,2026-05-30,jessica.santoso242@mail.com,Jessica Santoso,SL10,CB10,PR04,3.0,0.15,Lunas,jessica.santoso242@mail.com,Kipas Angin,225000,Makassar,Sulawesi,573750.0,Sedang
+1197,TRX2088,2026-05-31,grace.wijaya160@mail.com,Grace Wijaya,SL08,CB08,PR01,1.0,0.15,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,297500.0,Kecil
+1198,TRX2090,2026-05-31,Tiara.siregar89@mail.com,Tiara Siregar,SL02,CB02,PR04,1.0,0.0,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,225000.0,Kecil
+1199,TRX2162,2026-06-01,DIMAS.WIJAYA174@MAIL.COM,Dimas Wijaya,SL01,CB01,PR01,1.0,0.0,Lunas,dimas.wijaya174@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,350000.0,Kecil
+1200,TRX2176,2026-06-01,Grace.wijaya160@mail.com,Grace Wijaya,SL15,CB05,PR14,2.0,0.2,Lunas,grace.wijaya160@mail.com,Water Heater,1650000,Semarang,Jawa,2640000.0,Besar
+1201,TRX2209,2026-06-01,tiara.siregar89@mail.com,Tiara Siregar,SL13,CB03,PR03,3.0,0.0,Lunas,tiara.siregar89@mail.com,Setrika,175000,Bandung,Jawa,525000.0,Sedang
+1203,TRX2159,2026-06-02,ELSA.WIJAYA4@MAIL.COM, Elsa  Wijaya ,SL14,CB04,PR10,2.0,0.1,Lunas,elsa.wijaya4@mail.com,TV LED 32 Inch,1850000,Surabaya,Jawa,3330000.0,Besar
+1204,TRX2161,2026-06-02,jessica.nugroho54@mail.com,jessica nugroho,SL16,CB06,PR01,1.0,0.0,Lunas,jessica.nugroho54@mail.com,Rice Cooker,350000,Medan,Sumatera,350000.0,Kecil
+1206,TRX2185,2026-06-02,jessica.pratama226@mail.com,Jessica Pratama,SL03,CB03,PR02,1.0,0.1,Lunas,jessica.pratama226@mail.com,Blender,280000,Bandung,Jawa,252000.0,Kecil
+1207,TRX2223,2026-06-02,yoga.kusuma80@mail.com,YOGA KUSUMA,SL20,CB10,PR01,1.0,0.1,Lunas,yoga.kusuma80@mail.com,Rice Cooker,350000,Makassar,Sulawesi,315000.0,Kecil
+1211,TRX2164,2026-06-04,pandu.hidayat106@mail.com, Pandu  Hidayat ,SL02,CB02,PR04,1.0,0.0,Lunas,pandu.hidayat106@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,225000.0,Kecil
+1212,TRX2170,2026-06-04,pandu.santoso35@mail.com,Pandu Santoso,SL13,CB03,PR14,3.0,0.05,Lunas,pandu.santoso35@mail.com,Water Heater,1650000,Bandung,Jawa,4702500.0,Besar
+1213,TRX2201,2026-06-04,  kevin.hidayat14@mail.com ,kevin hidayat,SL02,CB02,PR12,4.0,0.0,Lunas,kevin.hidayat14@mail.com,Mesin Cuci,2950000,Jakarta Selatan,Jawa,11800000.0,Besar
+1214,TRX2202,2026-06-04,fikri.putri240@mail.com,Fikri Putri,SL04,CB04,PR05,3.0,0.15,Lunas,fikri.putri240@mail.com,Dispenser,650000,Surabaya,Jawa,1657500.0,Sedang
+1215,TRX2213,2026-06-04,GRACE.WIJAYA160@MAIL.COM,Grace Wijaya,SL17,CB07,PR09,2.0,0.1,Lunas,grace.wijaya160@mail.com,Kompor Gas,520000,Palembang,Sumatera,936000.0,Sedang
+1218,TRX2233,2026-06-04,bayu.saputra43@mail.com,Bayu Saputra,SL14,CB04,PR09,1.0,0.0,Lunas,bayu.saputra43@mail.com,Kompor Gas,520000,Surabaya,Jawa,520000.0,Sedang
+1219,TRX2244,2026-06-04,CLARA.KUSUMA120@MAIL.COM,clara kusuma,SL04,CB04,PR08,2.0,0.2,Lunas,clara.kusuma120@mail.com,Air Fryer,899000,Surabaya,Jawa,1438400.0,Sedang
+1220,TRX2245,2026-06-04,fikri.putri240@mail.com, Fikri  Putri ,SL17,CB07,PR01,1.0,0.1,Lunas,fikri.putri240@mail.com,Rice Cooker,350000,Palembang,Sumatera,315000.0,Kecil
+1221,TRX2174,2026-06-05,  grace.wijaya160@mail.com ,grace wijaya,SL17,CB07,PR04,1.0,0.0,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Palembang,Sumatera,225000.0,Kecil
+1222,TRX2186,2026-06-05,DIMAS.GUNAWAN11@MAIL.COM,Dimas Gunawan,SL13,CB03,PR02,4.0,0.05,Lunas,dimas.gunawan11@mail.com,Blender,280000,Bandung,Jawa,1064000.0,Sedang
+1223,TRX2225,2026-06-05,dimas.kusuma129@mail.com,DIMAS KUSUMA,SL14,CB04,PR03,4.0,0.0,Lunas,dimas.kusuma129@mail.com,Setrika,175000,Surabaya,Jawa,700000.0,Sedang
+1225,TRX2181,2026-06-06,HANA.KUSUMA196@MAIL.COM,hana kusuma,SL08,CB08,PR04,3.0,0.2,Lunas,hana.kusuma196@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,540000.0,Sedang
+1227,TRX2242,2026-06-06,satria.putri213@mail.com,Satria Putri,SL13,CB03,PR03,1.0,0.0,Lunas,satria.putri213@mail.com,Setrika,175000,Bandung,Jawa,175000.0,Kecil
+1228,TRX2243,2026-06-06,yoga.halim72@mail.com,Yoga Halim,SL04,CB04,PR01,5.0,0.05,Lunas,yoga.halim72@mail.com,Rice Cooker,350000,Surabaya,Jawa,1662500.0,Sedang
+1229,TRX2152,2026-06-07,jessica.pratama27@mail.com,JESSICA PRATAMA,SL12,CB02,PR04,2.0,0.0,Lunas,jessica.pratama27@mail.com,Kipas Angin,225000,Jakarta Selatan,Jawa,450000.0,Kecil
+1233,TRX2192,2026-06-08,Yoga.siregar132@mail.com, Yoga  Siregar ,SL12,CB02,PR14,4.0,0.15,Lunas,yoga.siregar132@mail.com,Water Heater,1650000,Jakarta Selatan,Jawa,5610000.0,Besar
+1234,TRX2236,2026-06-08,satria.saputra47@mail.com,Satria Saputra,SL01,CB01,PR04,3.0,0.0,Lunas,satria.saputra47@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,675000.0,Sedang
+1235,TRX2241,2026-06-08,kevin.saputra224@mail.com,Kevin Saputra,SL09,CB09,PR09,3.0,0.0,Lunas,kevin.saputra224@mail.com,Kompor Gas,520000,Balikpapan,Kalimantan,1560000.0,Sedang
+1236,TRX2160,2026-06-09,Ilham.putri45@mail.com, Ilham  Putri ,SL08,CB08,PR06,1.0,0.05,Lunas,ilham.putri45@mail.com,Microwave,1150000,Denpasar,Bali & Nusa Tenggara,1092500.0,Sedang
+1237,TRX2165,2026-06-09,ilham.lestari186@mail.com,Ilham Lestari,SL14,CB04,PR06,1.0,0.15,Lunas,ilham.lestari186@mail.com,Microwave,1150000,Surabaya,Jawa,977500.0,Sedang
+1238,TRX2168,2026-06-09,  grace.pratama84@mail.com ,Grace Pratama,SL03,CB03,PR02,2.0,0.0,Lunas,grace.pratama84@mail.com,Blender,280000,Bandung,Jawa,560000.0,Sedang
+1240,TRX2182,2026-06-09,  rani.pratama74@mail.com ,RANI PRATAMA,SL01,CB01,PR14,2.0,0.2,Lunas,rani.pratama74@mail.com,Water Heater,1650000,Jakarta Pusat,Jawa,2640000.0,Besar
+1241,TRX2190,2026-06-09,ilham.gunawan142@mail.com,ILHAM GUNAWAN,SL03,CB03,PR04,3.0,0.1,Lunas,ilham.gunawan142@mail.com,Kipas Angin,225000,Bandung,Jawa,607500.0,Sedang
+1242,TRX2212,2026-06-09,grace.wijaya160@mail.com,GRACE WIJAYA,SL05,CB05,PR07,3.0,0.0,Lunas,grace.wijaya160@mail.com,Vacuum Cleaner,1450000,Semarang,Jawa,4350000.0,Besar
+1244,TRX2218,2026-06-10,dimas.kusuma129@mail.com, Dimas  Kusuma ,SL03,CB03,PR04,3.0,0.15,Lunas,dimas.kusuma129@mail.com,Kipas Angin,225000,Bandung,Jawa,573750.0,Sedang
+1245,TRX2180,2026-06-11,yoga.halim72@mail.com,Yoga Halim,SL14,CB04,PR07,3.0,0.0,Lunas,yoga.halim72@mail.com,Vacuum Cleaner,1450000,Surabaya,Jawa,4350000.0,Besar
+1246,TRX2239,2026-06-11,Yoga.kusuma80@mail.com, Yoga  Kusuma ,SL10,CB10,PR12,2.0,0.05,Lunas,yoga.kusuma80@mail.com,Mesin Cuci,2950000,Makassar,Sulawesi,5605000.0,Besar
+1247,TRX2179,2026-06-12,grace.wijaya160@mail.com,grace wijaya,SL04,CB04,PR01,3.0,0.05,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Surabaya,Jawa,997500.0,Sedang
+1248,TRX2226,2026-06-12,grace.wijaya160@mail.com,grace wijaya,SL08,CB08,PR04,5.0,0.05,Lunas,grace.wijaya160@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,1068750.0,Sedang
+1249,TRX2183,2026-06-13,satria.putri213@mail.com,satria putri,SL08,CB08,PR01,4.0,0.1,Lunas,satria.putri213@mail.com,Rice Cooker,350000,Denpasar,Bali & Nusa Tenggara,1260000.0,Sedang
+1250,TRX2219,2026-06-13,bayu.kusuma121@mail.com,Bayu Kusuma,SL05,CB05,PR02,4.0,0.15,Lunas,bayu.kusuma121@mail.com,Blender,280000,Semarang,Jawa,952000.0,Sedang
+1253,TRX2203,2026-06-15,ilham.hidayat137@mail.com,ilham hidayat,SL11,CB01,PR01,4.0,0.0,Lunas,ilham.hidayat137@mail.com,Rice Cooker,350000,Jakarta Pusat,Jawa,1400000.0,Sedang
+1254,TRX2229,2026-06-15,ilham.lestari186@mail.com,Ilham Lestari,SL03,CB03,PR07,2.0,0.15,Lunas,ilham.lestari186@mail.com,Vacuum Cleaner,1450000,Bandung,Jawa,2465000.0,Besar
+1256,TRX2178,2026-06-16,yoga.gunawan177@mail.com,yoga gunawan,SL01,CB01,PR02,3.0,0.2,Lunas,yoga.gunawan177@mail.com,Blender,280000,Jakarta Pusat,Jawa,672000.0,Sedang
+1257,TRX2193,2026-06-16,satria.siregar62@mail.com,SATRIA SIREGAR,SL07,CB07,PR10,4.0,0.2,Lunas,satria.siregar62@mail.com,TV LED 32 Inch,1850000,Palembang,Sumatera,5920000.0,Besar
+1260,TRX2167,2026-06-17,bayu.putri193@mail.com,Bayu Putri,SL01,CB01,PR09,2.0,0.05,Lunas,bayu.putri193@mail.com,Kompor Gas,520000,Jakarta Pusat,Jawa,988000.0,Sedang
+1261,TRX2237,2026-06-17,Ilham.hidayat137@mail.com,Ilham Hidayat,SL09,CB09,PR03,2.0,0.0,Lunas,ilham.hidayat137@mail.com,Setrika,175000,Balikpapan,Kalimantan,350000.0,Kecil
+1262,TRX2215,2026-06-18,tiara.siregar89@mail.com,Tiara Siregar,SL20,CB10,PR06,1.0,0.15,Lunas,tiara.siregar89@mail.com,Microwave,1150000,Makassar,Sulawesi,977500.0,Sedang
+1263,TRX2155,2026-06-20,bayu.hidayat34@mail.com,Bayu Hidayat,SL14,CB04,PR05,3.0,0.05,Lunas,bayu.hidayat34@mail.com,Dispenser,650000,Surabaya,Jawa,1852500.0,Sedang
+1264,TRX2169,2026-06-20,tiara.siregar89@mail.com,Tiara Siregar,SL14,CB04,PR04,2.0,0.15,Lunas,tiara.siregar89@mail.com,Kipas Angin,225000,Surabaya,Jawa,382500.0,Kecil
+1265,TRX2194,2026-06-20,FIKRI.PUTRI240@MAIL.COM,Fikri Putri,SL04,CB04,PR01,4.0,0.0,Lunas,fikri.putri240@mail.com,Rice Cooker,350000,Surabaya,Jawa,1400000.0,Sedang
+1266,TRX2230,2026-06-20,KEVIN.WIJAYA152@MAIL.COM,Kevin Wijaya,SL19,CB09,PR05,1.0,0.0,Lunas,kevin.wijaya152@mail.com,Dispenser,650000,Balikpapan,Kalimantan,650000.0,Sedang
+1267,TRX2157,2026-06-21,agus.wijaya192@mail.com,Agus Wijaya,SL02,CB02,PR02,2.0,0.0,Lunas,agus.wijaya192@mail.com,Blender,280000,Jakarta Selatan,Jawa,560000.0,Sedang
+1268,TRX2196,2026-06-21,yoga.nugroho255@mail.com,Yoga Nugroho,SL17,CB07,PR04,2.0,0.05,Lunas,yoga.nugroho255@mail.com,Kipas Angin,225000,Palembang,Sumatera,427500.0,Kecil
+1270,TRX2227,2026-06-21,yoga.halim72@mail.com,Yoga Halim,SL12,CB02,PR01,1.0,0.0,Lunas,yoga.halim72@mail.com,Rice Cooker,350000,Jakarta Selatan,Jawa,350000.0,Kecil
+1272,TRX2189,2026-06-22,tiara.halim245@mail.com, Tiara  Halim ,SL01,CB01,PR04,3.0,0.0,Lunas,tiara.halim245@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,675000.0,Sedang
+1273,TRX2198,2026-06-22,jessica.hidayat92@mail.com, Jessica  Hidayat ,SL10,CB10,PR06,5.0,0.2,Lunas,jessica.hidayat92@mail.com,Microwave,1150000,Makassar,Sulawesi,4600000.0,Besar
+1274,TRX2184,2026-06-23,GRACE.WIJAYA160@MAIL.COM,Grace Wijaya,SL01,CB01,PR11,2.0,0.05,Lunas,grace.wijaya160@mail.com,Kulkas 1 Pintu,2400000,Jakarta Pusat,Jawa,4560000.0,Besar
+1275,TRX2199,2026-06-23,tiara.siregar89@mail.com,Tiara Siregar,SL16,CB06,PR01,1.0,0.0,Lunas,tiara.siregar89@mail.com,Rice Cooker,350000,Medan,Sumatera,350000.0,Kecil
+1276,TRX2158,2026-06-24,jessica.nugroho54@mail.com,Jessica Nugroho,SL12,CB02,PR03,1.0,0.0,Lunas,jessica.nugroho54@mail.com,Setrika,175000,Jakarta Selatan,Jawa,175000.0,Kecil
+1279,TRX2214,2026-06-24,MAYA.LESTARI96@MAIL.COM,MAYA LESTARI,SL17,CB07,PR04,5.0,0.05,Lunas,maya.lestari96@mail.com,Kipas Angin,225000,Palembang,Sumatera,1068750.0,Sedang
+1280,TRX2220,2026-06-24,fikri.hidayat252@mail.com,Fikri Hidayat,SL18,CB08,PR04,3.0,0.2,Lunas,fikri.hidayat252@mail.com,Kipas Angin,225000,Denpasar,Bali & Nusa Tenggara,540000.0,Sedang
+1283,TRX2246,2026-06-24,elsa.wijaya4@mail.com,ELSA WIJAYA,SL02,CB02,PR11,5.0,0.05,Lunas,elsa.wijaya4@mail.com,Kulkas 1 Pintu,2400000,Jakarta Selatan,Jawa,11400000.0,Besar
+1284,TRX2206,2026-06-25,dimas.gunawan136@mail.com,Dimas Gunawan,SL17,CB07,PR06,5.0,0.15,Lunas,dimas.gunawan136@mail.com,Microwave,1150000,Palembang,Sumatera,4887500.0,Besar
+1285,TRX2173,2026-06-26,rani.wijaya229@mail.com,Rani Wijaya,SL04,CB04,PR03,3.0,0.05,Lunas,rani.wijaya229@mail.com,Setrika,175000,Surabaya,Jawa,498750.0,Kecil
+1286,TRX2208,2026-06-27,GRACE.WIJAYA160@MAIL.COM,grace wijaya,SL17,CB07,PR01,3.0,0.0,Lunas,grace.wijaya160@mail.com,Rice Cooker,350000,Palembang,Sumatera,1050000.0,Sedang
+1288,TRX2191,2026-06-28,yoga.saputra220@mail.com,yoga saputra,SL11,CB01,PR04,1.0,0.15,Lunas,yoga.saputra220@mail.com,Kipas Angin,225000,Jakarta Pusat,Jawa,191250.0,Kecil
+1290,TRX2195,2026-06-28,  nico.putri24@mail.com ,NICO PUTRI,SL17,CB07,PR05,1.0,0.15,Lunas,nico.putri24@mail.com,Dispenser,650000,Palembang,Sumatera,552500.0,Sedang
+1291,TRX2232,2026-06-28,grace.wijaya160@mail.com,Grace Wijaya,SL14,CB04,PR03,4.0,0.0,Lunas,grace.wijaya160@mail.com,Setrika,175000,Surabaya,Jawa,700000.0,Sedang
+1292,TRX2153,2026-06-29,Dimas.lestari93@mail.com,DIMAS LESTARI,SL04,CB04,PR15,1.0,0.0,Lunas,dimas.lestari93@mail.com,Smart TV 50 Inch,6500000,Surabaya,Jawa,6500000.0,Besar
+1293,TRX2188,2026-06-29,  tiara.siregar89@mail.com ,Tiara Siregar,SL11,CB01,PR02,1.0,0.0,Lunas,tiara.siregar89@mail.com,Blender,280000,Jakarta Pusat,Jawa,280000.0,Kecil
+1294,TRX2156,2026-06-30,pandu.gunawan103@mail.com,Pandu Gunawan,SL10,CB10,PR02,1.0,0.0,Lunas,pandu.gunawan103@mail.com,Blender,280000,Makassar,Sulawesi,280000.0,Kecil
+1295,TRX2197,2026-06-30,pandu.nugroho86@mail.com, Pandu  Nugroho ,SL08,CB08,PR08,1.0,0.0,Lunas,pandu.nugroho86@mail.com,Air Fryer,899000,Denpasar,Bali & Nusa Tenggara,899000.0,Sedang
+1296,TRX2217,2026-06-30,tiara.siregar89@mail.com,Tiara Siregar,SL07,CB07,PR05,5.0,0.05,Lunas,tiara.siregar89@mail.com,Dispenser,650000,Palembang,Sumatera,3087500.0,Besar
